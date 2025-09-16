@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[SOC Goulash]]></title>
+		<description><![CDATA[Named after a colleague misheard me talking about SocGholish, presumably thinking I'd made some SOC-specific stew recipe. It was hilarious - you had to be there. 
+
+What this really is, is Threat Intelligence for the Defenders - SOC, Vulnerability Governance, Incident Response and Threat Intel. 
+
+This podcast and its sister newsletter aims to provide a tailored snapshot of the threats and tradecraft you need to be across to enable your day-to-day. 
+
+No marketing, no fluff - let's talk shop.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/joniam</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 16 Sep 2025 02:29:19 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/103464034/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Opalsec]]></author>
+		<copyright><![CDATA[Opalsec]]></copyright>
+		<language><![CDATA[en-au]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Opalsec</itunes:author>
+		<itunes:summary>Named after a colleague misheard me talking about SocGholish, presumably thinking I&apos;d made some SOC-specific stew recipe. It was hilarious - you had to be there. 
+
+What this really is, is Threat Intelligence for the Defenders - SOC, Vulnerability Governance, Incident Response and Threat Intel. 
+
+This podcast and its sister newsletter aims to provide a tailored snapshot of the threats and tradecraft you need to be across to enable your day-to-day. 
+
+No marketing, no fluff - let&apos;s talk shop.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Opalsec</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="News">
+			<itunes:category text="Tech News"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43399029/43399029-1743734205509-fd9900205d632.jpg"/>
+		<item>
+			<title><![CDATA[Daily News Update: Tuesday, September 12, 2025]]></title>
+			<description><![CDATA[<p>Join us on SOC Goulash as we unpick the latest in cyber security, from the surge in Akira ransomware and critical zero-days in Android and AI tools, to the alarming release of a notorious healthcare hacker. We delve into cutting-edge threat intelligence, discuss how misconfigurations and insider risks continue to bite, and even uncover a quirky IoT jailbreak. Tune in for essential insights tailored for cyber security analysts, keeping you across the evolving threat landscape.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/joniam/episodes/Daily-News-Update-Tuesday--September-12--2025-e389dbv</link>
+			<guid isPermaLink="false">cb1b9f5c-e647-43f7-8726-e67b7fc6c181</guid>
+			<dc:creator><![CDATA[Opalsec]]></dc:creator>
+			<pubDate>Tue, 16 Sep 2025 02:27:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/103464034/podcast/play/108360511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-16%2Fb6e450f1-1ed2-8605-9fea-834ef79c7191.mp3" length="7862733" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Join us on SOC Goulash as we unpick the latest in cyber security, from the surge in Akira ransomware and critical zero-days in Android and AI tools, to the alarming release of a notorious healthcare hacker. We delve into cutting-edge threat intelligence, discuss how misconfigurations and insider risks continue to bite, and even uncover a quirky IoT jailbreak. Tune in for essential insights tailored for cyber security analysts, keeping you across the evolving threat landscape.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43399029/43399029-1743734205509-fd9900205d632.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
