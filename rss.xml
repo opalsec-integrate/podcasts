@@ -31,34 +31,18 @@
       <guid isPermaLink="false">1758177075763</guid>
     </item>
 <item>
-      <title>Daily News Update: Thursday, September 18, 2025</title>
+      <title>Daily News Update: Tuesday, September 16, 2025</title>
       <description><![CDATA[stdout unpacks the last 24 hours in cyber security. We dive into the FBI's FLASH alert on UNC6040/UNC6395 (ShinyHunters/Scattered Spider) compromising Salesforce via vishing and OAuth token exploits, alongside ongoing disruption at Jaguar Land Rover and a ransomware attack forcing a Texas school district closure. Discover how Akira ransomware bypassed MFA in a SonicWall VPN breach using plaintext recovery codes, and the largest npm supply chain compromise to date, impacting billions of downloads after a maintainer was phished. We also cover new SEO poisoning campaigns distributing novel malware, Mustang Panda's updated TONESHELL and geofenced SnakeDisk worm, and Kimsuky spies leveraging ChatGPT for fake IDs. Plus, a new Rowhammer attack variant, "Phoenix," bypasses DDR5 defences to achieve root privileges, and Microsoft warns about SMBv1 connection issues. Stay informed on these critical developments.]]></description>
       <pubDate>Thu, 18 Sep 2025 06:03:09 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1oMEIaRwMA553EYRQUweD9Yk_FCWlstCk" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758175389469</guid>
     </item>
 <item>
-      <title>Daily News Update: Thursday, September 16, 2025</title>
+      <title>Daily News Update: Wednesday, September 17, 2025</title>
       <description><![CDATA[stdout unpacks the latest in cyber security: Jaguar Land Rover's operations remain suspended following a 'Scattered Lapsus$ Hunters' attack, with the group also creating a fraudulent account in Google's LERS portal. We detail 'Shai-Hulud,' a self-propagating npm worm actively stealing credentials, and the 'FileFix' social engineering technique delivering the StealC infostealer via fake Facebook alerts and steganography. Explore the massive 'SlopAds' ad fraud operation exploiting Android apps, plus the new 'Phoenix' RowHammer variant bypassing DDR5 memory protections. Apple has backported patches for an actively exploited Image I/O zero-day. Also, China's stricter incident reporting mandates, Microsoft's removal of WMIC, and Check Point's acquisition of AI security platform Lakera.]]></description>
       <pubDate>Thu, 18 Sep 2025 04:58:46 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1Ycw0BHzmaCvuT0Ce0tLUJErkxyOqJBPR" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758171526797</guid>
-    </item>
-    <item>
-      <title>Daily News Update: Monday, September 15, 2025</title>
-      <description><![CDATA[<p>This episode, we unpack FBI FLASH alerts on ShinyHunters and Scattered Spider&#39;s Salesforce compromises, a significant npm supply chain attack, and ransomware disrupting schools. </p><p>Discover new research uncovering sophisticated SEO poisoning campaigns, Mustang Panda&#39;s updated backdoors and a new USB worm, plus Kimsuky&#39;s misuse of ChatGPT for phishing. </p><p>We break down the Phoenix Rowhammer attack bypassing DDR5 protections, Microsoft&#39;s SMBv1 connection issues, and critical Exchange Server end-of-support warnings. </p><p>Also, expert scepticism over ransomware gangs &quot;going dark,&quot; the risks of AI-powered pentesting tools, and New Zealand&#39;s sanctions against Russia&#39;s GRU.</p>
-]]></description>
-      <pubDate>Thu, 18 Sep 2025 04:08:26 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/109797ef8/podcast/play/108465910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F21bf89f2-706d-baf7-8c7b-6132ed0d0231.mp3" length="4373613" type="audio/mpeg"/>
-      <guid isPermaLink="false">cbd4e3cf-2764-4069-8fcc-89e24934fd70</guid>
-      <link>https://podcasters.spotify.com/pod/show/opalsec/episodes/Daily-News-Update-Monday--September-15--2025-e38ck9m</link>
-      <dc:creator>Opalsec</dc:creator>
-      <itunes:summary><![CDATA[<p>This episode, we unpack FBI FLASH alerts on ShinyHunters and Scattered Spider&#39;s Salesforce compromises, a significant npm supply chain attack, and ransomware disrupting schools. </p><p>Discover new research uncovering sophisticated SEO poisoning campaigns, Mustang Panda&#39;s updated backdoors and a new USB worm, plus Kimsuky&#39;s misuse of ChatGPT for phishing. </p><p>We break down the Phoenix Rowhammer attack bypassing DDR5 protections, Microsoft&#39;s SMBv1 connection issues, and critical Exchange Server end-of-support warnings. </p><p>Also, expert scepticism over ransomware gangs &quot;going dark,&quot; the risks of AI-powered pentesting tools, and New Zealand&#39;s sanctions against Russia&#39;s GRU.</p>
-]]></itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:06:04</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
     </item>
   </channel>
 </rss>
