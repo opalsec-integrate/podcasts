@@ -23,7 +23,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-        <item>
+            <item>
+      <title>Daily News Update: Thursday, September 18, 2025</title>
+      <description><![CDATA[stdout delivers your daily intel. Today, we unpack the ongoing fallout from the Colt Technology Services and Jaguar Land Rover ransomware attacks, a brute-force breach impacting SonicWall's MySonicWall.com, and a sophisticated ransomware incident at Insight Partners. New threat research highlights Microsoft and Cloudflare's takedown of the RaccoonO365 Phishing-as-a-Service, the resurgence of Scattered Spider targeting the financial sector via social engineering and Azure AD SSPR, and how groups like Kimsuky and RevengeHotels are leveraging AI for deepfakes and refined malware. We also delve into 'Phoenix', a new Rowhammer attack (CVE-2025-6202) affecting DDR5 memory, and the resentencing of BreachForums founder 'Pompompurin'.]]></description>
+      <pubDate>Thu, 18 Sep 2025 06:31:15 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=12l35AcBToFxS0D7tA1yVYBmKT3GM8ZBI" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758177075763</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, September 18, 2025</title>
       <description><![CDATA[stdout unpacks the last 24 hours in cyber security. We dive into the FBI's FLASH alert on UNC6040/UNC6395 (ShinyHunters/Scattered Spider) compromising Salesforce via vishing and OAuth token exploits, alongside ongoing disruption at Jaguar Land Rover and a ransomware attack forcing a Texas school district closure. Discover how Akira ransomware bypassed MFA in a SonicWall VPN breach using plaintext recovery codes, and the largest npm supply chain compromise to date, impacting billions of downloads after a maintainer was phished. We also cover new SEO poisoning campaigns distributing novel malware, Mustang Panda's updated TONESHELL and geofenced SnakeDisk worm, and Kimsuky spies leveraging ChatGPT for fake IDs. Plus, a new Rowhammer attack variant, "Phoenix," bypasses DDR5 defences to achieve root privileges, and Microsoft warns about SMBv1 connection issues. Stay informed on these critical developments.]]></description>
       <pubDate>Thu, 18 Sep 2025 06:03:09 GMT</pubDate>
