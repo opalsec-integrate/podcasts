@@ -5,7 +5,7 @@
     <description>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</description>
     <link>https://opalsec.io</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 04:24:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 04:30:18 GMT</lastBuildDate>
     <author>Opalsec</author>
     <copyright>Opalsec</copyright>
     <language>en-au</language>
@@ -23,6 +23,13 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
+    <item>
+      <title>Daily News Update: Thursday, September 18, 2025</title>
+      <description><![CDATA[Your daily 'stdout' delivers the latest cyber intelligence. We unpack the ongoing disruptions from the Colt Technology Services Warlock ransomware attack and the Jaguar Land Rover breach, alongside SonicWall's MySonicWall.com portal compromise and Insight Partners' social engineering-led ransomware incident. Dive into new threat research on the RaccoonO365 Phishing-as-a-Service takedown, Scattered Spider's resurgence targeting finance, and how RevengeHotels and North Korea's Kimsuky group are leveraging AI and ChatGPT for enhanced attacks. Plus, we cover the new 'Phoenix' Rowhammer vulnerability impacting DDR5 memory. Stay informed on critical active events, emerging techniques, and exploited vulnerabilities.]]></description>
+      <pubDate>Thu, 18 Sep 2025 04:30:18 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10x3JnnW1Dicl7N1kRU_eEZ1ACTDQEljX" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758169818607</guid>
+    </item>
     <item>
       <title>Daily News Update: Thursday, September 18, 2025</title>
       <description><![CDATA[Your daily stdout update: We're tracking a significant npm supply chain attack by the 'Shai-Hulud' worm, actively stealing credentials via TruffleHog and GitHub Actions, alongside a Rust phishing campaign. Scattered Lapsus$ Hunters claim responsibility for Jaguar Land Rover's extended production shutdown and a breach of Google's LERS portal. Dive into new threats with 'FileFix' social engineering delivering the StealC infostealer via steganography, and the 'SlopAds' ad fraud operation exploiting 224 Android apps. On the vulnerability front, Apple has backported patches for an actively exploited Image I/O zero-day, and 'Phoenix' RowHammer is bypassing DDR5 memory protections for root escalation. Plus, China's new rapid incident reporting rules, Microsoft's WMIC retirement, and Check Point's acquisition of AI security platform Lakera.]]></description>
