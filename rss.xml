@@ -5,7 +5,7 @@
     <description>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</description>
     <link>https://opalsec.io</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 04:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 04:37:14 GMT</lastBuildDate>
     <author>Opalsec</author>
     <copyright>Opalsec</copyright>
     <language>en-au</language>
@@ -23,6 +23,13 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
+    <item>
+      <title>Daily News Update: Thursday, September 18, 2025</title>
+      <description><![CDATA[stdout: Your daily cybersecurity update. Today, we unpack ShinyHunters' audacious claim of stealing 1.5 billion Salesforce records from 760 companies. This massive breach, attributed to UNC6040 and UNC6395, leveraged compromised Salesloft Drift OAuth tokens via a GitHub exploit, impacting major players like Google and Cloudflare, with attackers now sifting exfiltrated data for further access. We also delve into the resurgence of CopyCop, a Russian fake-news network utilising self-hosted LLMs and deepfakes across over 300 sites to spread pro-Kremlin narratives and polarise audiences globally. Stay across active threats and evolving techniques.]]></description>
+      <pubDate>Thu, 18 Sep 2025 04:37:14 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R7SyShw_QypCbGGARJx28m79KA7RI2lM" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758170234751</guid>
+    </item>
     <item>
       <title>Daily News Update: Thursday, September 18, 2025</title>
       <description><![CDATA[Your daily 'stdout' delivers the latest cyber intelligence. We unpack the ongoing disruptions from the Colt Technology Services Warlock ransomware attack and the Jaguar Land Rover breach, alongside SonicWall's MySonicWall.com portal compromise and Insight Partners' social engineering-led ransomware incident. Dive into new threat research on the RaccoonO365 Phishing-as-a-Service takedown, Scattered Spider's resurgence targeting finance, and how RevengeHotels and North Korea's Kimsuky group are leveraging AI and ChatGPT for enhanced attacks. Plus, we cover the new 'Phoenix' Rowhammer vulnerability impacting DDR5 memory. Stay informed on critical active events, emerging techniques, and exploited vulnerabilities.]]></description>
