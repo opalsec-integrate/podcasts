@@ -5,7 +5,7 @@
     <description>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</description>
     <link>https://opalsec.io</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 04:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 05:06:58 GMT</lastBuildDate>
     <author>Opalsec</author>
     <copyright>Opalsec</copyright>
     <language>en-au</language>
@@ -23,6 +23,13 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
+    <item>
+      <title>Daily News Update: Thursday, September 18, 2025</title>
+      <description><![CDATA[On "stdout", we unpack two critical cyber developments. ShinyHunters, Scattered Spider, and Lapsus$ (UNC6040/UNC6395) exploited Salesloft's GitHub via TruffleHog to compromise OAuth tokens, leading to the exfiltration of 1.5 billion Salesforce records from 760 companies, including Google and Cloudflare. Plus, Russia's CopyCop (Storm-1516) troll farm is back, deploying over 200 new AI-powered fake news sites utilising Llama 3 to influence elections across the US, Canada, and Europe. Get the facts on active exploits and state-sponsored disinformation.]]></description>
+      <pubDate>Thu, 18 Sep 2025 05:06:58 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13wxs-sL-Z6XgrlGPXqwNdTdsDDiQ7HQ9" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758172018153</guid>
+    </item>
     <item>
       <title>Daily News Update: Thursday, September 18, 2025</title>
       <description><![CDATA[stdout unpacks the latest in cyber security: Jaguar Land Rover's operations remain suspended following a 'Scattered Lapsus$ Hunters' attack, with the group also creating a fraudulent account in Google's LERS portal. We detail 'Shai-Hulud,' a self-propagating npm worm actively stealing credentials, and the 'FileFix' social engineering technique delivering the StealC infostealer via fake Facebook alerts and steganography. Explore the massive 'SlopAds' ad fraud operation exploiting Android apps, plus the new 'Phoenix' RowHammer variant bypassing DDR5 memory protections. Apple has backported patches for an actively exploited Image I/O zero-day. Also, China's stricter incident reporting mandates, Microsoft's removal of WMIC, and Check Point's acquisition of AI security platform Lakera.]]></description>
