@@ -1,42 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
-	<channel>
-		<title><![CDATA[stdout security]]></title>
-		<description><![CDATA[Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.]]></description>
-		<link>https://opalsec.io</link>
-		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 18 Sep 2025 04:14:51 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/s/109797ef8/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Opalsec]]></author>
-		<copyright><![CDATA[Opalsec]]></copyright>
-		<language><![CDATA[en-au]]></language>
-		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Opalsec</itunes:author>
-		<itunes:summary>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</itunes:summary>
-		<itunes:type>episodic</itunes:type>
-		<itunes:owner>
-			<itunes:name>Opalsec</itunes:name>
-			<itunes:email></itunes:email>
-		</itunes:owner>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:category text="News">
-			<itunes:category text="Tech News"/>
-		</itunes:category>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-		<item>
-			<title><![CDATA[Daily News Update: Monday, September 15, 2025]]></title>
-			<description><![CDATA[<p>This episode, we unpack FBI FLASH alerts on ShinyHunters and Scattered Spider&#39;s Salesforce compromises, a significant npm supply chain attack, and ransomware disrupting schools. </p><p>Discover new research uncovering sophisticated SEO poisoning campaigns, Mustang Panda&#39;s updated backdoors and a new USB worm, plus Kimsuky&#39;s misuse of ChatGPT for phishing. </p><p>We break down the Phoenix Rowhammer attack bypassing DDR5 protections, Microsoft&#39;s SMBv1 connection issues, and critical Exchange Server end-of-support warnings. </p><p>Also, expert scepticism over ransomware gangs &quot;going dark,&quot; the risks of AI-powered pentesting tools, and New Zealand&#39;s sanctions against Russia&#39;s GRU.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+  <channel>
+    <title>stdout security</title>
+    <description>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</description>
+    <link>https://opalsec.io</link>
+    <generator>Anchor Podcasts</generator>
+    <lastBuildDate>Thu, 18 Sep 2025 04:58:46 GMT</lastBuildDate>
+    <author>Opalsec</author>
+    <copyright>Opalsec</copyright>
+    <language>en-au</language>
+    <atom:link href="https://anchor.fm/s/109797ef8/podcast/rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" type="undefined"/>
+    <itunes:author>Opalsec</itunes:author>
+    <itunes:summary>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Opalsec</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
+    <item>
+      <title>Daily News Update: Thursday, September 18, 2025</title>
+      <description><![CDATA[stdout unpacks the latest in cyber security: Jaguar Land Rover's operations remain suspended following a 'Scattered Lapsus$ Hunters' attack, with the group also creating a fraudulent account in Google's LERS portal. We detail 'Shai-Hulud,' a self-propagating npm worm actively stealing credentials, and the 'FileFix' social engineering technique delivering the StealC infostealer via fake Facebook alerts and steganography. Explore the massive 'SlopAds' ad fraud operation exploiting Android apps, plus the new 'Phoenix' RowHammer variant bypassing DDR5 memory protections. Apple has backported patches for an actively exploited Image I/O zero-day. Also, China's stricter incident reporting mandates, Microsoft's removal of WMIC, and Check Point's acquisition of AI security platform Lakera.]]></description>
+      <pubDate>Thu, 18 Sep 2025 04:58:46 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ycw0BHzmaCvuT0Ce0tLUJErkxyOqJBPR" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758171526797</guid>
+    </item>
+    <item>
+      <title>Daily News Update: Monday, September 15, 2025</title>
+      <description><![CDATA[<p>This episode, we unpack FBI FLASH alerts on ShinyHunters and Scattered Spider&#39;s Salesforce compromises, a significant npm supply chain attack, and ransomware disrupting schools. </p><p>Discover new research uncovering sophisticated SEO poisoning campaigns, Mustang Panda&#39;s updated backdoors and a new USB worm, plus Kimsuky&#39;s misuse of ChatGPT for phishing. </p><p>We break down the Phoenix Rowhammer attack bypassing DDR5 protections, Microsoft&#39;s SMBv1 connection issues, and critical Exchange Server end-of-support warnings. </p><p>Also, expert scepticism over ransomware gangs &quot;going dark,&quot; the risks of AI-powered pentesting tools, and New Zealand&#39;s sanctions against Russia&#39;s GRU.</p>
 ]]></description>
-			<link>https://podcasters.spotify.com/pod/show/opalsec/episodes/Daily-News-Update-Monday--September-15--2025-e38ck9m</link>
-			<guid isPermaLink="false">cbd4e3cf-2764-4069-8fcc-89e24934fd70</guid>
-			<dc:creator><![CDATA[Opalsec]]></dc:creator>
-			<pubDate>Thu, 18 Sep 2025 04:08:26 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/109797ef8/podcast/play/108465910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F21bf89f2-706d-baf7-8c7b-6132ed0d0231.mp3" length="4373613" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;This episode, we unpack FBI FLASH alerts on ShinyHunters and Scattered Spider&amp;#39;s Salesforce compromises, a significant npm supply chain attack, and ransomware disrupting schools. &lt;/p&gt;&lt;p&gt;Discover new research uncovering sophisticated SEO poisoning campaigns, Mustang Panda&amp;#39;s updated backdoors and a new USB worm, plus Kimsuky&amp;#39;s misuse of ChatGPT for phishing. &lt;/p&gt;&lt;p&gt;We break down the Phoenix Rowhammer attack bypassing DDR5 protections, Microsoft&amp;#39;s SMBv1 connection issues, and critical Exchange Server end-of-support warnings. &lt;/p&gt;&lt;p&gt;Also, expert scepticism over ransomware gangs &amp;quot;going dark,&amp;quot; the risks of AI-powered pentesting tools, and New Zealand&amp;#39;s sanctions against Russia&amp;#39;s GRU.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:06:04</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-	</channel>
+      <pubDate>Thu, 18 Sep 2025 04:08:26 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/109797ef8/podcast/play/108465910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F21bf89f2-706d-baf7-8c7b-6132ed0d0231.mp3" length="4373613" type="audio/mpeg"/>
+      <guid isPermaLink="false">cbd4e3cf-2764-4069-8fcc-89e24934fd70</guid>
+      <link>https://podcasters.spotify.com/pod/show/opalsec/episodes/Daily-News-Update-Monday--September-15--2025-e38ck9m</link>
+      <dc:creator>Opalsec</dc:creator>
+      <itunes:summary><![CDATA[<p>This episode, we unpack FBI FLASH alerts on ShinyHunters and Scattered Spider&#39;s Salesforce compromises, a significant npm supply chain attack, and ransomware disrupting schools. </p><p>Discover new research uncovering sophisticated SEO poisoning campaigns, Mustang Panda&#39;s updated backdoors and a new USB worm, plus Kimsuky&#39;s misuse of ChatGPT for phishing. </p><p>We break down the Phoenix Rowhammer attack bypassing DDR5 protections, Microsoft&#39;s SMBv1 connection issues, and critical Exchange Server end-of-support warnings. </p><p>Also, expert scepticism over ransomware gangs &quot;going dark,&quot; the risks of AI-powered pentesting tools, and New Zealand&#39;s sanctions against Russia&#39;s GRU.</p>
+]]></itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
+    </item>
+  </channel>
 </rss>
