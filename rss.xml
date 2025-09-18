@@ -10,7 +10,7 @@
     <copyright>Opalsec</copyright>
     <language>en-au</language>
     <atom:link href="https://anchor.fm/s/109797ef8/podcast/rss" rel="self" type="application/rss+xml"/>
-    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" type="undefined"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <itunes:author>Opalsec</itunes:author>
     <itunes:summary>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,21 +23,21 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-            <item>
+    <item>
       <title>Daily News Update: Thursday, September 18, 2025</title>
       <description><![CDATA[stdout delivers your daily intel. Today, we unpack the ongoing fallout from the Colt Technology Services and Jaguar Land Rover ransomware attacks, a brute-force breach impacting SonicWall's MySonicWall.com, and a sophisticated ransomware incident at Insight Partners. New threat research highlights Microsoft and Cloudflare's takedown of the RaccoonO365 Phishing-as-a-Service, the resurgence of Scattered Spider targeting the financial sector via social engineering and Azure AD SSPR, and how groups like Kimsuky and RevengeHotels are leveraging AI for deepfakes and refined malware. We also delve into 'Phoenix', a new Rowhammer attack (CVE-2025-6202) affecting DDR5 memory, and the resentencing of BreachForums founder 'Pompompurin'.]]></description>
       <pubDate>Thu, 18 Sep 2025 06:31:15 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=12l35AcBToFxS0D7tA1yVYBmKT3GM8ZBI" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758177075763</guid>
     </item>
-<item>
+    <item>
       <title>Daily News Update: Tuesday, September 16, 2025</title>
       <description><![CDATA[stdout unpacks the last 24 hours in cyber security. We dive into the FBI's FLASH alert on UNC6040/UNC6395 (ShinyHunters/Scattered Spider) compromising Salesforce via vishing and OAuth token exploits, alongside ongoing disruption at Jaguar Land Rover and a ransomware attack forcing a Texas school district closure. Discover how Akira ransomware bypassed MFA in a SonicWall VPN breach using plaintext recovery codes, and the largest npm supply chain compromise to date, impacting billions of downloads after a maintainer was phished. We also cover new SEO poisoning campaigns distributing novel malware, Mustang Panda's updated TONESHELL and geofenced SnakeDisk worm, and Kimsuky spies leveraging ChatGPT for fake IDs. Plus, a new Rowhammer attack variant, "Phoenix," bypasses DDR5 defences to achieve root privileges, and Microsoft warns about SMBv1 connection issues. Stay informed on these critical developments.]]></description>
       <pubDate>Thu, 18 Sep 2025 06:03:09 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1oMEIaRwMA553EYRQUweD9Yk_FCWlstCk" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758175389469</guid>
     </item>
-<item>
+    <item>
       <title>Daily News Update: Wednesday, September 17, 2025</title>
       <description><![CDATA[stdout unpacks the latest in cyber security: Jaguar Land Rover's operations remain suspended following a 'Scattered Lapsus$ Hunters' attack, with the group also creating a fraudulent account in Google's LERS portal. We detail 'Shai-Hulud,' a self-propagating npm worm actively stealing credentials, and the 'FileFix' social engineering technique delivering the StealC infostealer via fake Facebook alerts and steganography. Explore the massive 'SlopAds' ad fraud operation exploiting Android apps, plus the new 'Phoenix' RowHammer variant bypassing DDR5 memory protections. Apple has backported patches for an actively exploited Image I/O zero-day. Also, China's stricter incident reporting mandates, Microsoft's removal of WMIC, and Check Point's acquisition of AI security platform Lakera.]]></description>
       <pubDate>Thu, 18 Sep 2025 04:58:46 GMT</pubDate>
