@@ -23,7 +23,23 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-            <item>
+                    <item>
+      <title>Daily News Update: Saturday, September 20, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Briefing</b> 🚨</p>
+<p>Dive deep into the last 24 hours of cybersecurity with "stdout"! We're breaking down 12 critical topics for technical analysts, focusing on active cyber events, exploited vulnerabilities, and emerging threat techniques. 🇦🇺</p>
+
+<p>This episode, we cover the <b>arrests of two Scattered Spider affiliates</b> in the UK, linked to over $115 million in ransoms and a US federal court breach. We also track a <b>cyberattack on Russia's Pulkovo Airport</b> and an Iran-nexus group, UNC1549, infiltrating 11 European telecommunications companies via LinkedIn lures and the MINIBIKE backdoor. ✈️</p>
+
+<p>On the vulnerability front, Fortra warns of a <b>max-severity deserialisation flaw (CVE-2025-10035)</b> in GoAnywhere MFT, mirroring a past Clop zero-day. CISA details malware exploiting <b>Ivanti EPMM zero-days (CVE-2025-4427, CVE-2025-4428)</b>, potentially by China-nexus groups. Plus, discover a critical, now-mitigated <b>Microsoft Entra ID flaw (CVE-2025-55241)</b> that could have granted global admin access, and OpenAI's patch for <b>ChatGPT's "ShadowLeak"</b>, allowing Gmail secret exfiltration. 💥</p>
+
+<p>New threat research reveals <b>collaboration between Russian state-sponsored groups Gamaredon and Turla</b>, with Gamaredon providing initial access for Turla's Kazuar backdoor. Uncover China's "AI persona army" for information warfare and the surge in <b>Phishing-as-a-Service (PhaaS) platforms like Lighthouse and Lucid</b>, driving 17,500+ phishing domains. We also explore how researchers tricked ChatGPT into solving CAPTCHAs, raising questions about their long-term effectiveness. 🤖</p>
+
+<p>Beyond the exploits, MI6 launches a <b>dark web portal "Silent Courier"</b> for informant recruitment, the FBI warns of fake IC3 portals, and the future of the CVE Program is debated amidst funding concerns. Stay ahead with stdout! 💡</p>]]></description>
+      <pubDate>Fri, 19 Sep 2025 21:53:19 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j3GmxORR1uzJylpdZTURpYCcZjQRru00" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758318799585</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, September 19, 2025</title>
       <description><![CDATA[<p>Dive into the latest cyber threats and vulnerabilities impacting the digital landscape. This episode unpacks a massive alleged data theft by **ShinyHunters**, claiming 1.5 billion Salesforce records via a Salesloft supply chain attack, impacting major organisations like Google and Palo Alto Networks. We also cover a confirmed ransomware attack on venture capital firm **Insight Partners** affecting over 12,000 individuals, and a critical breach of **SonicWall's cloud backup service** exposing firewall configurations for a segment of its user base. The healthcare sector remains a prime target, with three separate breaches exposing data for over 850,000 Americans. 🏥</p>
 
