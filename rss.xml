@@ -23,7 +23,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-    <item>
+            <item>
+      <title>Daily News Update: Friday, September 19, 2025</title>
+      <description><![CDATA[<p>Dive into the latest cyber threats and vulnerabilities impacting the digital landscape. This episode unpacks a massive alleged data theft by **ShinyHunters**, claiming 1.5 billion Salesforce records via a Salesloft supply chain attack, impacting major organisations like Google and Palo Alto Networks. We also cover a confirmed ransomware attack on venture capital firm **Insight Partners** affecting over 12,000 individuals, and a critical breach of **SonicWall's cloud backup service** exposing firewall configurations for a segment of its user base. The healthcare sector remains a prime target, with three separate breaches exposing data for over 850,000 Americans. 🏥</p>
+
+<p>Stay informed on active threat actors and emerging techniques: two alleged **Scattered Spider** members have been charged in connection with the Transport for London attack. Discover how the Russian troll farm **CopyCop (Storm-1516)** is leveraging self-hosted LLMs to generate fake news across 200+ sites, and learn about malicious `sisaws` and `secmeasure` packages in PyPI delivering the **SilentSync RAT**. China-backed **TA415 (APT41)** is actively targeting US government and academic organisations with sophisticated phishing, while the **SystemBC botnet** compromises 1,500 commercial VPS daily for malicious traffic. 🕵️‍♂️</p>
+
+<p>Critical vulnerabilities and essential patches: Google has issued an urgent update for a **sixth Chrome zero-day (CVE-2025-10585)** actively exploited in the wild. WatchGuard released security updates for a critical **Firebox RCE (CVE-2025-9242)**, and OpenAI patched a "ShadowLeak" zero-click vulnerability in **ChatGPT's Deep Research agent**. Plus, all PyPI tokens stolen in the recent **GhostAction supply chain attack** have been invalidated. 🔒</p>
+
+<p>Finally, we touch on Cloudflare's self-inflicted outage, Brazil's new **Digital ECA law** for child data protection, the confirmation of Katherine Sutton as the Pentagon's new Assistant Secretary of Defence for Cyber Policy, and how federal agencies are increasingly incorporating AI into cyber defences. 🌐</p>]]></description>
+      <pubDate>Fri, 19 Sep 2025 11:46:12 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fMFzF4_YDJnVctKBy8YGziTDZb5NZDa8" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758282372409</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, September 18, 2025</title>
       <description><![CDATA[stdout delivers your daily intel. Today, we unpack the ongoing fallout from the Colt Technology Services and Jaguar Land Rover ransomware attacks, a brute-force breach impacting SonicWall's MySonicWall.com, and a sophisticated ransomware incident at Insight Partners. New threat research highlights Microsoft and Cloudflare's takedown of the RaccoonO365 Phishing-as-a-Service, the resurgence of Scattered Spider targeting the financial sector via social engineering and Azure AD SSPR, and how groups like Kimsuky and RevengeHotels are leveraging AI for deepfakes and refined malware. We also delve into 'Phoenix', a new Rowhammer attack (CVE-2025-6202) affecting DDR5 memory, and the resentencing of BreachForums founder 'Pompompurin'.]]></description>
       <pubDate>Thu, 18 Sep 2025 06:31:15 GMT</pubDate>
