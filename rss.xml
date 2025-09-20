@@ -23,7 +23,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                    <item>
+                            <item>
+      <title>Daily News Update: Sunday, September 21, 2025</title>
+      <description><![CDATA[<p>🚨 stdout uncovers a critical <b>zero-click vulnerability</b>, codenamed <i>ShadowLeak</i>, in OpenAI ChatGPT's Deep Research agent. Crafted emails leveraging <b>indirect prompt injection</b> could exfiltrate sensitive Gmail inbox data directly from OpenAI's cloud infrastructure, bypassing traditional client-side defences. This flaw, now patched, highlights risks with enabled third-party integrations. 📧</p>
+
+<p>Next, we expose a widespread campaign targeting macOS users with the potent <b>Atomic Stealer malware</b>. Threat actors are deploying <b>fake GitHub repositories</b> impersonating legitimate tools like LastPass and 1Password, using <b>SEO poisoning</b> to push malicious downloads. This campaign underscores persistent social engineering and supply chain compromise tactics. 💻</p>
+
+<p>Finally, a significant regulatory crackdown: the Royal Canadian Mounted Police (RCMP) has shut down the <b>TradeOgre cryptocurrency exchange</b>, seizing over $40 million. This marks Canada's first crypto exchange shutdown, driven by failures in FINTRAC registration and Know Your Customer (KYC) policies, making it a conduit for cybercrime money laundering. 💰</p>]]></description>
+      <pubDate>Sat, 20 Sep 2025 21:50:25 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tMHgZfBPEoSMn5FdtmT3JrJqstl-MKiy" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758405025397</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, September 20, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Briefing</b> 🚨</p>
 <p>Dive deep into the last 24 hours of cybersecurity with "stdout"! We're breaking down 12 critical topics for technical analysts, focusing on active cyber events, exploited vulnerabilities, and emerging threat techniques. 🇦🇺</p>
