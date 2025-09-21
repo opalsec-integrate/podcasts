@@ -23,7 +23,26 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                            <item>
+                                    <item>
+      <title>Daily News Update: Monday, September 22, 2025</title>
+      <description><![CDATA[<p>🚨 On this episode of stdout, we're diving deep into two critical cybersecurity developments:</p>
+
+<ul>
+    <li><strong>Microsoft Entra ID Vulnerability (CVE-2025-55241):</strong> Discover how a critical flaw, leveraging undocumented "actor tokens" and a deprecated API, could have granted Global Administrator privileges across any Entra ID tenant globally. Learn about the stealthy exploitation potential and Microsoft's swift patch.</li>
+</ul>
+
+<p>🇰🇵 We then pivot to the evolving tactics of North Korean state-sponsored hacking groups, including Lazarus, ScarCruft (APT37), and Kimsuky (APT43). Expect insights into:</p>
+
+<ul>
+    <li><strong>Sophisticated Social Engineering:</strong> How "ClickFix" lures in fake cryptocurrency job scams deliver malware like BeaverTail and InvisibleFerret, with expanded targeting beyond software developers.</li>
+    <li><strong>ScarCruft's Shift:</strong> A notable move from pure espionage to financially motivated and potentially destructive operations, deploying VCD ransomware for the first time, alongside new tools like the Rust-based CHILLYCHINO and FadeStealer. 💸</li>
+    <li><strong>Kimsuky's Innovation:</strong> Abuse of GitHub repositories for malware delivery and data exfiltration, plus their alarming use of OpenAI's ChatGPT to forge deepfake military ID cards in spear-phishing campaigns targeting South Korean defence entities. 🤖</li>
+</ul>]]></description>
+      <pubDate>Sun, 21 Sep 2025 21:51:03 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1A0I0n_EPVK_8tVhUQ9LzMDNsIM9o0F1v" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758491463480</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, September 21, 2025</title>
       <description><![CDATA[<p>🚨 stdout uncovers a critical <b>zero-click vulnerability</b>, codenamed <i>ShadowLeak</i>, in OpenAI ChatGPT's Deep Research agent. Crafted emails leveraging <b>indirect prompt injection</b> could exfiltrate sensitive Gmail inbox data directly from OpenAI's cloud infrastructure, bypassing traditional client-side defences. This flaw, now patched, highlights risks with enabled third-party integrations. 📧</p>
 
