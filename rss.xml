@@ -2,7 +2,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
   <channel>
     <title>stdout security</title>
-    <description>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</description>
+    <description><p>Bite-sized, daily Cyber Security wrap-ups to get you prepped for your day.</p>
+      <p><strong>Note:</strong> This is an AI-generated summary of News Articles from the past 24 hours. I take no credit for the research or analysis in said articles - this podcast only exists as a simple audio summary to help busy, sleep-deprivd Cyber Nerds like myself keep on top of developments while wranging kids and brushing teeth. </p>
+    </description>
     <link>https://opalsec.io</link>
     <generator>Anchor Podcasts</generator>
     <lastBuildDate>Thu, 18 Sep 2025 05:06:58 GMT</lastBuildDate>
