@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-            <item>
+                    <item>
+      <title>Daily News Update: Wednesday, September 24, 2025</title>
+      <description><![CDATA[<p>Stay ahead with <b>stdout</b>! 🚀 Your daily deep dive into the last 24 hours of cyber security. Today, we're analysing a record-breaking 22.2 Tbps DDoS attack, a US federal agency breach via unpatched GeoServer RCE (CVE-2024-36401), and major disruptions impacting Jaguar Land Rover, Circle K, and Lotte Card's 3 million customers.</p>
+
+<p>🔍 Discover new threats: Iran-backed Nimbus Manticore's novel DLL loading for MiniJunk/MiniBrowse, RevengeHotels leveraging AI-generated VenomRAT, and "Operation Rewrite" using BadIIS for SEO poisoning. Plus, a malicious npm package 'fezbox' employing steganographic QR codes to steal browser cookies.</p>
+
+<p>🩹 Critical vulnerabilities and patches: SolarWinds' third hotfix for a Web Help Desk RCE patch bypass (CVE-2025-26399), SonicWall's update to remove the OVERSTEP rootkit, and an emergency fix for Libraesva's Email Security Gateway (CVE-2025-59689) actively exploited by a suspected state entity. Rapid7 also disclosed an unpatched critical SQL injection in OnePlus OxygenOS (CVE-2025-10184) allowing SMS/MMS data access.</p>
+
+<p>💡 Broader insights include 62% of cyber leaders reporting AI-driven attacks, the link between REST Media and Russia's Rybar disinformation, and GitHub's new mandatory 2FA and granular tokens for npm security. We also touch on the unsustainable model of open source infrastructure and the complexities of North Korean IT worker sanctions compliance.</p>]]></description>
+      <pubDate>Tue, 23 Sep 2025 21:52:40 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Mj6Ihsr9xWRlykEv8X_JGvXqECmjCDMF" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758664360136</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, September 23, 2025</title>
       <description><![CDATA[<h3>Daily stdout: Cyber Events, Exploits & Techniques</h3>
 <p>Your daily deep dive into the latest in cybersecurity! 🚀 Today, we're unpacking significant disruptions, from European aviation chaos caused by a Collins Aerospace ransomware attack to Dallas Fort Worth International Airport's fibre optic woes. Catch up on the latest arrests linked to the 2023 Scattered Spider attacks on MGM and Caesars, costing over $100 million. 💸 Plus, Stellantis confirms a data leak via a compromised Salesforce provider, with ShinyHunters claiming 18 million records. Even France's Natural History Museum wasn't safe, losing gold nuggets after a ransomware attack disabled security. 🏛️ And a verified Steam game, 'BlockBlasters,' turned malicious, siphoning $150,000 from 261 accounts with a cryptodrainer.</p>
