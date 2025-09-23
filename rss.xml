@@ -25,7 +25,7 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                            <item>
+    <item>
       <title>Daily News Update: Tuesday, September 23, 2025</title>
       <description><![CDATA[<p>🚨 <b>Critical Incidents & Breaches:</b> We unpack recent cyberattacks impacting global operations, including the Collins Aerospace ARINC cMUSE cyberattack that grounded flights at Brussels Airport and London Heathrow. Discover how a ransomware incident at France's Natural History Museum led to a $705,000 gold heist, and get the lowdown on data breaches affecting luxury brands Kering and Tiffany, with the latter attributed to the notorious Scattered Spider group.</p>
 
@@ -36,7 +36,7 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Rd7WOoaLyQcTpVRg8EZESJgm_-zJhJFj" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758591443771</guid>
     </item>
-<item>
+    <item>
       <title>Daily News Update: Monday, September 22, 2025</title>
       <description><![CDATA[<p>🚨 On this episode of stdout, we're diving deep into two critical cybersecurity developments:</p>
 
@@ -55,7 +55,7 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1A0I0n_EPVK_8tVhUQ9LzMDNsIM9o0F1v" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758491463480</guid>
     </item>
-<item>
+    <item>
       <title>Daily News Update: Sunday, September 21, 2025</title>
       <description><![CDATA[<p>🚨 stdout uncovers a critical <b>zero-click vulnerability</b>, codenamed <i>ShadowLeak</i>, in OpenAI ChatGPT's Deep Research agent. Crafted emails leveraging <b>indirect prompt injection</b> could exfiltrate sensitive Gmail inbox data directly from OpenAI's cloud infrastructure, bypassing traditional client-side defences. This flaw, now patched, highlights risks with enabled third-party integrations. 📧</p>
 
@@ -66,7 +66,7 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tMHgZfBPEoSMn5FdtmT3JrJqstl-MKiy" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758405025397</guid>
     </item>
-<item>
+    <item>
       <title>Daily News Update: Saturday, September 20, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Briefing</b> 🚨</p>
 <p>Dive deep into the last 24 hours of cybersecurity with "stdout"! We're breaking down 12 critical topics for technical analysts, focusing on active cyber events, exploited vulnerabilities, and emerging threat techniques. 🇦🇺</p>
@@ -82,7 +82,7 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j3GmxORR1uzJylpdZTURpYCcZjQRru00" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758318799585</guid>
     </item>
-<item>
+    <item>
       <title>Daily News Update: Friday, September 19, 2025</title>
       <description><![CDATA[<p>Dive into the latest cyber threats and vulnerabilities impacting the digital landscape. This episode unpacks a massive alleged data theft by **ShinyHunters**, claiming 1.5 billion Salesforce records via a Salesloft supply chain attack, impacting major organisations like Google and Palo Alto Networks. We also cover a confirmed ransomware attack on venture capital firm **Insight Partners** affecting over 12,000 individuals, and a critical breach of **SonicWall's cloud backup service** exposing firewall configurations for a segment of its user base. The healthcare sector remains a prime target, with three separate breaches exposing data for over 850,000 Americans. 🏥</p>
 
@@ -95,7 +95,7 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fMFzF4_YDJnVctKBy8YGziTDZb5NZDa8" length="1234567" type="audio/mpeg"/>
       <guid isPermaLink="false">1758282372409</guid>
     </item>
-<item>
+    <item>
       <title>Daily News Update: Thursday, September 18, 2025</title>
       <description><![CDATA[stdout delivers your daily intel. Today, we unpack the ongoing fallout from the Colt Technology Services and Jaguar Land Rover ransomware attacks, a brute-force breach impacting SonicWall's MySonicWall.com, and a sophisticated ransomware incident at Insight Partners. New threat research highlights Microsoft and Cloudflare's takedown of the RaccoonO365 Phishing-as-a-Service, the resurgence of Scattered Spider targeting the financial sector via social engineering and Azure AD SSPR, and how groups like Kimsuky and RevengeHotels are leveraging AI for deepfakes and refined malware. We also delve into 'Phoenix', a new Rowhammer attack (CVE-2025-6202) affecting DDR5 memory, and the resentencing of BreachForums founder 'Pompompurin'.]]></description>
       <pubDate>Thu, 18 Sep 2025 06:31:15 GMT</pubDate>
