@@ -25,7 +25,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                    <item>
+                                            <item>
+      <title>Daily News Update: Tuesday, September 23, 2025</title>
+      <description><![CDATA[<p>🚨 <b>Critical Incidents & Breaches:</b> We unpack recent cyberattacks impacting global operations, including the Collins Aerospace ARINC cMUSE cyberattack that grounded flights at Brussels Airport and London Heathrow. Discover how a ransomware incident at France's Natural History Museum led to a $705,000 gold heist, and get the lowdown on data breaches affecting luxury brands Kering and Tiffany, with the latter attributed to the notorious Scattered Spider group.</p>
+
+<p>🕵️‍♂️ <b>Threat Actor Tactics & Tools:</b> Stay informed on new threat actor techniques, including the FBI's warning regarding IC3 website spoofing via sponsored search links designed to harvest PII. Plus, we discuss the US ICE/HSI's acquisition of Magnet Forensics software, including Graykey, for mobile device data extraction.</p>
+
+<p>✈️ <b>Infrastructure Disruptions:</b> Analyse the significant operational issues at Dallas Fort Worth International Airport caused by severed fibre optic cables, impacting FAA TRACON facilities and leading to widespread flight delays. We examine the telecommunications failures and redundancy issues that contributed to this disruption.</p>]]></description>
+      <pubDate>Tue, 23 Sep 2025 01:37:23 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Rd7WOoaLyQcTpVRg8EZESJgm_-zJhJFj" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758591443771</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, September 22, 2025</title>
       <description><![CDATA[<p>🚨 On this episode of stdout, we're diving deep into two critical cybersecurity developments:</p>
 
