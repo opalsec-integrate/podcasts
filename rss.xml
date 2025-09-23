@@ -25,7 +25,23 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-    <item>
+            <item>
+      <title>Daily News Update: Tuesday, September 23, 2025</title>
+      <description><![CDATA[<h3>Daily stdout: Cyber Events, Exploits & Techniques</h3>
+<p>Your daily deep dive into the latest in cybersecurity! 🚀 Today, we're unpacking significant disruptions, from European aviation chaos caused by a Collins Aerospace ransomware attack to Dallas Fort Worth International Airport's fibre optic woes. Catch up on the latest arrests linked to the 2023 Scattered Spider attacks on MGM and Caesars, costing over $100 million. 💸 Plus, Stellantis confirms a data leak via a compromised Salesforce provider, with ShinyHunters claiming 18 million records. Even France's Natural History Museum wasn't safe, losing gold nuggets after a ransomware attack disabled security. 🏛️ And a verified Steam game, 'BlockBlasters,' turned malicious, siphoning $150,000 from 261 accounts with a cryptodrainer.</p>
+
+<p>Dive into cutting-edge threat research, including 'EDR-Freeze,' a novel user-mode technique that can indefinitely suspend EDR and antivirus processes without a kernel driver. 🥶 We also analyse new campaigns: ComicForm targeting Eurasian sectors with Formbook, and the pro-Russian SectorJ149 (UAC-0050) deploying Lumma Stealer, Formbook, and Remcos RAT against South Korean industries. 🕵️‍♂️ LastPass warns macOS users about fake software impersonating password managers, delivering the Atomic (AMOS) info-stealer, now with a backdoor component.</p>
+
+<p>On the vulnerability front, Microsoft patched a critical CVE-2025-55241 in Entra ID (CVSS 10.0), allowing global administrator impersonation. 🚨 The American Archive of Public Broadcasting also fixed an Insecure Direct Object Reference (IDOR) flaw that exposed private media for years. In the broader threat landscape, AT&T highlights Chinese Salt Typhoon's influence on 'living off the land' techniques, while the FBI warns of spoofed IC3 websites. 🌐 Lloyds Banking Group's AI implementation shows the tightrope walk between innovation and security, blocking platforms like Hugging Face.</p>
+
+<p>Data privacy takes centre stage with patients advocating for stronger neural data rights as scientists decode inner speech from Brain Computer Interface (BCI) implants. 🧠 Regulatory hurdles loom as CISA 2015 faces expiration, potentially increasing cyber risk, and Senator Tom Cotton proposes an 18-month 'clean' reauthorization of FISA Section 702 amidst privacy concerns.</p>
+
+<p>Finally, the US government mandates a transition to NIST's new post-quantum cryptography standards by 2030/2035 to counter 'harvest now, decrypt later' threats. 🔒 ICE HSI has acquired Magnet Forensics' Graykey software for device unlocking. Plus, Mozilla introduces a new Firefox feature allowing add-on developers to roll back to previous approved versions for quicker bug fixes. 🦊</p>]]></description>
+      <pubDate>Tue, 23 Sep 2025 02:35:58 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=195cnruZ0RndtX63l587pXN63yLhHjmZa" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758594958815</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, September 22, 2025</title>
       <description><![CDATA[<p>🚨 On this episode of stdout, we're diving deep into two critical cybersecurity developments:</p>
 
