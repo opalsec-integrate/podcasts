@@ -26,7 +26,24 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                    <item>
+                            <item>
+      <title>Daily News Update: Thursday, September 25, 2025</title>
+      <description><![CDATA[<p>🚨 **stdout: Your Daily Cyber Dive!** 🚨</p>
+
+<p>This episode unpacks the last 24 hours in infosec, from major arrests to critical exploits. 🇦🇺</p>
+
+<p>Catch up on the UK arrest linked to the **Collins Aerospace MUSE ransomware attack** impacting European airports, and Boyd Gaming's employee data breach. A 19-year-old has been apprehended as a core figure in the notorious **Scattered Spider** group, linked to 120 attacks and $89.5M in crypto. Interpol's Operation HAECHI VI seized over $439M from cyber-enabled financial crimes. 💰</p>
+
+<p>New threats include sophisticated **phishing campaigns** targeting Python developers via fake PyPI sites and abusing GitHub notifications to drain crypto wallets. Dive into detailed research on "Brickstorm" (UNC5221), a long-running Chinese cyberespionage campaign targeting legal, SaaS, and tech for IP theft and zero-day development, maintaining persistence for 400 days. Also, discover "RedNovember" (Storm-2077), another Chinese state-sponsored actor exploiting perimeter appliance vulnerabilities from Ivanti, Cisco, and Fortinet. 🇨🇳</p>
+
+<p>Critical vulnerabilities are under active exploitation: a high-severity **Cisco IOS/IOS XE zero-day (CVE-2025-20352)** allowing RCE, and a command injection flaw in **Libraesva Email Security Gateway (CVE-2025-59689)** exploited by state-sponsored actors. We also discuss in-the-wild exploitation of a **Pandoc SSRF (CVE-2025-51591)** targeting AWS IMDS, new **Supermicro BMC firmware vulnerabilities** allowing persistent control, and an unpatched **OnePlus OxygenOS flaw (CVE-2025-10184)** exposing SMS data. 💥</p>
+
+<p>Finally, we examine the broader impact of cyberattacks, including the **Jaguar Land Rover production halt** and the catastrophic collapse of KNP Logistics Group due to an Akira ransomware attack exploiting a single weak password. Plus, a quick look at the new Kali Linux 2025.3 release. Stay informed, stay secure! 🛡️</p>]]></description>
+      <pubDate>Wed, 24 Sep 2025 21:53:19 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DVy51Og5djBi1_yx6l2K62ni8MFty-5f" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758750799224</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, September 24, 2025</title>
       <description><![CDATA[<p>Stay ahead with <b>stdout</b>! 🚀 Your daily deep dive into the last 24 hours of cyber security. Today, we're analysing a record-breaking 22.2 Tbps DDoS attack, a US federal agency breach via unpatched GeoServer RCE (CVE-2024-36401), and major disruptions impacting Jaguar Land Rover, Circle K, and Lotte Card's 3 million customers.</p>
 
