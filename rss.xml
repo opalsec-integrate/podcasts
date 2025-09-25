@@ -26,7 +26,25 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                            <item>
+                                    <item>
+      <title>Daily News Update: Friday, September 26, 2025</title>
+      <description><![CDATA[<p><b>stdout: Daily Cyber Security Briefing</b> 🚀</p>
+<p>stdout delivers your essential daily update for Cyber Security Analysts, diving deep into the last 24 hours of noteworthy developments, focusing on active threats, new techniques, and critical vulnerabilities.</p>
+
+<p>🚨 <b>Active Breaches & Attacks:</b> Kido International suffered a ransomware attack by the Radiant Group, leaking sensitive children's data. The Co-operative Group (UK) reports an £80M profit loss from a Scattered Spider attack that stole 6.5 million member records. A US federal agency was compromised via a GeoServer RCE (CVE-2024-36401), leading to web shells and lateral movement. Plus, an arrest linked to the "incredibly basic" HardBit ransomware affecting European airports.</p>
+
+<p>🛠️ <b>Emerging Threats & Techniques:</b> North Korean groups are escalating malware capabilities with AkdoorTea, TsunamiKit, and Tropidoor, targeting crypto developers. Supply chain attacks are rampant: Shai-Hulud worm infected 500+ npm packages, malicious Rust packages stole crypto keys, and an unofficial npm package exfiltrated emails. Learn about AsyncRAT via ScreenConnect, StealC from game patches, Elons ransomware on Oracle DBS, and Android BankBot. Plus, new insights into LNK Stomping and the decade-old BiDi Swap URL spoofing vulnerability.</p>
+
+<p>🩹 <b>Critical Vulnerabilities & Patches:</b> Cisco issues urgent warnings and patches for actively exploited zero-days (CVE-2025-20333, CVE-2025-20362) in ASA/FTD, with a CISA emergency directive. Salesforce patched a critical "ForcedLeak" flaw (CVSS 9.4) in Agentforce AI, allowing CRM data exfiltration. OnePlus OxygenOS has a permission bypass (CVE-2025-10184) for SMS/MMS data, and SonicWall is expediting EOL for SMA 100 devices after rootkit malware discoveries.</p>
+
+<p>🌐 <b>Threat Landscape & Geopolitics:</b> Discussions on "AI security" vs. "AI safety" and how AI coding assistants increase security findings. Russian state-backed Storm-1679 targets Moldovan elections with disinformation, and PyPI warns of ongoing phishing attacks. Also, updates on data privacy (Google/Flo, TikTok Canada), the EU's new Entry/Exit System, and law enforcement successes against dark web markets and financial crime.</p>
+
+<p>💡 <b>CTEM Insights:</b> An overview of Continuous Threat Exposure Management, emphasising prioritisation based on business impact and validation through breach and attack simulation.</p>]]></description>
+      <pubDate>Thu, 25 Sep 2025 21:54:19 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UXaff5Dr3bvzVzOsg2vcCoXIBZen9d5A" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758837259619</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, September 25, 2025</title>
       <description><![CDATA[<p>🚨 **stdout: Your Daily Cyber Dive!** 🚨</p>
 
