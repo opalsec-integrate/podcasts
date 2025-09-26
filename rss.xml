@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                    <item>
+                                            <item>
+      <title>Daily News Update: Saturday, September 27, 2025</title>
+      <description><![CDATA[<p>&#x1F514; Dive into the latest cyber developments with stdout! 🇦🇺 This episode unpacks significant breaches, including **Volvo North America's** employee data theft via a ransomware attack on its HR provider, impacting 1.5 million individuals. 🚨 We also cover **Salesforce** facing lawsuits over customer data exposure from stolen OAuth tokens, and **Union County, Ohio's** ransomware incident compromising sensitive resident data. Plus, hear about two 17-year-olds arrested in the Netherlands for alleged pro-Russian cyber espionage.</p>
+
+<p>&#x1F4BB; Uncover critical new threat research: **Microsoft Threat Intelligence** details an updated, highly obfuscated **macOS XCSSET** variant with enhanced browser targeting and crypto clipboard hijacking. **Trend Micro** warns of **LockBit 5.0**, a "significantly more dangerous" ransomware strain simultaneously targeting Windows, Linux, and VMware ESXi environments. 💥 We also break down the "ForcedLeak" attack against **Salesforce's Agentforce AI**, exploiting a DNS misconfiguration for indirect prompt injection and sensitive data exfiltration.</p>
+
+<p>&#x26A0;&#xFE0F; Crucially, we delve into actively exploited zero-day vulnerabilities. **Fortra's GoAnywhere MFT** (CVE-2025-10035) saw unauthenticated command injection exploited a week before public disclosure, leading to RCE and backdoor accounts. UK and US agencies have issued urgent directives for **Cisco ASA/FTD** zero-days (CVE-2025-20333, CVE-2025-20362), chained for remote control by the state-sponsored **ArcaneDoor campaign** (UAT4356). Discover the sophisticated **RayInitiator** and **LINE VIPER** malware families deployed for persistence and evasion.</p>
+
+<p>&#x2696;&#xFE0F; Stay informed on regulatory shifts: the **US Cybersecurity Information Sharing Act of 2015** faces expiration, and President Trump has approved a plan to restructure **TikTok's US operations** to address national security concerns. Finally, we touch on the **UK ICO's** hefty fines for illegal automated marketing calls, **Interpol's** major cybercrime crackdown in Africa, and **Microsoft Edge's** upcoming feature to revoke malicious sideloaded extensions. 🛡️</p>]]></description>
+      <pubDate>Fri, 26 Sep 2025 21:52:03 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TLnc4vCjXvkm0Sg3K9jgiTIpc464LHc4" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1758923523382</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, September 26, 2025</title>
       <description><![CDATA[<p><b>stdout: Daily Cyber Security Briefing</b> 🚀</p>
 <p>stdout delivers your essential daily update for Cyber Security Analysts, diving deep into the last 24 hours of noteworthy developments, focusing on active threats, new techniques, and critical vulnerabilities.</p>
