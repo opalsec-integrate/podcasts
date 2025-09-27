@@ -26,7 +26,21 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                            <item>
+                                                    <item>
+      <title>Daily News Update: Sunday, September 28, 2025</title>
+      <description><![CDATA[<p>🚨 **Critical Threat Briefing: stdout Daily** 🚨</p>
+<p>Dive deep into the latest cyber security developments. Today, we're tracking a year-long Chinese state-sponsored espionage campaign, <b>RedNovember</b> (TAG-100/Storm-2077), actively exploiting critical vulnerabilities in internet-facing appliances including Ivanti Connect Secure, Cisco ASA, FortiGate, and Palo Alto GlobalProtect VPNs. Discover their use of the Go-based <b>Pantegana</b> backdoor, Cobalt Strike, and SparkRAT. Plus, CISA and Cisco warn of ongoing <b>ArcaneDoor</b> activity targeting Cisco ASA/FTD firewalls with ROM modifications for persistence. 🇨🇳</p>
+
+<p>Further Chinese-linked threats emerge with a new <b>PlugX</b> variant (Korplug/SOGU) targeting Asian telecommunications and manufacturing, leveraging DLL side-loading. We also cover Mustang Panda's continued use of the advanced <b>Bookworm</b> RAT against ASEAN networks. 🕵️‍♂️</p>
+
+<p>On the malware front, a new malvertising campaign is pushing the <b>Oyster backdoor</b> via fake Microsoft Teams installers. Learn how SEO poisoning, fraudulent certificates, and scheduled tasks are establishing persistence and remote access in corporate networks. 💻</p>
+
+<p>Finally, we examine the concerning trend of minors being recruited for intelligence gathering, following Dutch arrests related to attempts to spy on Europol for Russia. We also touch on Alibaba's ambitious $53 billion global AI infrastructure plan and the geopolitical hurdles it faces, including Nvidia GPU access and data sovereignty concerns for new AI datacentres. 🌐</p>]]></description>
+      <pubDate>Sat, 27 Sep 2025 21:51:01 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qQDAwvXI1OIgPB5_3Yb0PcE5ad4x5w0g" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759009861519</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, September 27, 2025</title>
       <description><![CDATA[<p>&#x1F514; Dive into the latest cyber developments with stdout! 🇦🇺 This episode unpacks significant breaches, including **Volvo North America's** employee data theft via a ransomware attack on its HR provider, impacting 1.5 million individuals. 🚨 We also cover **Salesforce** facing lawsuits over customer data exposure from stolen OAuth tokens, and **Union County, Ohio's** ransomware incident compromising sensitive resident data. Plus, hear about two 17-year-olds arrested in the Netherlands for alleged pro-Russian cyber espionage.</p>
 
