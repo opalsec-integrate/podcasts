@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                    <item>
+                                                            <item>
+      <title>Daily News Update: Monday, September 29, 2025</title>
+      <description><![CDATA[<p>🚨 In this edition of stdout, we dive deep into the latest <b>Akira ransomware</b> activity. Threat actors are actively exploiting <b>SonicWall SSL VPN devices</b>, leveraging an improper access control flaw (<b>CVE-2024-40766</b>) to gain initial access.</p>
+
+<p>🔒 Discover how attackers are bypassing <b>one-time password multi-factor authentication (OTP MFA)</b> by utilising previously stolen credentials and OTP seeds, allowing persistent access even after patches. We unpack their post-exploitation tactics, including rapid internal network scanning, Impacket SMB/RDP usage, Active Directory enumeration, and targeting <b>Veeam Backup & Replication servers</b> to extract sensitive MSSQL and PostgreSQL credentials.</p>
+
+<p>⚙️ Learn about their sophisticated evasion techniques, specifically <b>Bring-Your-Own-Vulnerable-Driver (BYOVD) attacks</b>. They're abusing Microsoft's <code>consent.exe</code> to sideload malicious DLLs, loading vulnerable drivers to effectively disable endpoint protection.</p>
+
+<p>⚠️ <b>Critical takeaway:</b> Administrators are strongly advised to reset <b>all VPN credentials</b> on any device that previously utilised vulnerable firmware, as stolen accounts can still grant initial access.</p>]]></description>
+      <pubDate>Sun, 28 Sep 2025 21:49:38 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EiwHy8KK1GB4ByKW0i1691b0EQDW6Kr9" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759096178496</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, September 28, 2025</title>
       <description><![CDATA[<p>🚨 **Critical Threat Briefing: stdout Daily** 🚨</p>
 <p>Dive deep into the latest cyber security developments. Today, we're tracking a year-long Chinese state-sponsored espionage campaign, <b>RedNovember</b> (TAG-100/Storm-2077), actively exploiting critical vulnerabilities in internet-facing appliances including Ivanti Connect Secure, Cisco ASA, FortiGate, and Palo Alto GlobalProtect VPNs. Discover their use of the Go-based <b>Pantegana</b> backdoor, Cobalt Strike, and SparkRAT. Plus, CISA and Cisco warn of ongoing <b>ArcaneDoor</b> activity targeting Cisco ASA/FTD firewalls with ROM modifications for persistence. 🇨🇳</p>
