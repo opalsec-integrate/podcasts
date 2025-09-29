@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                            <item>
+                                                                    <item>
+      <title>Daily News Update: Tuesday, September 30, 2025</title>
+      <description><![CDATA[<p>🚨 Dive into the last 24 hours of critical cyber developments! 🚨 We're unpacking major breaches, including <b>Harrods' 430,000 customer records</b> exposed via a third-party supplier, and <b>Jaguar Land Rover's £1.5 billion recovery loan</b> after a production-halting cyberattack. Discover how a federal agency was compromised by an <b>unpatched GeoServer vulnerability</b>, Cloudflare mitigated a <b>record-breaking 22.2 Tbps DDoS attack</b>, and ransomware groups are actively exploiting <b>stolen AWS keys</b> to exfiltrate data. Plus, we cover the impact of a <b>data centre fire in South Korea</b> and cyberattacks marring <b>Moldova's elections</b>.</p>
+
+<p>🛠️ Uncover the latest threat intelligence and new techniques: China-linked <b>ArcaneDoor exploited two Cisco firewall zero-days</b> (CVE-2025-20362, CVE-2025-20333) with novel malware, while Iran-linked <b>Nimbus Manticore expanded critical infrastructure targeting</b> using evolving malware and signed code. We detail aggressive <b>Akira ransomware campaigns</b> hitting MFA-protected SonicWall VPNs, the "significantly more dangerous" <b>LockBit 5.0</b>, and the alarming npm supply chain risk from the "postmark-mcp" package silently stealing emails.</p>
+
+<p>⚠️ We also highlight critical vulnerabilities in <b>Supermicro BMCs</b> and the Streamlit framework. Hear about the Medusa ransomware gang's audacious attempt to recruit a BBC journalist as an insider threat, and the broader implications of geopolitical cyber tensions, including alleged Russian espionage. Stay ahead with the essential facts and takeaways from the frontline of information security. 🌐</p>]]></description>
+      <pubDate>Mon, 29 Sep 2025 21:55:45 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Jsbr6jGmOTUH6ejGTKDLB_Smw6NsqTDU" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759182945602</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, September 29, 2025</title>
       <description><![CDATA[<p>🚨 In this edition of stdout, we dive deep into the latest <b>Akira ransomware</b> activity. Threat actors are actively exploiting <b>SonicWall SSL VPN devices</b>, leveraging an improper access control flaw (<b>CVE-2024-40766</b>) to gain initial access.</p>
 
