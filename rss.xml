@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                            <item>
+                                                                                                    <item>
+      <title>Daily News Update: Saturday, October 4, 2025</title>
+      <description><![CDATA[<h3>🚨 Cyber Alert: stdout Daily Briefing 🚨</h3>
+<p>Tracking significant active threats and breaches impacting global organisations over the last 24 hours.</p>
+<p>The notorious <b>ShinyHunters</b> group, also known as "Scattered Lapsus$ Hunters," has launched a data leak site, claiming 1 billion records from 39 companies (including FedEx and Google) via Salesforce breaches, demanding a ransom. Meanwhile, a group linked to <b>Clop ransomware</b> is extorting Oracle E-Business Suite customers, exploiting critical RCE flaws and bypassing SSO/MFA. <b>Red Hat</b> confirms a breach of its consulting GitLab by "Crimson Collective," exposing architectural diagrams and authentication tokens. Japanese giant <b>Asahi Group Holdings</b> suffered a ransomware attack, and <b>Renault/Dacia UK</b> customers were impacted by a third-party data breach. The US Courts also detail ongoing upgrades following a major breach.</p>
+<p>Uncover new threat intelligence: Meet <b>"Cavalry Werewolf,"</b> a new actor targeting Russian sectors with FoalShell and StallionRAT via phishing. The <b>Rhadamanthys info stealer</b> evolves with advanced fingerprinting and steganography for payload concealment. Researchers expose <b>"CommetJacking,"</b> a prompt-injection attack on Perplexity's Comet AI browser that exfiltrates sensitive data. Plus, insights into "PRISONBREAK," an Israeli-backed network using AI deepfakes for propaganda in Iran.</p>
+<p>Stay informed on critical vulnerabilities, privacy shifts, and security innovations. Oracle urges patching for E-Business Suite RCEs, while Perplexity downplays its AI browser prompt injection. We also cover privacy concerns around <b>Flock Safety's "Raven"</b> gunshot detection, the UK's proposed digital ID, and the US Courts' response to their major breach. Finally, explore <b>Signal's new SPQR</b> for quantum resistance and <b>Google Workspace's end-to-end encryption</b> rollout for enterprise users.</p>]]></description>
+      <pubDate>Fri, 03 Oct 2025 21:52:39 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bSRLJTZ1WJwWaTHq3OpGSoxBK4lv82-g" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759528359247</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, October 3, 2025</title>
       <description><![CDATA[<p>🚨 **stdout: Your Daily Cyber Intel Briefing** 🚨</p>
 
