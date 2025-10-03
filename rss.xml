@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                    <item>
+                                                                                            <item>
+      <title>Daily News Update: Friday, October 3, 2025</title>
+      <description><![CDATA[<p>🚨 **stdout: Your Daily Cyber Intel Briefing** 🚨</p>
+
+<p>Dive deep into the last 24 hours of cyber security developments. We unpack major active events, including the alleged <b>Crimson Collective breach of Red Hat's GitHub</b>, impacting customer IT blueprints and authentication tokens. Hear about the suspected ransomware attack disrupting <b>Asahi Group Holdings'</b> operations in Japan, and the social engineering incident that froze <b>Kodex Global's</b> domain. Plus, we cover the high-volume email extortion campaign targeting <b>Oracle E-Business Suite</b> customers by Clop-linked actors, and significant data breaches at <b>Allianz Life Insurance</b> (linked to Scattered Spider) and <b>Motility</b> (Pear ransomware).</p>
+
+<p>🔎 On the vulnerability front, get the lowdown on <b>DrayTek's critical RCE flaw (CVE-2025-10547)</b> affecting Vigor routers, allowing unauthenticated remote code execution. ESET reveals two new Android spyware campaigns, <b>ProSpy and ToSpy</b>, actively targeting UAE users via fake messaging apps. We also highlight a massive <b>540% surge in AI vulnerabilities</b>, particularly prompt injection, reported by HackerOne.</p>
+
+<p>🌍 Beyond the exploits, we examine the expanding global reach of <b>North Korean IT worker schemes</b>, now targeting diverse industries. Stay informed on regulatory shifts as a Dutch court rules against <b>Meta's profiled feeds</b> under the EU Digital Services Act, and EU Parliament members question the funding of commercial spyware. Finally, we cover <b>Georgia Tech's $875K settlement</b> for lax cybersecurity on federal research projects and Microsoft's move to discontinue inline SVG images in Outlook for enhanced security. </p>]]></description>
+      <pubDate>Fri, 03 Oct 2025 05:36:43 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FYyGbRqK2MWgjrbEEcJcSg0zIZMMeWi6" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759469803523</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, October 3, 2025</title>
       <description><![CDATA[<p>Dive into the last 24 hours of cyber security with <b>stdout</b>! We're tracking significant breaches affecting millions, including <b>WestJet</b>, <b>Allianz Life</b>, and <b>Motility Software Solutions</b>, alongside a potential <b>US Air Force</b> SharePoint incident. Plus, discover how threat actors are exploiting <b>Milesight industrial routers</b> for phishing campaigns across Europe. 🚨</p>
 
