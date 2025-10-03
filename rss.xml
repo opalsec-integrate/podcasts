@@ -26,7 +26,24 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                    <item>
+                                                                            <item>
+      <title>Daily News Update: Friday, October 3, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Debrief!</b> 🚨</p>
+
+<p>Dive into the last 24 hours of cyber security with <b>stdout</b>. We're unpacking critical vulnerabilities under active exploitation, major breaches, and evolving threat tradecraft.</p>
+
+<p>This episode, we analyse critical vulnerabilities under active exploitation: widespread attacks on <b>Cisco ASA/FTD</b> (CVE-2025-20333, CVE-2025-20362) deploying 'Line Viper' and 'RayInitiator' bootkits, and urgent CISA directives for patching critical flaws in <b>Fortra GoAnywhere MFT</b> (CVE-2025-10035) and <b>Sudo</b> (CVE-2025-32463) for privilege escalation. We also cover a <b>VMware zero-day</b> (CVE-2025-41244) actively exploited by Chinese state-sponsored UNC5174, alongside other critical VMware patches and CISA KEV additions. 🛠️</p>
+
+<p>In breach news, UK authorities secure a landmark conviction in a <b>£5.5 billion Bitcoin fraud</b>, <b>WestJet</b> confirms a customer data breach, and <b>Asahi</b> reports system disruptions. INTERPOL's "Contender 3.0" operation nets 260 arrests targeting romance scams and sextortion. 💰</p>
+
+<p>Explore new threat tradecraft with the <b>MatrixPDF toolkit</b> creating interactive phishing lures, and uncover North Korea's expanding illicit IT worker scheme. We also dissect the "Gemini Trifecta" – three high-severity vulnerabilities in <b>Google's Gemini AI</b>. 🤖</p>
+
+<p>Plus, we cover the EU's <b>Cyber Resilience Act</b> clarifications, CISA's funding cuts to the Center for Internet Security, and the impending expiration of key US cybersecurity legislation. Data privacy takes centre stage with FTC action against the <b>Sendit app</b>, a $1.35M fine for <b>Tractor Supply Co.</b>, and the UK's push for nationwide <b>Live Facial Recognition</b>. Finally, Google rolls out AI ransomware detection for Drive, and Afghanistan faces a nationwide internet blackout. 🌍</p>]]></description>
+      <pubDate>Fri, 03 Oct 2025 05:23:34 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_ACKjFSWlTnfBnzokyMcj_jcTE0-bmSk" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759469014844</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, September 30, 2025</title>
       <description><![CDATA[<p>🚨 Dive into the last 24 hours of critical cyber developments! 🚨 We're unpacking major breaches, including <b>Harrods' 430,000 customer records</b> exposed via a third-party supplier, and <b>Jaguar Land Rover's £1.5 billion recovery loan</b> after a production-halting cyberattack. Discover how a federal agency was compromised by an <b>unpatched GeoServer vulnerability</b>, Cloudflare mitigated a <b>record-breaking 22.2 Tbps DDoS attack</b>, and ransomware groups are actively exploiting <b>stolen AWS keys</b> to exfiltrate data. Plus, we cover the impact of a <b>data centre fire in South Korea</b> and cyberattacks marring <b>Moldova's elections</b>.</p>
 
