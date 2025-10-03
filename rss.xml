@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                            <item>
+                                                                                    <item>
+      <title>Daily News Update: Friday, October 3, 2025</title>
+      <description><![CDATA[<p>Dive into the last 24 hours of cyber security with <b>stdout</b>! We're tracking significant breaches affecting millions, including <b>WestJet</b>, <b>Allianz Life</b>, and <b>Motility Software Solutions</b>, alongside a potential <b>US Air Force</b> SharePoint incident. Plus, discover how threat actors are exploiting <b>Milesight industrial routers</b> for phishing campaigns across Europe. 🚨</p>
+
+<p>Unpack new, sophisticated threats: meet <b>Phantom Taurus</b>, a China-linked espionage group using the stealthy NET-STAR malware, and dissect new Android banking Trojans like <b>Klopatra</b> and <b>Datzbro</b> targeting seniors. We also cover North Korean IT workers expanding their fraudulent job applications and the <b>CABINETRAT</b> backdoor used in targeted attacks in Ukraine. 🕵️‍♂️</p>
+
+<p>Get the lowdown on critical vulnerabilities, including a <b>Red Hat OpenShift AI</b> flaw (CVSS 9.9) allowing full cluster admin escalation, and the "WireTap" physical attack bypassing <b>Intel SGX</b> security. Our analysis also highlights the rise of Living Off the Land techniques in high-severity attacks and the ongoing pressure on security professionals to keep breaches confidential. 💥</p>
+
+<p>Finally, we examine data privacy concerns with <b>Tile Bluetooth trackers</b> leaking identifying data and an <b>Adobe Analytics</b> bug exposing customer tracking. Stay informed on regulatory shifts like Google's upcoming Android developer ID verification impacting F-Droid, Imgur's UK exit, and the White House's push for quantum-resistant encryption. Plus, Google Drive rolls out new AI-powered ransomware detection. 🛡️</p>]]></description>
+      <pubDate>Fri, 03 Oct 2025 05:29:35 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14eQPkiL_-Or3h_2cyAIJo_qgVG5lxIfJ" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759469375144</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, October 3, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Debrief!</b> 🚨</p>
 
