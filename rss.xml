@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                    <item>
+                                                                                                            <item>
+      <title>Daily News Update: Sunday, October 5, 2025</title>
+      <description><![CDATA[<h3>stdout: Daily InfoSec Briefing</h3>
+
+Stay ahead with <b>stdout</b>! 🚀 Your daily deep dive into the latest in cybersecurity.
+
+This episode unpacks a significant <b>Discord data breach</b> affecting PII, government IDs, and partial billing information, stemming from a compromised third-party provider. Understand the financial motivations and the critical implications for identity theft and crypto scams. 🕵️‍♂️
+
+Next, we dissect "<b>CometJacking</b>," a novel prompt injection technique targeting Perplexity's agentic AI browser, Comet. Discover how malicious URLs can siphon sensitive data from connected services like email and calendar, bypassing traditional protections through trivial Base64 encoding. Learn why researchers are flagging new AI-native security risks, despite vendor claims of "no security impact." 🤖
+
+Finally, we examine a nearly 500% surge in scanning activity targeting <b>Palo Alto Networks login portals</b>. GreyNoise reports this mirrors pre-CVE disclosure patterns seen with recent Cisco ASA zero-days, urging organisations to ensure their software is running the latest versions. Don't get caught out! 🚨]]></description>
+      <pubDate>Sat, 04 Oct 2025 20:50:03 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oyvQ0L4wZvzmB34psxKxAqRkYRP0Pqj1" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759611003220</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, October 4, 2025</title>
       <description><![CDATA[<h3>🚨 Cyber Alert: stdout Daily Briefing 🚨</h3>
 <p>Tracking significant active threats and breaches impacting global organisations over the last 24 hours.</p>
