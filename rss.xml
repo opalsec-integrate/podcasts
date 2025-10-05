@@ -26,7 +26,16 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                            <item>
+                                                                                                                    <item>
+      <title>Daily News Update: Monday, October 6, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Security Briefing</b> 🚨</p>
+<p>Stay ahead of the curve with today's critical cyber developments. We're diving deep into an actively exploited zero-day vulnerability, <b>CVE-2025-27915</b>, impacting Zimbra Collaboration Suite versions 9.0, 10.0, and 10.1. Discover how malicious iCalendar files 🗓️ delivered sophisticated JavaScript payloads to steal credentials, emails, and sensitive data from a Brazilian military organisation, leveraging the Zimbra SOAP API for exfiltration and mail forwarding. Learn about the TTPs linked to UNC1151 and the urgent patches released on January 27th. ✅</p>
+<p>Then, we'll unpack the resolution of ParkMobile's 2021 data breach class action lawsuit. Understand the $32.8 million settlement, the $1 in-app credit compensation for 22 million affected users, and the extensive data types exposed. Plus, get the latest on ParkMobile's current warnings regarding ongoing SMS phishing (smishing) attacks 📱 targeting their customer base. Stay informed, stay secure. 🛡️</p>]]></description>
+      <pubDate>Sun, 05 Oct 2025 20:50:05 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17f9SvRYx3J2qNRoqUPvKdkNXZ6rH8ilp" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759697405674</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, October 5, 2025</title>
       <description><![CDATA[<h3>stdout: Daily InfoSec Briefing</h3>
 
