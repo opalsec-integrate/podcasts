@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                    <item>
+                                                                                                                            <item>
+      <title>Daily News Update: Tuesday, October 7, 2025</title>
+      <description><![CDATA[<p>🚨 <b>Critical Exploits & Breaches Unpacked:</b> Dive into the latest active cyber events, including Clop ransomware's exploitation of a new Oracle E-Business Suite zero-day (CVE-2025-61882) for unauthenticated RCE, with public exploit code now available. We also cover Medusa ransomware (Storm-1175) leveraging a Fortra GoAnywhere MFT deserialisation flaw (CVE-2025-10035), and a Zimbra Collaboration zero-day (CVE-2025-27915) used against the Brazilian military. Immediate patching is crucial as agencies worldwide issue urgent warnings. 🛡️</p>
+
+<p>💥 <b>Major Incidents & Campaigns:</b> Get the lowdown on the Scattered Lapsus$ Hunters' crowdsourced extortion scheme and their OAuth token abuse impacting Zscaler. We analyse Discord's data breach via a compromised third-party vendor, the significant production halt at Jaguar Land Rover due to a cyberattack, and a suspected China-linked cyber-espionage campaign targeting European institutions. Plus, a leaked report suggests FEMA's CISO and CIO were fired following a June breach. 🕵️‍♂️</p>
+
+<p>🔬 <b>New Threats & Vulnerabilities:</b> Explore the resurgence of the XWorm backdoor, now featuring a ransomware module and extensive plugins. We detail "RediShell" (CVE-2025-49844), a 13-year-old use-after-free vulnerability in Redis allowing authenticated RCE, and a critical flaw (CVE-2025-59489) in the Unity game engine affecting multiple platforms. Also, a significant surge in scanning attacks targeting Palo Alto Networks GlobalProtect portals has been observed. 💻</p>
+
+<p>🌐 <b>Industry & Regulatory Watch:</b> Stay informed on the European Commission's controversial "Chat Control" proposals, with Signal threatening to exit the EU market if passed. LinkedIn is suing ProAPIs Inc. for alleged data scraping, while House Democrats question DHS over an ICE contract with Israeli spyware company Paragon Solutions. We also cover Georgia Tech's $875K settlement for cybersecurity failures, Wiz's $4.5M "Zeroday Cloud" hacking competition, and China's severe crackdown on cybercrime. ⚖️</p>]]></description>
+      <pubDate>Mon, 06 Oct 2025 20:52:37 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sHSH-3U5dSbN_UYv88PRhQKRXoVboCdR" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759783957431</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, October 6, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Security Briefing</b> 🚨</p>
 <p>Stay ahead of the curve with today's critical cyber developments. We're diving deep into an actively exploited zero-day vulnerability, <b>CVE-2025-27915</b>, impacting Zimbra Collaboration Suite versions 9.0, 10.0, and 10.1. Discover how malicious iCalendar files 🗓️ delivered sophisticated JavaScript payloads to steal credentials, emails, and sensitive data from a Brazilian military organisation, leveraging the Zimbra SOAP API for exfiltration and mail forwarding. Learn about the TTPs linked to UNC1151 and the urgent patches released on January 27th. ✅</p>
