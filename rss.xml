@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                            <item>
+                                                                                                                                    <item>
+      <title>Daily News Update: Wednesday, October 8, 2025</title>
+      <description><![CDATA[Catch up on the latest cyber incidents impacting global giants and sensitive data. 🚨 **Jaguar Land Rover** faces a "cyber shockwave" post-attack, while **Doctors Imaging Group** discloses a year-late breach affecting 171,000+ patients. **Discord** users' sensitive info was exposed via a third-party, and **Avnet** confirms a data breach with claims of 1.3TB exfiltrated. The **Red Hat** breach escalates with ShinyHunters joining extortion efforts, leaking customer network details. Plus, **DraftKings** battles credential stuffing attacks.
+
+On the vulnerability front, the notorious **Clop ransomware group** has been actively exploiting a critical zero-day, `CVE-2025-61882`, in **Oracle E-Business Suite** since August 2025. 💥 This RCE flaw (CVSS 9.8) allowed unauthenticated attackers to gain control, leading to massive data theft and reported $50M extortion demands. Oracle has patched, and CISA has added it to their Known Exploited Vulnerabilities catalogue.
+
+New threat research reveals the evolution of **XWorm malware** to version 6.0, now packed with 35+ plugins for extensive data theft and ransomware capabilities. 🐛 Meanwhile, **North Korean hackers (Lazarus Group)** set a new record, stealing over $2 billion in cryptocurrency in 2025, primarily funding nuclear weapons development and shifting tactics from DeFi exploits to social engineering.
+
+The impact of AI on cybersecurity is rapidly expanding. 🤖 A LayerX report highlights **AI tools as the leading uncontrolled channel for corporate data exfiltration**, with 77% of employees copy-pasting sensitive data into unmanaged GenAI accounts. OpenAI's latest report confirms threat actors are leveraging AI to *enhance existing hacking methods* – from malware development to spearphishing – rather than creating entirely new ones.
+
+In regulatory news, **Russia implements a mandatory 24-hour mobile internet blackout** for foreign SIM cards upon entry, citing national security. 🇷🇺 On a brighter note, **Google launches a dedicated AI Vulnerability Reward Program**, offering up to $30,000 for critical flaws in its AI systems. However, Google has controversially stated it will *not* fix **ASCII smuggling attacks in Gemini**, dismissing the LLM manipulation as a social engineering issue.]]></description>
+      <pubDate>Tue, 07 Oct 2025 20:51:51 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1el9x9qtjTd7DawPVY7rtIiyzva7kXRiG" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759870311700</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, October 7, 2025</title>
       <description><![CDATA[<p>🚨 <b>Critical Exploits & Breaches Unpacked:</b> Dive into the latest active cyber events, including Clop ransomware's exploitation of a new Oracle E-Business Suite zero-day (CVE-2025-61882) for unauthenticated RCE, with public exploit code now available. We also cover Medusa ransomware (Storm-1175) leveraging a Fortra GoAnywhere MFT deserialisation flaw (CVE-2025-10035), and a Zimbra Collaboration zero-day (CVE-2025-27915) used against the Brazilian military. Immediate patching is crucial as agencies worldwide issue urgent warnings. 🛡️</p>
 
