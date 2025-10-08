@@ -26,7 +26,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                    <item>
+                                                                                                                                            <item>
+      <title>Daily News Update: Thursday, October 9, 2025</title>
+      <description><![CDATA[<p>🚨 Salesforce refused a ransom from "Scattered Lapsus$ Hunters" for data stolen via social engineering and compromised OAuth tokens. Qilin ransomware hit Japanese giant Asahi, while UK police arrested suspects over the Kido nursery doxing. A US law firm reported a China-linked zero-day breach targeting attorney emails for national security intelligence.</p>
+<p>🔬 New threat research highlights OpenAI disrupting Russian, North Korean, and Chinese actors misusing ChatGPT for malware and phishing. Ukraine's CERT-UA details Russian AI-driven attacks and "Steal & Go" tactics, including exploitation of Roundcube's CVE-2023-43770. China-linked actors used Nezha, Ghost RAT, and AntSword in politically motivated espionage across Asia, and the "Crimson Collective" targeted AWS cloud environments for data theft and extortion. A new FileFix variant employs cache smuggling to deliver malicious ZIPs.</p>
+<p>💥 Critical vulnerabilities in focus include a severe command injection (CVE-2025-53967) in <code>figma-developer-mcp</code> allowing RCE, now patched. Active exploitation of CVE-2025-5947, a critical authentication bypass in the Service Finder WordPress theme, enabled unauthenticated admin logins with over 13,800 attempts recorded.</p>
+<p>🌐 Broader developments cover Ursula Von der Leyen's warning on Russia's "hybrid warfare" against Europe, Germany's opposition to the EU's "Chat Control" legislation, and Docker's new unlimited access to Hardened Images for startups and SMBs, offering secure software bundles with near-zero CVEs.</p>]]></description>
+      <pubDate>Wed, 08 Oct 2025 20:52:12 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ly46MAmDPC0Aa2H8f93hT5L9wcVbFA9a" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1759956732462</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, October 8, 2025</title>
       <description><![CDATA[Catch up on the latest cyber incidents impacting global giants and sensitive data. 🚨 **Jaguar Land Rover** faces a "cyber shockwave" post-attack, while **Doctors Imaging Group** discloses a year-late breach affecting 171,000+ patients. **Discord** users' sensitive info was exposed via a third-party, and **Avnet** confirms a data breach with claims of 1.3TB exfiltrated. The **Red Hat** breach escalates with ShinyHunters joining extortion efforts, leaking customer network details. Plus, **DraftKings** battles credential stuffing attacks.
 
