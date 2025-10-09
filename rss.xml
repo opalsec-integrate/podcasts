@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                            <item>
+                                                                                                                                                    <item>
+      <title>Daily News Update: Friday, October 10, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential 24-hour cyber security update! 🚨</p>
+
+<p>This episode unpacks critical active threats and exploited vulnerabilities. We dive into the widespread <b>SonicWall cloud backup breach</b>, confirming all customers had firewall configuration files accessed via brute-force. Plus, <b>Discord clarifies its third-party incident</b>, revealing 70,000 government IDs exposed through a compromised Zendesk agent. 🛡️</p>
+
+<p>Catch up on the relentless <b>Clop ransomware group</b>, actively exploiting a zero-day (CVE-2025-61882) in Oracle E-Business Suite, chaining multiple vulnerabilities for pre-authenticated RCE. Discover how "Payroll Pirates" (Storm-2657) are targeting US universities and other organisations, using phishing to divert salaries via compromised HR platforms. We also explore Russian hackers' increasing use of <b>AI in cyberattacks</b> against Ukraine, from phishing to advanced malware like WRECKSTEEL. 💸</p>
+
+<p>Further analysis covers the new <b>RondoDox botnet's "exploit shotgun" approach</b> against 56 n-day vulnerabilities, and how China-based Storm-2603 is weaponising the Velociraptor DFIR tool in LockBit and Babuk ransomware attacks. Understand why <b>token theft is a primary cause of SaaS breaches</b>, often bypassing MFA, and the evolving threat from pro-Russian hacktivist group TwoNet, now targeting critical infrastructure with old XSS exploits. Finally, a critical authentication bypass (CVE-2025-5947) in the <b>Service Finder WordPress theme</b> is under active exploitation, granting unauthenticated admin access. 💥</p>
+
+<p>Stay informed on the proposed PACT Act, aiming to extend vital cyber threat information sharing protections. Get the facts, fast. 🚀</p>]]></description>
+      <pubDate>Thu, 09 Oct 2025 20:52:55 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ERPUDjBSc0vBGgDTRhisSPQZABqFrzZM" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760043175852</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, October 9, 2025</title>
       <description><![CDATA[<p>🚨 Salesforce refused a ransom from "Scattered Lapsus$ Hunters" for data stolen via social engineering and compromised OAuth tokens. Qilin ransomware hit Japanese giant Asahi, while UK police arrested suspects over the Kido nursery doxing. A US law firm reported a China-linked zero-day breach targeting attorney emails for national security intelligence.</p>
 <p>🔬 New threat research highlights OpenAI disrupting Russian, North Korean, and Chinese actors misusing ChatGPT for malware and phishing. Ukraine's CERT-UA details Russian AI-driven attacks and "Steal & Go" tactics, including exploitation of Roundcube's CVE-2023-43770. China-linked actors used Nezha, Ghost RAT, and AntSword in politically motivated espionage across Asia, and the "Crimson Collective" targeted AWS cloud environments for data theft and extortion. A new FileFix variant employs cache smuggling to deliver malicious ZIPs.</p>
