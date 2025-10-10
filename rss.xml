@@ -26,7 +26,19 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                    <item>
+                                                                                                                                                            <item>
+      <title>Daily News Update: Saturday, October 11, 2025</title>
+      <description><![CDATA[<p>🚨 **stdout: Daily Cyber Briefing** 🚨</p>
+<p>Your daily dive into the last 24 hours of cyber security developments! Unpacking critical incidents, we detail the Cl0p ransomware group's exploitation of an Oracle E-Business Suite zero-day (CVE-2025-61882), compromising dozens of organisations for RCE and data exfiltration. Explore the FBI and French authorities' takedown of BreachForums, operated by ShinyHunters and Scattered Lapsus$ Hunters, just before a threatened Salesforce data leak. Plus, we cover the significant data breach at UK trade union Prospect, exposing sensitive member data, and Microsoft's warning about the "payroll pirate" Storm-2657 group targeting US university payroll systems with sophisticated AiTM phishing.</p>
+
+<p>🔬 **New Threats & Techniques:** Discover ClayRat, a new Android spyware mimicking popular apps and propagating via SMS, capable of extensive data theft and remote control. We also expose the "Beamglea" credential phishing campaign, leveraging 175 malicious npm packages as redirect infrastructure to harvest Microsoft credentials.</p>
+
+<p>🍎 **Vulnerabilities & Updates:** Apple has dramatically expanded its bug bounty programme, now offering up to $2 million for zero-click RCEs. Stay informed on Windows 11 23H2 Home and Pro editions reaching end of servicing on November 11, 2025. We also touch on Google Chrome's new feature to automatically revoke notification permissions for inactive websites, the halted trial of officers accused of Baltic Sea cable damage, and the amusing tale of pro-Russian hacktivists TwoNet falling for a Forescout honeypot.</p>]]></description>
+      <pubDate>Fri, 10 Oct 2025 20:52:19 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1A77AethkFcSdI4zkJyR88eYJKh61JXmG" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760129539362</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, October 10, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential 24-hour cyber security update! 🚨</p>
 
