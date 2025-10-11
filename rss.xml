@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                            <item>
+                                                                                                                                                                    <item>
+      <title>Daily News Update: Sunday, October 12, 2025</title>
+      <description><![CDATA[<p>🚨 Get the daily rundown on critical cyber security developments! Today, we're dissecting a widespread compromise impacting **SonicWall SSL VPN devices**, where threat actors are rapidly authenticating into over 100 accounts, potentially leveraging valid credentials and exploiting known flaws, including **CVE-2024-40766**, linked to Akira ransomware campaigns. We'll cover crucial mitigation advice for organisations.</p>
+
+<p>🛠️ Next, we delve into new threat research revealing threat actors weaponising the open-source DFIR tool **Velociraptor** in ransomware attacks. The group Storm-2603 exploits **SharePoint vulnerabilities** for initial access, deploying an outdated Velociraptor version susceptible to **CVE-2025-6264** for privilege escalation and endpoint takeover. We detail their lateral movement tactics, including GPO modifications and disabling real-time protection.</p>
+
+<p>⚖️ We also cover the legal fallout from the **PowerSchool breach**, where a 19-year-old faces a seven-year prison term for accessing 60 million student and 9 million teacher records and demanding a 30 Bitcoin ransom. Plus, significant leadership changes within **US Cyber Command and the NSA**, as President Trump opts not to nominate Army Lt. Gen. William Hartman.</p>]]></description>
+      <pubDate>Sat, 11 Oct 2025 20:50:48 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k8CGshTVQilWhXPGyKb7fshVOxmyxEwA" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760215848185</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, October 11, 2025</title>
       <description><![CDATA[<p>🚨 **stdout: Daily Cyber Briefing** 🚨</p>
 <p>Your daily dive into the last 24 hours of cyber security developments! Unpacking critical incidents, we detail the Cl0p ransomware group's exploitation of an Oracle E-Business Suite zero-day (CVE-2025-61882), compromising dozens of organisations for RCE and data exfiltration. Explore the FBI and French authorities' takedown of BreachForums, operated by ShinyHunters and Scattered Lapsus$ Hunters, just before a threatened Salesforce data leak. Plus, we cover the significant data breach at UK trade union Prospect, exposing sensitive member data, and Microsoft's warning about the "payroll pirate" Storm-2657 group targeting US university payroll systems with sophisticated AiTM phishing.</p>
