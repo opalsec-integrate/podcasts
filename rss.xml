@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, October 14, 2025</title>
+      <description><![CDATA[<p>Stay ahead with <b>stdout</b>'s daily intel! 🚀 This episode unpacks critical active threats: over 100 SonicWall SSLVPN accounts compromised via stolen credentials. The Scattered Lapsus$ Hunters group has leaked data from 6 million Qantas and 7.3 million Vietnam Airlines customers, alongside Gap and Fujifilm. 🏥 Medusa ransomware is behind a breach impacting 1.2 million SimonMed Imaging patients, and Clop ransomware exploited an Oracle E-Business Suite zero-day (CVE-2025-61882) in a Harvard University incident.</p>
+
+<p>Discover emerging TTPs and critical vulnerabilities. 🤖 We analyse ChaosBot, a new Rust-based backdoor leveraging Discord for C2, alongside a destructive Chaos-C++ ransomware variant. The Astaroth banking trojan now employs GitHub steganography for C2 resilience. 🚨 On the vulnerability front, Microsoft has restricted IE Mode in Edge due to active exploitation of unpatched IE Chakra JavaScript engine zero-days. Oracle released an emergency patch for CVE-2025-61884, an unauthenticated info disclosure flaw in E-Business Suite, following active exploitation of CVE-2025-61882 by Clop.</p>
+
+<p>Beyond the headlines, we examine the expanding RondoDox botnet, weaponising over 50 vulnerabilities with an 'exploit shotgun' approach, and a 100,000+ IP botnet actively targeting RDP services in the US. ⚖️ Regulatory updates include Ofcom's first fine under the UK Online Safety Act and an Austrian DPA ruling against Microsoft 365 Education's data tracking. Plus, the Dutch government's intervention in Nexperia and Ukraine's steps towards a dedicated military Cyber Force.</p>]]></description>
+      <pubDate>Mon, 13 Oct 2025 20:52:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15p1aG71MRKMvcm-yzyIEMXZpftacFtT7" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760388733482</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, October 13, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Your 24-Hour Cyber Brief</b> 🚨</p>
 <p>Get the essential intel for cyber security analysts. Today, we're dissecting critical vulnerabilities and active threat campaigns from the last 24 hours.</p>
