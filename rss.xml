@@ -26,7 +26,26 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                    <item>
+                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, October 15, 2025</title>
+      <description><![CDATA[<p>⚡️ <b>stdout: Your Daily Cyber Briefing</b> ⚡️</p>
+
+<p>Dive into the last 24 hours of critical infosec developments. We're tracking active cyber events, new attack techniques, and exploited vulnerabilities impacting organisations globally. This episode covers significant breaches at <b>Asahi</b> and <b>Qantas</b>, plus Michigan City's ransomware woes. Don't miss the US/UK's coordinated sanctions and Bitcoin seizure targeting Cambodia's Prince Group, indicted for "pig butchering" scams and human trafficking. 🇦🇺</p>
+
+<p>🔬 Our threat research deep dive reveals Chinese state-backed <b>Flax Typhoon's</b> year-long persistence on ArcGIS servers via weaponised SOEs and covert C2. We also unpack malicious packages across npm, PyPI, and RubyGems using Discord webhooks for data exfiltration, alongside North Korean "Contagious Interview" campaigns targeting Web3 developers with over 300 malicious npm packages. 🕵️‍♀️</p>
+
+<p>🚨 Get the lowdown on critical vulnerabilities, including Microsoft's October 2025 Patch Tuesday with <b>six zero-days</b> – two actively exploited in Windows Agere Modem Driver (CVE-2025-24990) and Remote Access Connection Manager (CVE-2025-59230), both added to CISA's KEV catalog. Oracle issued an emergency patch for an actively exploited pre-auth SSRF in E-Business Suite (CVE-2025-61884), publicly leaked by ShinyHunters. Fortra's GoAnywhere MFT (CVE-2025-10035) is also under active exploitation by Storm-1175 for ransomware campaigns. 💥</p>
+
+<p>We also cover Microsoft Edge's IE mode restrictions due to unpatched Chakra JavaScript engine zero-days, AMD's "RMPocalypse" fix (CVE-2025-0033) for critical EPYC processor flaws, and the Android "Pixnapping" side-channel attack (CVE-2025-48561) stealing sensitive data. Plus, a concerning UEFI shell 'memory modify' command found in 200,000 Linux Framework systems, enabling Secure Boot bypass. 💻</p>
+
+<p>🌍 In broader threat landscape news, the UK's NCSC reports a record surge in "nationally significant" cyberattacks, while Taiwan faces a 17% increase in daily Chinese cyber intrusions targeting critical infrastructure, combined with information warfare. Florida's AG is suing Roku over alleged collection and sale of children's sensitive data. ⚖️</p>
+
+<p>Finally, we touch on the evolving threat landscape driven by AI-generated malware, the need for Continuous Threat Exposure Management, Mozilla's new built-in Firefox VPN beta, and a public dispute between FuzzingLabs and Gecko Security over CVE credit attribution. Stay informed, stay secure! 🛡️</p>]]></description>
+      <pubDate>Tue, 14 Oct 2025 20:53:25 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c4YwdtfpKv_8HJ6NPtBX3yRYedO91OFP" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760475205941</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, October 14, 2025</title>
       <description><![CDATA[<p>Stay ahead with <b>stdout</b>'s daily intel! 🚀 This episode unpacks critical active threats: over 100 SonicWall SSLVPN accounts compromised via stolen credentials. The Scattered Lapsus$ Hunters group has leaked data from 6 million Qantas and 7.3 million Vietnam Airlines customers, alongside Gap and Fujifilm. 🏥 Medusa ransomware is behind a breach impacting 1.2 million SimonMed Imaging patients, and Clop ransomware exploited an Oracle E-Business Suite zero-day (CVE-2025-61882) in a Harvard University incident.</p>
 
