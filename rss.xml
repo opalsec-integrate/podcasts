@@ -26,7 +26,24 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                            <item>
+                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Thursday, October 16, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
+
+<p>Unpacking a sophisticated <b>nation-state cyberattack on F5's BIG-IP</b> product development environment, which led to source code exfiltration and CISA's emergency directive ED 26-01. Patches have been released for 44 vulnerabilities.</p>
+
+<p>Stay alert to <b>active exploitation</b> of a critical unauthenticated RCE (CVE-2025-2611, CVSS 9.3) in <b>ICTBroadcast autodialer software</b>. We also cover the UK ICO's hefty £14M fine against <b>Capita</b> for its 2023 breach, exposing 6.6 million records, and a new <b>phishing campaign targeting LastPass and Bitwarden users</b> with fake breach alerts to deploy remote access tools.</p>
+
+<p>⚙️ Our research segment highlights new threats: malicious <b>VSCode extensions</b> from "TigerJack" stealing source code and executing RCE, plus over 550 leaked secrets found in other extensions. Discover how Chinese state-linked actor "<b>Jewelbug</b>" conducted espionage against a Russian IT provider, and why <b>synced passkeys</b> pose a significant enterprise security risk due to cloud account recovery flaws.</p>
+
+<p>🔒 Get the lowdown on critical vulnerabilities: two CVSS 10.0 RCE flaws in <b>Red Lion Sixnet RTUs</b> impacting industrial control systems, SAP's patches including a critical NetWeaver AS Java deserialization RCE (CVE-2025-42944, CVSS 10.0), and Senator Cassidy's call for more details on severe <b>Cisco ASA vulnerabilities</b> that reportedly breached a federal agency.</p>
+
+<p>⚖️ Plus, New York state fined eight car insurance companies $14.2M for data breaches affecting over 825,000 individuals, and a 19-year-old was sentenced for the <b>PowerSchool hack</b> exposing 70 million student and teacher records. We also touch on concerns regarding <b>CISA's workforce reductions</b> and the termination of its MS-ISAC agreement.</p>]]></description>
+      <pubDate>Wed, 15 Oct 2025 20:52:44 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10K_79ORPkNEPaPRBBMWm-9JhzzroQW_E" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760561564863</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, October 15, 2025</title>
       <description><![CDATA[<p>⚡️ <b>stdout: Your Daily Cyber Briefing</b> ⚡️</p>
 
