@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, October 17, 2025</title>
+      <description><![CDATA[stdout delivers the critical cybersecurity developments from the last 24 hours, tailored for cyber security analysts.
+
+Catch up on major data breaches impacting Sotheby's and Prosper, exposing millions of sensitive records. 💸 We also detail Capita's £14 million fine for a Black Basta ransomware incident affecting 6.6 million, and Microsoft's disruption of Rhysida attacks using malvertising and fake Teams installers.
+
+Explore cutting-edge threat techniques, including North Korea's UNC5342 group deploying 'EtherHiding' – crypto-stealing malware embedded in blockchain smart contracts for takedown resilience. ⛓️ We also examine China's 'Jewelbug' APT breaching a Russian IT provider in a rare East-on-East espionage operation, targeting potential software supply chain attacks.
+
+Get the lowdown on actively exploited vulnerabilities: Cisco firewall flaws tied to the Chinese-backed ArcaneDoor campaign, a maximum-severity Adobe Experience Manager RCE (CVE-2025-54253) now in CISA's KEV, and a zero-day in Gladinet CentreStack (CVE-2025-11371) enabling RCE. 🚨 Also, learn about a high-severity request smuggling bug in ASP.NET Core Kestrel and the exploitation of Cisco IOS/IOS XE SNMP (CVE-2025-20352) to deploy a Linux rootkit in 'Operation Zero Disco'.
+
+Beyond the technical exploits, we delve into broader threat landscape discussions: a proposed 'Secure Hosting Alliance Trust Seal' for web-hosting, Microsoft's report on a 32% surge in identity-based attacks, and a critical assessment of CVE/CVSS scoring systems. 📈 Plus, regulatory news covers a 19-year-old's sentencing for the PowerSchool hack, with $14.1 million in restitution ordered, and Cambodia's repatriation of South Korean nationals rescued from scam compounds. ⚖️]]></description>
+      <pubDate>Thu, 16 Oct 2025 20:51:55 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vp5wncC2ppGyMfMI670DN--ggYvPcj8B" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760647915086</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, October 16, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
 
