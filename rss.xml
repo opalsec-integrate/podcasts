@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, October 18, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily: Your 24-Hour Cyber Briefing!</b> 🚨</p>
+
+<p>Dive into the latest cyber developments impacting analysts. Today, we unpack significant breaches including the <b>Prosper</b> incident affecting 17.6 million victims with sensitive PII, and the <b>Dairy Farmers of America</b> ransomware attack by the Play gang, exposing SSNs and bank details via sophisticated social engineering. Europol's "SIMCARTEL" operation dismantled a network responsible for $5.8 million in fraud, while <b>Envoy Air</b> confirmed a Clop extortion linked to a new Oracle E-Business Suite zero-day (CVE-2025-61882). Plus, suspected Iranian hackers reportedly accessed John Bolton's email.</p>
+
+<p>Threat intelligence reveals North Korean operatives (Famous Chollima, UNC5342) deploying evasive techniques with new malware like BeaverTail and EtherHiding, the latter using public blockchains for C2. Microsoft has revoked over 200 fraudulent certificates used by Vanilla Tempest in Rhysida ransomware campaigns. On the vulnerability front, a critical out-of-bounds write in <b>WatchGuard Fireware OS</b> (CVE-2025-9242) allows unauthenticated RCE on IKEv2 VPNs. Over 266,000 <b>F5 BIG-IP</b> instances remain exposed post-breach, prompting CISA directives. Microsoft patched a high-severity HTTP request smuggling bug in <b>Kestrel ASP.NET Core</b> (CVE-2025-55315), and <b>ConnectWise Automate RMM</b> addressed critical flaws (CVE-2025-11492, CVE-2025-11493) enabling MITM and malicious updates.</p>
+
+<p>We also look at the expanding attack surface from autonomous AI agents lacking identity security governance, as highlighted by SailPoint. Finally, legal battles unfold as US labor unions sue the Trump administration over a social media surveillance program, and the Computer & Communications Industry Association (CCIA) challenges Texas's new App Store Accountability Act, citing First Amendment and privacy concerns.</p>]]></description>
+      <pubDate>Fri, 17 Oct 2025 20:52:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bWXxv-sQScMVedO68tJ0an3Hn0uP8mlx" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760734333893</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, October 17, 2025</title>
       <description><![CDATA[stdout delivers the critical cybersecurity developments from the last 24 hours, tailored for cyber security analysts.
 
