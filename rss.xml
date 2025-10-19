@@ -26,7 +26,19 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Monday, October 20, 2025</title>
+      <description><![CDATA[<p>A deep dive into the last 24 hours of cyber security, featuring:</p>
+<ul>
+    <li>🚨 <strong>Operation SIMCARTEL Disrupted:</strong> Europol spearheaded a major takedown of a sophisticated cybercrime-as-a-service platform. Authorities seized 1,200 SIM box devices and dismantled infrastructure that facilitated over 49 million fake accounts for widespread fraud, phishing, and more.</li>
+    <li>📱 <strong>TikTok ClickFix Attacks & Aura Stealer:</strong> New threat research exposes cybercriminals leveraging TikTok videos to spread the Aura Stealer. Disguised as software activation guides, these attacks trick users into executing PowerShell commands, compromising browser credentials, cryptocurrency wallets, and other sensitive data.</li>
+    <li>⚖️ <strong>Experian Netherlands Fined €2.7M for GDPR Breaches:</strong> A significant regulatory action sees Experian Netherlands penalised for illegally collecting and utilising personal data from various sources to generate credit scores without consent, leading to their exit from the country.</li>
+</ul>]]></description>
+      <pubDate>Sun, 19 Oct 2025 20:50:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hqUEaFjJ7D2farNmlK-hOtfh1GVKPrZY" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760907011444</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, October 18, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily: Your 24-Hour Cyber Briefing!</b> 🚨</p>
 
