@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, October 21, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential dive into the last 24 hours of cyber security. We're tracking critical active events, novel attack techniques, and newly exploited vulnerabilities.</p>
+
+<p><b>Active Cyber Events & Breaches:</b> China accuses the US NSA of a multi-stage cyberattack on its National Time Service Centre, exploiting SMS flaws and deploying 42 tools. F5 confirms a nation-state breach by China-nexus group UNC5221, stealing BIG-IP source code and maintaining 12 months of access. Operation Zero Disco exploits a Cisco IOS SNMP stack overflow (CVE-2025-20352) to deploy Linux rootkits, while Flax Typhoon (Ethereal Panda) compromised an ArcGIS system for over a year. Japanese retailer Askul halted operations due to ransomware, impacting major retailers, and Verisure's Swedish subsidiary, Alert Alarm, suffered a data breach exposing 35,000 customer records.</p>
+
+<p><b>New Threat Research & Techniques:</b> North Korean actors UNC5342 are using EtherHiding to conceal JADESNOW and InvisibleFerret malware within Binance Smart Chain smart contracts, distributed via job scams. A new GNU/Linux rootkit, LinkPro, was found in an AWS compromise, leveraging eBPF for stealth. Android devices face Pixnapping (CVE-2025-48561), a side-channel attack to steal 2FA codes and Google Maps timelines. We also cover SEO poisoning leading to fake Ivanti Pulse Secure VPN sites, Qilin ransomware's ties to bulletproof hosting, widespread Microsoft-branded phishing, and multi-country smishing campaigns targeting taxpayers and drivers. macOS users are targeted by social engineering via fake Homebrew/TradingView sites deploying stealer malware, alongside phishing impersonating 1Password and LastPass breach notifications. Plus, a deep dive into SocGholish (FakeUpdates) and a coordinated campaign of 131 WhatsApp Web automation tool clones for large-scale spamming.</p>
+
+<p><b>Exploited Vulnerabilities:</b> CISA has added five critical flaws to its KEV Catalogue, confirming active exploitation. This includes CVE-2025-33073, a Windows SMB privilege escalation allowing SYSTEM privileges, and CVE-2025-61884, a server-side request forgery in Oracle E-Business Suite. Also, authentication bypasses in Kentico Xperience CMS (CVE-2025-2746, CVE-2025-2747) and an Apple JavaScriptCore RCE (CVE-2022-48503). Urgent patching is advised for nearly 76,000 publicly exposed WatchGuard Firebox appliances vulnerable to CVE-2025-9242, a critical 9.3 CVSS remote code execution flaw exploitable without authentication. CERT/CC also disclosed CVE-2025-8036, a CORS header vulnerability combined with DNS rebinding that can lead to data exfiltration.</p>]]></description>
+      <pubDate>Mon, 20 Oct 2025 20:54:15 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uUxmDAcFQL9_9fORh7iw3gAPP501mw2Z" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1760993655430</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, October 20, 2025</title>
       <description><![CDATA[<p>A deep dive into the last 24 hours of cyber security, featuring:</p>
 <ul>
