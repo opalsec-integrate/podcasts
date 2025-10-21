@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, October 22, 2025</title>
+      <description><![CDATA[Stay sharp with stdout's daily deep dive into the latest cyber threats! 🚨 We're tracking **active exploitation** of critical vulnerabilities, including a high-severity Microsoft Windows SMB client flaw (CVE-2025-33073) and an Oracle E-Business Suite SSRF (CVE-2025-61884). Discover "TARmageddon" (CVE-2025-62518), a critical RCE in the unmaintained `async-tar` Rust library, posing systemic risk to numerous forks like `tokio-tar` and `uv`. Plus, get the highlights from Pwn2Own Ireland 2025, where researchers chained 34 zero-days to compromise QNAP and Synology devices, and learn about the concerning n-day vulnerabilities exposing 1.8 million developers using AI-powered Cursor and Windsurf IDEs.
+
+In threat actor intelligence, Google reports Russian state-backed COLDRIVER (Star Blizzard) has rapidly evolved its malware arsenal, deploying NOROBOT, YESROBOT, and MAYBEROBOT via "ClickFix" social engineering attacks. 🕵️‍♂️ We also analyse how China-nexus group Salt Typhoon breached a European telecommunications organisation, exploiting Citrix NetScaler Gateway and deploying Snappybee malware via DLL side-loading through legitimate antivirus software.
+
+Beyond the front lines, Veeam has acquired Securiti AI for $1.725 billion, marking a significant entry into the AI security market, while Dataminr plans to acquire ThreatConnect for $290 million to enhance real-time threat intelligence. 💼 On the regulatory front, Russia has ordered Apple to make local search engines default on iPhones, and the U.S. Senate advanced a bill to combat foreign robocalls. Finally, the non-profit DNS0.EU service has announced its immediate shutdown due to sustainability issues. 📉]]></description>
+      <pubDate>Tue, 21 Oct 2025 20:51:34 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jI5Q6lIs-Iz4iTSIJJcCgPrwQc-babOx" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761079894179</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, October 21, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential dive into the last 24 hours of cyber security. We're tracking critical active events, novel attack techniques, and newly exploited vulnerabilities.</p>
 
