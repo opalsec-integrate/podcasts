@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, October 24, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Intel: 24-Hour Cyber Snapshot</b> 🚨</p>
+
+<p>Dive into the latest cyber threats impacting organisations globally. SpaceX has disabled 2,500 Starlink terminals in Myanmar powering scam compounds, while US municipalities grapple with service disruptions. State-sponsored MuddyWater deployed Phoenix backdoor v4 against MENA governments, and North Korea's Lazarus Group executed "Operation DreamJob" targeting European defence firms with trojanised apps.</p>
+
+<p>We unpack new techniques from "Jingle Thief" exploiting cloud environments for gift card fraud and "Smishing Triad's" massive Chinese-managed operation impersonating USPS and toll agencies. Google and Check Point also dismantled the "YouTube Ghost Network" distributing password-stealing malware via fake tutorials.</p>
+
+<p>Critical vulnerabilities are under active exploitation: over 250 Magento stores were hit by <b>CVE-2025-54236 (SessionReaper)</b> allowing account takeover and RCE, and <b>CVE-2025-61932</b> in Motex Lanscope Endpoint Manager, enabling unauthenticated RCE, has been added to CISA's KEV catalogue. Plus, watch out for "AI Sidebar Spoofing" attacks on OpenAI Atlas and Perplexity Comet browsers. Microsoft has also disabled File Explorer's preview pane to block NTLM hash theft.</p>
+
+<p>Stay informed on regulatory delays in the UK, updated third-party risk guidance from NYDFS (including AI provisions), and the growing adoption of managed identities to bolster security postures. Essential insights for every Cyber Security Analyst. 🛡️</p>]]></description>
+      <pubDate>Thu, 23 Oct 2025 20:52:33 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z-kiKjVrh0EfHZIn0LdV2aqWhRJoL2kR" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761252753546</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, October 23, 2025</title>
       <description><![CDATA[<p>🚨 Dive into the last 24 hours of cyber security! 🚨 We're tracking the £1.9 billion impact of the Jaguar Land Rover breach and active exploitation of the Microsoft SharePoint ToolShell zero-day (CVE-2025-53770) by Chinese-linked actors. Unpack the "PhantomCaptcha" spearphishing campaign targeting Ukrainian organisations with weaponised PDFs and WebSocket RATs. 🎣</p>
 <p>New threats include the sophisticated PassiveNeuron APT using custom malware and the upgraded Vidar Stealer 2.0, now rewritten in C with advanced anti-analysis. 🕵️‍♂️</p>
