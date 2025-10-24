@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, October 25, 2025</title>
+      <description><![CDATA[Get your daily dose of cyber intelligence with <b>stdout</b>! 🚀 We unpack the last 24 hours of noteworthy developments for cyber security analysts.
+
+This episode, we're tracking significant active threats: 🚨 A confirmed data breach at Toys R Us Canada exposed customer details. An L3Harris insider threat saw offensive cyber capabilities sold to Russia for $1.3M. Plus, Russia's agricultural agency was hit by a large-scale DDoS attack, disrupting food shipments.
+
+Dive into sophisticated campaigns: 🎣 LastPass users face CryptoChameleon's advanced phishing, attempting to steal passkeys with fake death claims. ESET uncovers Lazarus Group's 'Operation DreamJob' targeting European <b>defence</b> firms with fake offers to deploy the ScoringMathTea RAT. Group-IB details Iranian MuddyWater's breach of 100+ gov/diplomatic entities using weaponised Word attachments and their 'Phoenix' backdoor. Plus, we explore Check Point's 'YouTube Ghost Network' distributing stealer malware, and Palo Alto's Unit 42 linking China-backed 'Smishing Triad' to over 194,000 malicious domains in a global credential theft operation.
+
+On the vulnerability front: 💥 Microsoft has patched a critical WSUS RCE (CVE-2025-59287) actively exploited in the wild, with PoC code available. We also cover a patched Microsoft 365 Copilot prompt injection flaw, exploitable via Mermaid diagrams to exfiltrate tenant data. Pwn2Own Ireland 2025 saw over $1M awarded for 73 zero-days across various devices, highlighting ongoing risks. Plus, an HP OneAgent update issue disrupted Microsoft Entra ID authentication for Windows 11 AI PCs.
+
+Finally, we examine the increasing focus of nation-state actors on exploiting forgotten perimeter devices, new Mozilla requirements for Firefox extension data disclosure, and the International Counter Ransomware Initiative's guidance on software supply chain resilience. Stay informed, stay secure!]]></description>
+      <pubDate>Fri, 24 Oct 2025 20:51:51 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xFGCa3PIyGFeBBG47Xu8BF4Z9vefyVIi" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761339111792</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, October 24, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Intel: 24-Hour Cyber Snapshot</b> 🚨</p>
 
