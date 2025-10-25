@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Sunday, October 26, 2025</title>
+      <description><![CDATA[<p>🚨 <strong>stdout</strong> delivers your daily deep dive into the last 24 hours of cyber security developments. Today, we unpack critical vulnerabilities and novel attack techniques impacting AI platforms, alongside significant regulatory discussions on mobile device security.</p>
+
+<p>First, we analyse two potent threats targeting Microsoft Copilot. Discover the "<strong>Sneaky Mermaid</strong>" indirect prompt injection, a clever technique that exploited Mermaid diagram integration and CSS to exfiltrate sensitive tenant data by tricking users into clicking a fake login button. 🧜‍♀️ We also dissect '<strong>CoPhish</strong>', a new OAuth phishing method weaponising legitimate Copilot Studio agents to host malicious chatbots on trusted Microsoft domains, designed to trick users and administrators into granting extensive permissions. Datadog advises strong application consent policies and monitoring Copilot Studio agent creation events to mitigate this threat. 🎣</p>
+
+<p>Then, we shift focus to the UK, where Members of Parliament are urging tech giants like Apple, Google, and Samsung to implement more robust technical measures against a surge in phone thefts. 📱 We examine proposals for cloud-based or IMEI-linked device locks to render stolen handsets useless for resale, and the industry's expressed concerns regarding privacy and security implications. 🔒</p>]]></description>
+      <pubDate>Sat, 25 Oct 2025 20:50:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15a4FJDaSGRqSgC5UpUV06eoqVuwbwMMv" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761425411993</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, October 25, 2025</title>
       <description><![CDATA[Get your daily dose of cyber intelligence with <b>stdout</b>! 🚀 We unpack the last 24 hours of noteworthy developments for cyber security analysts.
 
