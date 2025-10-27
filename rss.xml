@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, October 28, 2025</title>
+      <description><![CDATA[<p>🚨 **stdout: Your Daily Cyber Security Brief** 🚨</p>
+
+<p>This episode unpacks a busy 24 hours in cyber security, analysing 18 articles across seven key topics for technical analysts. We cover a flurry of active cyber events, new techniques, and critical vulnerabilities.</p>
+
+<p>Highlights include the highly coordinated cyber theft of Shaquille O'Neal's Range Rover 🚗, the Jingle Thief group's cloud-targeting gift card fraud, and the F5 BIG-IP source code breach now suspected to have begun in late 2023 by Chinese state-sponsored actors. We cover data exposures at Iran's Ravin Academy and Sweden's power grid operator, Svenska kraftnät (claimed by Everest ransomware), plus a mass-exploitation campaign leveraging GutenKit and Hunk Companion plugins for WordPress RCE. Also, a former defence contractor exec faces charges for selling trade secrets to Russia.</p>
+
+<p>Explore the latest in threat research and techniques: the Qilin ransomware group is escalating attacks with Linux variants on Windows, BYOVD exploits, and Veeam targeting. Kaspersky links Memento Labs (Hacking Team successor) to Operation ForumTroll, exploiting a Chrome zero-day (CVE-2025-2783) for "Dante" spyware. We detail Lazarus Group's "Operation Dream Job" targeting European defence, MuddyWater's Phoenix backdoor distribution, and the RedTiger tool's exploitation for data theft. Learn about new XWorm 6.0 features, Microsoft 365 Exchange Online Direct Send abuse, "CoPhish" OAuth token theft via Copilot Studio, and LockBit 5.0's multi-platform resurgence. Advanced phishing evasion techniques, including JavaScript-driven SEG bypasses and QR codes in PDFs, are also on our radar.</p>
+
+<p>Stay ahead of critical vulnerabilities: a Windows Server Update Service (WSUS) RCE (CVE-2025-59287) is under active exploitation, prompting an emergency patch. We detail "TARmageddon" (CVE-2025-62518) in the async-tar Rust library, allowing RCE and supply chain attacks, and a critical ASP.NET Core security bypass (CVE-2025-55315) in QNAP NetBak PC Agent. OpenAI's Atlas web browser is vulnerable to prompt injection via its omnibox, and multiple unpatched flaws in EfficientLab's WorkExaminer Professional allow unauthenticated administrative access.</p>]]></description>
+      <pubDate>Mon, 27 Oct 2025 20:54:38 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cZXrsnY8wp2tKi7N1dAYRzrdCCMCYfM0" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761598478303</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, October 26, 2025</title>
       <description><![CDATA[<p>🚨 <strong>stdout</strong> delivers your daily deep dive into the last 24 hours of cyber security developments. Today, we unpack critical vulnerabilities and novel attack techniques impacting AI platforms, alongside significant regulatory discussions on mobile device security.</p>
 
