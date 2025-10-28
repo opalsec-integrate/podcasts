@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, October 29, 2025</title>
+      <description><![CDATA[<p>🚨 Stay sharp with the latest in cyber security! This episode of stdout dives into critical developments from the last 24 hours. We unpack F5's nation-state attack update and Google's refutation of a massive Gmail breach. 🕵️‍♂️ Discover new threat actor tactics, including SideWinder's ClickOnce attacks on South Asian diplomats, the emergence of the Atroposia malware-as-a-service platform, and BlueNoroff's sophisticated GhostCall and GhostHire campaigns targeting Web3. Plus, we analyse the Qilin ransomware gang's active RaaS operations, now leveraging Windows Subsystem for Linux to bypass traditional defences.</p>
+
+<p>🔒 Get the lowdown on actively exploited vulnerabilities: a critical Windows Server Update Services (WSUS) RCE (CVE-2025-59287) with widespread exploitation, and two Dassault Systèmes DELMIA Apriso flaws (CVE-2025-6205, CVE-2025-6204). We also explore TEE.Fail, a new side-channel attack extracting secrets from Intel, AMD, and NVIDIA TEEs, and the inherent prompt injection vulnerabilities in AI browsers like OpenAI's Atlas, posing significant data exfiltration risks. 🧠</p>
+
+<p>⚖️ Beyond the technical, we discuss "LLM grooming" where popular chatbots cite Russian state-attributed sources, raising disinformation concerns. Hear about the severe human toll of the UK MoD's Afghan relocation scheme data breach and a civil rights lawsuit against the NYPD's Domain Awareness System. Finally, we cover the US declining the UN Cybercrime Convention and Noyb's criminal complaint against Clearview AI in Austria, leveraging GDPR for potential executive imprisonment.</p>]]></description>
+      <pubDate>Tue, 28 Oct 2025 20:52:25 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_n-o5uI46HCSI1HreGTnKk4DBNTNU1dL" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761684745097</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, October 28, 2025</title>
       <description><![CDATA[<p>🚨 **stdout: Your Daily Cyber Security Brief** 🚨</p>
 
