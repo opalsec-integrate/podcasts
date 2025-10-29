@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Thursday, October 30, 2025</title>
+      <description><![CDATA[<p>This episode unpacks the latest in cyber security from the last 24 hours. We dive into significant breaches, including advertising giant Dentsu's U.S. subsidiary, Merkle, exposing staff and client data, and EY's 4TB unencrypted SQL Server backup exposed due to a cloud misconfiguration. Hear about Russian threat actors using living-off-the-land tactics in Ukraine and Cloud Atlas exploiting the old CVE-2017-11882 against Russia's agricultural sector. Plus, hacktivist breaches against Canadian critical infrastructure caused disruptions and unsafe conditions. 🚨</p>
+
+<p>🔍 Discover new threat research, including "AI-targeted cloaking" – a context poisoning attack against agentic web browsers like ChatGPT Atlas. Qualys reports a surge in automated botnet attacks (Mirai, Gafgyt, Mozi) exploiting RCE vulnerabilities in PHPUnit, Laravel, and Spring Cloud Gateway. We also expose the "PhantomRaven" campaign, deploying 126 malicious npm packages to steal authentication tokens and CI/CD secrets, cleverly evading static analysis.</p>
+
+<p>⚠️ On the vulnerability front, a critical, unpatched denial-of-service flaw dubbed "Brash" has been found in Chromium's Blink engine, capable of crashing billions of browsers. We also highlight Germany's alarming 92% of public-facing Exchange servers running out-of-support versions. Stay informed on the UK ICO's £200k fine for spam texts and the AFP's new AI tool to interpret "crimefluencer" slang. Get the essential facts you need to stay ahead!</p>]]></description>
+      <pubDate>Wed, 29 Oct 2025 20:51:39 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mSZH0olaOnnwiTM_Jns9c-DxnHrLAEpp" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761771099944</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, October 29, 2025</title>
       <description><![CDATA[<p>🚨 Stay sharp with the latest in cyber security! This episode of stdout dives into critical developments from the last 24 hours. We unpack F5's nation-state attack update and Google's refutation of a massive Gmail breach. 🕵️‍♂️ Discover new threat actor tactics, including SideWinder's ClickOnce attacks on South Asian diplomats, the emergence of the Atroposia malware-as-a-service platform, and BlueNoroff's sophisticated GhostCall and GhostHire campaigns targeting Web3. Plus, we analyse the Qilin ransomware gang's active RaaS operations, now leveraging Windows Subsystem for Linux to bypass traditional defences.</p>
 
