@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, October 31, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily:</b> Unpacking the last 24 hours in cyber security. 🚨</p>
+
+<p>This episode dives into critical active events, including hacktivists tampering with Canadian industrial control systems and an ex-L3Harris Trenchant GM pleading guilty to selling US cyber-exploits to a Russian broker. We also analyse the financial fallout of a cyberattack on Marks & Spencer and a brief data exposure at the People's Postcode Lottery. 🇨🇦🇬🇧</p>
+
+<p>Dive deep into new threat research: two significant npm supply chain campaigns, "PhantomRaven" utilising novel Remote Dynamic Dependencies to bypass static analysis and steal credentials, plus another infostealer campaign using typosquatting and multi-layered obfuscation. Also, Russia-linked cybercriminals are abusing the AdaptixC2 framework for ransomware. 💻🕵️‍♂️</p>
+
+<p>Urgent vulnerability alerts: Docker users are advised to update due to high-severity path traversal (CVE-2025-62725) in Docker Compose and a patched DLL hijacking flaw (EUVD-2025-36191) in Docker Desktop. CISA and NSA have also released new guidance for hardening Microsoft Exchange servers, with over 29,000 still vulnerable to a critical hybrid flaw (CVE-2025-53786). ⚠️</p>
+
+<p>Finally, we touch on data privacy concerns as advocacy groups urge the FTC to block Meta's AI chatbot data plans, and France's move to the decentralised Matrix network for secure government communications. 🇫🇷🔒</p>]]></description>
+      <pubDate>Thu, 30 Oct 2025 20:52:26 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1grwJ1QN9knJ2VQDcTtc6bpanE2_LUS89" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761857546078</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, October 30, 2025</title>
       <description><![CDATA[<p>This episode unpacks the latest in cyber security from the last 24 hours. We dive into significant breaches, including advertising giant Dentsu's U.S. subsidiary, Merkle, exposing staff and client data, and EY's 4TB unencrypted SQL Server backup exposed due to a cloud misconfiguration. Hear about Russian threat actors using living-off-the-land tactics in Ukraine and Cloud Atlas exploiting the old CVE-2017-11882 against Russia's agricultural sector. Plus, hacktivist breaches against Canadian critical infrastructure caused disruptions and unsafe conditions. 🚨</p>
 
