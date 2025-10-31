@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, November 1, 2025</title>
+      <description><![CDATA[<p>🚨 <strong>stdout: Key Cyber Developments (Last 24 Hrs)</strong> 🚨</p>
+<p>This episode covers the extradition of an alleged <strong>Conti ransomware</strong> member and arrests linked to <strong>Meduza Stealer</strong> in Russia. We also analyse a university breach sending offensive emails.</p>
+<p>🔍 <strong>Threat Intel & Exploits:</strong> Discover <strong>Airstalk</strong>, a new malware by CL-STA-1009 misusing AirWatch MDM APIs for covert C2. We detail active exploitation of an unpatched <strong>Windows LNK vulnerability (CVE-2025-9491)</strong> by UNC6384/Mustang Panda targeting EU diplomacy. CISA adds a <strong>VMware Tools/Aria zero-day (CVE-2025-41244)</strong> and a <strong>Linux kernel flaw (CVE-2024-1086)</strong>, now used in ransomware, to its KEV catalogue.</p>
+<p>🔥 <strong>Critical Warnings:</strong> The Australian government warns of ongoing exploitation of <strong>Cisco IOS XE (CVE-2023-20198)</strong> by state actors like Salt Typhoon, planting BadCandy webshells. Storm-1849/UAT4356 is actively scanning and exploiting <strong>Cisco ASA (CVE-2025-30333, CVE-2025-20362)</strong> against US financials and government. CISA/NSA release guidance to harden Exchange and WSUS following exploitation of <strong>WSUS RCE (CVE-2025-59287)</strong>.</p>
+<p>🛡️ <strong>Policy & Privacy:</strong> We touch on the critical need for government-industry collaboration, privacy concerns around the <strong>Digital Euro</strong>, and the FCC's plan to rescind telecom cybersecurity regulations. Also, NHS hospitals face risks due to <strong>Windows 11 upgrade delays</strong>, and Microsoft Edge rolls out a new <strong>scareware sensor</strong>.</p>]]></description>
+      <pubDate>Fri, 31 Oct 2025 20:52:57 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s77qvqEWnySRA8brlmtDyzHzqb3PION5" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1761943977458</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, October 31, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily:</b> Unpacking the last 24 hours in cyber security. 🚨</p>
 
