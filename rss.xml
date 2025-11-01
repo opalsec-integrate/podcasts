@@ -26,7 +26,19 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Sunday, November 2, 2025</title>
+      <description><![CDATA[<p>🚨 <b>Critical Alert: Cisco IOS XE Under Siege!</b> 🚨</p>
+<p>Active exploitation of <b>CVE-2023-20198</b>, a critical 10.0 CVSS vulnerability, is impacting unpatched Cisco IOS XE devices. China-linked threat actors, including Salt Typhoon, are weaponising the low-equity BADCANDY Lua-based web shell to create privileged accounts and seize control. An urgent ASD bulletin highlights hundreds of Australian devices compromised since late 2023. Essential hardening guidelines are crucial to protect infrastructure from re-infection.</p>
+
+<p>📧 A politically motivated cyber incident at the University of Pennsylvania saw an offensive email targeting thousands of students, highlighting potential email system compromises and data breach threats. This bears hallmarks of similar attacks following the Supreme Court's affirmative action ruling.</p>
+
+<p>⚖️ Federal law enforcement has arrested Baron Cain Martin, an alleged leader of the violent extremist group 764. Martin faces 29 charges, including providing material support to terrorists and the production/distribution of child sexual abuse material. The group leverages cyber means for grooming and extortion, with ongoing law enforcement efforts to dismantle such networks.</p>]]></description>
+      <pubDate>Sat, 01 Nov 2025 20:50:06 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CtM31DRm-wtSbS-sy5f1m1Fd66XstaQR" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762030206899</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, November 1, 2025</title>
       <description><![CDATA[<p>🚨 <strong>stdout: Key Cyber Developments (Last 24 Hrs)</strong> 🚨</p>
 <p>This episode covers the extradition of an alleged <strong>Conti ransomware</strong> member and arrests linked to <strong>Meduza Stealer</strong> in Russia. We also analyse a university breach sending offensive emails.</p>
