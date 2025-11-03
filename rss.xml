@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, November 4, 2025</title>
+      <description><![CDATA[<p>Stay sharp with your daily dose of cyber intelligence! 🇦🇺 This episode of <b>stdout</b> unpacks the last 24 hours, highlighting critical active events. We're tracking the University of Pennsylvania's 1.2 million donor record breach via compromised SSO, and Askul's 1.1TB data leak following a <i>RansomHouse</i> attack. Discover how cybercriminals are now collaborating with organised crime to hijack physical cargo using compromised RMM tools like <i>ScreenConnect</i>. Plus, hear about the indictment of three former IR pros for <i>BlackCat</i> ransomware attacks and SK Telecom's massive financial hit from a data breach.</p>
+
+<p>Dive into cutting-edge threat research, including Australia's ASD warning on the <i>"BADCANDY"</i> implant actively targeting unpatched Cisco IOS XE (CVE-2023-20198). 🚨 We reveal <i>"Airstalk,"</i> a suspected nation-state Windows malware exfiltrating data from Omnissa Workspace ONE, and new Android threats like <i>"BankBot-YNRK"</i> and <i>"DeliveryRAT."</i> Uncover how <i>Qilin</i> ransomware now leverages WSL for Linux encryptors, and the novel <i>"SesameOp"</i> backdoor using OpenAI's API for covert C2. We also detail malicious VS Code extensions, Discord-based RATs, and <i>BlueNoroff's</i> multi-platform <i>"GhostCall"</i> campaigns targeting Web3 professionals.</p>
+
+<p>On the vulnerability front, we break down Microsoft's hotpatching woes with KB5070881 for a critical WSUS RCE (CVE-2025-59287), and significant flaws in LUKS2 disk encryption impacting confidential computing systems. 🔒 Plus, learn about exposed API keys and a backdoor in Tata Motors' sites, risking over 70 terabytes of sensitive data.</p>
+
+<p>Beyond the immediate threats, we examine the heightened cyberattack risks to European power grids and hacktivist targeting of internet-exposed industrial control systems. 🌐 Proton's new Data Breach Observatory reveals 306.1 million leaked records, with small and medium-sized businesses as prime targets. We also touch on WhatsApp's biometric passkeys, the push for cyber reinsurance, and MITRE ATT&CK v18's enhanced mobile and ICS coverage. Stay informed, stay secure.</p>]]></description>
+      <pubDate>Mon, 03 Nov 2025 20:53:40 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TRErvt94SX95Rp_i9v-FIhcIkPXlJCke" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762203220254</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, November 2, 2025</title>
       <description><![CDATA[<p>🚨 <b>Critical Alert: Cisco IOS XE Under Siege!</b> 🚨</p>
 <p>Active exploitation of <b>CVE-2023-20198</b>, a critical 10.0 CVSS vulnerability, is impacting unpatched Cisco IOS XE devices. China-linked threat actors, including Salt Typhoon, are weaponising the low-equity BADCANDY Lua-based web shell to create privileged accounts and seize control. An urgent ASD bulletin highlights hundreds of Australian devices compromised since late 2023. Essential hardening guidelines are crucial to protect infrastructure from re-infection.</p>
