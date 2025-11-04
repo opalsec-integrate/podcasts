@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, November 5, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
+
+<p>Stay across the latest in cyber security. We're tracking a massive <b>$100M+ crypto heist</b> from Balancer's DeFi pools, potentially linked to North Korean groups, alongside a concerning <b>insider threat</b> where cyber professionals deployed ALPHV/BlackCat ransomware. Sweden's Miljödata suffered a breach impacting 1.5 million, while Poland faced a wave of attacks, possibly tied to Russian hybrid warfare. 💰</p>
+
+<p>Analyse new threats: discover <b>"SleepyDuck,"</b> a malicious Solidity VSCode extension using Ethereum smart contracts for resilient command-and-control. Explore sophisticated campaigns targeting the <b>defence sector</b>, including Operation SkyCloak's Tor-enabled backdoors and Russia's Curly COMrades exploiting Microsoft Hyper-V to bypass EDR. We also cover <b>"SesameOp,"</b> a novel backdoor abusing OpenAI's Assistants API for stealthy C2, and the alarming <b>67% surge in mobile malware</b> on Google Play. 📱</p>
+
+<p>On the vulnerability front, Google's AI agent, Big Sleep, uncovered <b>five critical WebKit flaws</b> in Apple Safari, now patched. We also delve into the "dramatic" rise in cybercrime involving physical violence in Europe, the retraction of a controversial AI-driven ransomware report, and significant privacy concerns around health data and EU Commission location tracking. Get the essential updates. 🛡️</p>]]></description>
+      <pubDate>Tue, 04 Nov 2025 20:52:23 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KE-pzCXcVq1_lZs3ASxkEFrMq_WRu2eu" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762289543981</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, November 4, 2025</title>
       <description><![CDATA[<p>Stay sharp with your daily dose of cyber intelligence! 🇦🇺 This episode of <b>stdout</b> unpacks the last 24 hours, highlighting critical active events. We're tracking the University of Pennsylvania's 1.2 million donor record breach via compromised SSO, and Askul's 1.1TB data leak following a <i>RansomHouse</i> attack. Discover how cybercriminals are now collaborating with organised crime to hijack physical cargo using compromised RMM tools like <i>ScreenConnect</i>. Plus, hear about the indictment of three former IR pros for <i>BlackCat</i> ransomware attacks and SK Telecom's massive financial hit from a data breach.</p>
 
