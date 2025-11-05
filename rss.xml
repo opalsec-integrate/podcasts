@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Thursday, November 6, 2025</title>
+      <description><![CDATA[<p>🚨 <strong>Active Cyber Events & Breaches:</strong> The University of Pennsylvania confirms a data breach exposing 1.2 million donor records and internal documents via compromised credentials. SonicWall attributes a September incident to state-sponsored hackers accessing firewall configuration data. Plus, Operation Chargeback dismantles credit card fraud networks, recovering over €300 million from 4.3 million victims globally.</p>
+
+<p>🤖 <strong>Emerging Threats & Tradecraft:</strong> Google's Threat Intelligence Group reveals a significant shift towards AI-powered malware, with new families leveraging LLMs for dynamic self-modification and obfuscation. State-backed actors are also abusing Google's Gemini LLM for vulnerability research and phishing. Tenable researchers uncover indirect prompt injection flaws in OpenAI's ChatGPT, while Russia-linked Curly COMrades employ malicious Alpine Linux VMs within Hyper-V for covert persistence. An Iranian threat cluster, UNK_SmudgedSerpent, targets US academics with social engineering and legitimate RMM tools.</p>
+
+<p>⚠️ <strong>Critical Vulnerabilities Exploited:</strong> CISA adds two actively exploited flaws to its KEV catalog: a file disclosure in Gladinet CentreStack/Triofox (CVE-2025-11371) and an unauthenticated RCE in Control Web Panel (CVE-2025-48703). Urgent updates are also needed for actively exploited WordPress plugins (WP Freeio, Noo JobMonster, Post SMTP) enabling privilege escalation. AMD addresses a high-severity flaw (CVE-2025-62626) in Zen 5 CPUs that could weaken cryptographic keys.</p>
+
+<p>⚖️ <strong>Regulatory & Privacy Shifts:</strong> The US DHS proposes a controversial expansion of biometric data collection for immigration. The US Treasury sanctions North Korean entities laundering cryptocurrency to fund weapons programs. The UK launches a Telecoms Charter to combat fraud, and US House GOP leaders push for restrictions on Chinese tech in critical industries. Also, Google's $32 billion acquisition of Wiz receives US DOJ clearance, and a new memory-safe C/C++ compiler, Fil-C, earns a favourable review.</p>]]></description>
+      <pubDate>Wed, 05 Nov 2025 20:51:57 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MXXPhCh-8pl0WBZvOc6Q2T2LzGGOw8TK" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762375917630</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, November 5, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
 
