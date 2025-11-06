@@ -26,7 +26,46 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, November 7, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
+<p>Dive into the latest 24-hour cyber developments, tailored for Cyber Security Analysts. Today, we're unpacking critical breaches, novel attack techniques, and urgent vulnerability alerts.</p>
+
+<p><b>Breaches & Intrusions:</b></p>
+<ul>
+    <li>Hyundai AutoEver America confirms a data breach exposing names, Social Security Numbers, and driver's licences.</li>
+    <li>Japanese media giant Nikkei reports a breach impacting over 17,000 employees and partners after malware compromised an internal Slack workspace.</li>
+</ul>
+
+<p><b>New Threats & Techniques:</b></p>
+<ul>
+    <li>Gootloader resurfaces with advanced SEO poisoning, utilising custom web fonts and malformed Zip archives to evade analysis, dropping the Supper SOCKS5 backdoor.</li>
+    <li>Discover InedibleOchotense, a new Russia-aligned threat cluster impersonating ESET in spear-phishing campaigns against Ukrainian entities, deploying the Tor-enabled Kalambur backdoor.</li>
+</ul>
+
+<p><b>Critical Vulnerabilities & Exploits:</b></p>
+<ul>
+    <li>Cisco issues urgent patches for critical flaws (CVE-2025-20354, CVE-2025-20358) in Unified Contact Center Express (UCCX), allowing unauthenticated RCE and authentication bypass.</li>
+    <li>Cisco also warns of ongoing, sophisticated attacks by the government-backed ArcaneDoor group targeting Secure ASA and FTD firewalls, causing denial-of-service and employing zero-days for persistence.</li>
+</ul>
+
+<p><b>Active Threat Landscape:</b></p>
+<ul>
+    <li>Russian state-backed Sandworm hackers are deploying destructive data-wiping malware against Ukraine's education, government, and critical grain sector.</li>
+    <li>The State of Nevada releases a transparent after-action report detailing a ransomware attack, from initial compromise via a trojanised Google ad to a $1.5M recovery effort.</li>
+</ul>
+
+<p><b>Privacy & Security Insights:</b></p>
+<ul>
+    <li>An Italian executive reveals he was targeted with Paragon spyware, adding to a growing list of victims.</li>
+    <li>Comparitech's latest study highlights persistent human laziness in password choices, with "123456" and "admin" remaining top offenders.</li>
+</ul>
+<p>Stay informed, stay secure. 🛡️</p>]]></description>
+      <pubDate>Thu, 06 Nov 2025 20:52:03 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nQGLeFpgir9WYs92X3TXmarXXSr8vZpv" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762462323316</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, November 6, 2025</title>
       <description><![CDATA[<p>🚨 <strong>Active Cyber Events & Breaches:</strong> The University of Pennsylvania confirms a data breach exposing 1.2 million donor records and internal documents via compromised credentials. SonicWall attributes a September incident to state-sponsored hackers accessing firewall configuration data. Plus, Operation Chargeback dismantles credit card fraud networks, recovering over €300 million from 4.3 million victims globally.</p>
 
