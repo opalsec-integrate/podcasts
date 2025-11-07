@@ -26,7 +26,28 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, November 8, 2025</title>
+      <description><![CDATA[<p>🚨 **stdout Daily Intel: Cyber Events & Exploits** 🚨</p>
+
+<p>Dive into the last 24 hours of cyber security. We unpack a suspected foreign actor breach at the US Congressional Budget Office and the UK's first-ever economic impact classification for a cyberattack, with Jaguar Land Rover's incident costing up to £2.1 billion. 💸</p>
+
+<p>Threat intel reveals a new wave of sophisticated attacks:</p>
+<ul>
+    <li>📱 **"Landfall" Android Spyware:** Exploiting a zero-day (CVE-2025-21042) via WhatsApp DNG images for zero-click surveillance on Samsung Galaxy phones.</li>
+    <li>🦠 **Gootloader Resurgence:** Delivering Rhysida ransomware with rapid domain controller compromise, using SEO poisoning and custom fonts for obfuscation.</li>
+    <li>🛠️ **Malicious Dev Tools:** Watch out for rogue VS Code extensions, npm packages distributing Vidar Stealer, and NuGet time-bomb packages targeting Siemens S7 PLCs.</li>
+    <li>🇨🇳 **China-linked APTs:** Exploiting legacy vulnerabilities for long-term persistence, deploying custom loaders and RATs, with ties to Salt Typhoon and Space Pirates.</li>
+</ul>
+
+<p>On the vulnerability front, Cisco ASA/FTD zero-days (CVE-2025-20362, CVE-2025-20333) are now actively exploited for denial-of-service attacks, forcing reboots. 🛡️ QNAP has patched seven zero-days, successfully exploited at Pwn2Own Ireland 2025. Update your systems immediately! 🩹</p>
+
+<p>Beyond the exploits, Google introduces new features to combat review extortion and highlights prevalent scams. 🌐 We analyse Illuminate Education's $5.1M fine for a data breach, Microsoft's EU data sovereignty efforts, and EPIC's concerns over government data mining. 🔒 New global regulations like DORA and SEC rules are driving a shift towards greater cyber accountability. ⚖️ Finally, the Department of Defense's revised master plan for cyber forces outlines a long road ahead for talent attraction and retention. 🏛️🚀</p>]]></description>
+      <pubDate>Fri, 07 Nov 2025 20:52:34 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fH756o5cftDZsuFeJ7r7kGQgADXQEiIW" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762548754051</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, November 7, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
 <p>Dive into the latest 24-hour cyber developments, tailored for Cyber Security Analysts. Today, we're unpacking critical breaches, novel attack techniques, and urgent vulnerability alerts.</p>
