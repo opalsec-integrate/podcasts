@@ -26,7 +26,27 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Sunday, November 9, 2025</title>
+      <description><![CDATA[<p>Key cyber developments from the last 24 hours:</p>
+
+<p>A Russian national has pleaded guilty as an Initial Access Broker for the Yanluowang ransomware group, facilitating attacks on seven US businesses and demanding $24 million. ⚖️</p>
+
+<p>New threat research reveals:</p>
+<ul>
+    <li>Malicious NuGet packages with "time bombs" set for 2027/2028, targeting .NET database providers and impersonating the Sharp7 library for Siemens S7 industrial control devices. These could cause immediate operational stops or data corruption. Organisations are advised to audit assets. 💣</li>
+    <li>Microsoft's "Whisper Leak" — a novel side-channel attack inferring AI chatbot conversation topics from encrypted TLS traffic with over 98% accuracy, posing significant privacy risks to LLMs. 🤫</li>
+</ul>
+
+<p>On exploited vulnerabilities:</p>
+<ul>
+    <li>LANDFALL, a commercial-grade Android spyware, exploited a zero-day (CVE-2025-21042) in Samsung Galaxy devices for nearly a year. The surveillance campaign, likely starting in July 2024, targeted specific Samsung Galaxy devices in the Middle East via zero-click attacks, often through crafted images. This spyware records calls, tracks locations, and harvests data, potentially linked to state-sponsored actors. 📱🕵️‍♂️</li>
+</ul>]]></description>
+      <pubDate>Sat, 08 Nov 2025 20:50:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wx-rbG0XtWs7jTBTfCWD2jU9dD972inZ" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762635011930</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, November 8, 2025</title>
       <description><![CDATA[<p>🚨 **stdout Daily Intel: Cyber Events & Exploits** 🚨</p>
 
