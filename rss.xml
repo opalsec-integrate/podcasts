@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Monday, November 10, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Unpacking critical cyber developments from the last 24 hours. </p>
+
+<p>First up, we're diving into three new <b>runC vulnerabilities</b> (CVE-2025-31133, CVE-2025-52565, CVE-2025-52881) impacting <b>Docker and Kubernetes container runtimes</b>. These flaws could allow attackers to <b>bypass container isolation</b> and gain <b>root access to the host system</b> by manipulating <code>/dev/null</code> and <code>/dev/console</code> bind-mounts. Patches are available in runC versions 1.2.8, 1.3.3, and 1.4.0-rc.3+, with user namespaces and rootless containers offering key mitigations. </p>
+
+<p>📱 Next, the Swiss National Cyber Security Centre (NCSC) warns of a sophisticated new <b>iPhone phishing scam</b>. Threat actors are sending targeted smishing texts, often with convincing details from the device's lock screen, to trick lost iPhone owners into clicking fake "Find My" links. The goal? To <b>steal Apple ID credentials</b> and potentially <b>bypass Activation Lock</b> for device resale. Remember: enable Lost Mode immediately, use a dedicated email for contact details, and protect your SIM with a PIN. Apple will never contact you via SMS or email about a found device. 🎣</p>]]></description>
+      <pubDate>Sun, 09 Nov 2025 20:49:32 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11dZUbr1kDMUsi8w8ijxeZryVNspozvkP" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762721372682</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, November 9, 2025</title>
       <description><![CDATA[<p>Key cyber developments from the last 24 hours:</p>
 
