@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Tuesday, November 11, 2025</title>
+      <description><![CDATA[<p>Catch up on the last 24 hours in cyber security with <b>stdout</b>! 🎧</p>
+
+<p>This episode unpacks critical active events, including the <b>Clop ransomware's Oracle E-Business Suite zero-day (CVE-2025-61882)</b> impacting Allianz UK, and a massive data breach at Chinese firm Knownsec exposing state-owned cyber weapons and global target lists. We also cover a widespread <b>PureRAT phishing campaign</b> targeting the hospitality sector and the conviction of a Yanluowang ransomware Initial Access Broker. 💥</p>
+
+<p>Dive into new threat research: discover how <b>Curly COMrades abuses Hyper-V</b> for stealthy malware deployment, the rise of <b>Cephalus Go-based ransomware</b> exploiting RDP, and malicious NuGet packages with time-delayed logic bombs. Plus, we examine information stealer campaigns leveraging EvilAI-created installers and Aurologic GmbH's role as a high-risk hosting hub. 🕵️‍♂️</p>
+
+<p>Stay ahead of critical vulnerabilities: CISA orders patching for a <b>Samsung zero-day (CVE-2025-21042)</b> actively exploited by LandFall spyware, and a severe RCE in the <b><code>expr-eval</code> JavaScript library (CVE-2025-12735)</b>. We also detail patched flaws in Microsoft Teams, SimpleHelp RMM exploits leading to ransomware, and supply chain risks in Advanced Installer. 🚨</p>
+
+<p>Finally, we explore the evolving landscape of AI in security, from Cisco's new 17-billion parameter model to Microsoft's "Agent 365" and the "Whisper Leak" side-channel attack. Get the lowdown on the temporary extension of the U.S. CISA Act, Australia's sanctions against North Korean cybercrime, and new privacy features from WhatsApp and Microsoft Authenticator. 🇦🇺</p>]]></description>
+      <pubDate>Mon, 10 Nov 2025 20:52:30 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jQoSfyYFnSv10qQ92FOFblTrvAwP0wsz" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762807950625</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, November 10, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Unpacking critical cyber developments from the last 24 hours. </p>
 
