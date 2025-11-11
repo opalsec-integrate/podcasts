@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Wednesday, November 12, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Your daily intel on the cyber frontline!</b> 🚨</p>
+
+<p>This episode dives deep into the last 24 hours of infosec, covering critical breaches, cunning new attack techniques, and urgent vulnerability disclosures. We unpack the confirmed nation-state theft of F5 BIG-IP source code and 44 undisclosed vulnerabilities, raising long-term supply chain concerns. Hear about the Yanluowang IAB pleading guilty, linked to $1.5M in ransoms, and North Korean APT37 (KONNI) actively abusing Google's "Find Hub" to track and wipe Android devices. Plus, Clop's latest victim, GlobalLogic, saw over 10,000 employee records exfiltrated via exploited Oracle E-Business Suite flaws (<b>CVE-2025-61882, CVE-2025-61884</b>). We also cover the "Bitcoin Queen's" sentencing for laundering $7.3B in crypto.</p>
+
+<p>🔬 <b>New Threats & Techniques:</b> Discover "Quantum Route Redirect" (QRR), a sophisticated Phishing-as-a-Service platform targeting Microsoft 365 users globally with 1,000+ domains and bot filtering. Microsoft researchers unveil "Whisper Leak," a side-channel attack inferring LLM prompt topics from encrypted network traffic. We also track GootLoader's resurgence with advanced evasion tactics, including custom WOFF2 fonts and Z85 encoding, leading to Supper backdoor and INC ransomware deployments.</p>
+
+<p>🩹 <b>Vulnerability Watch:</b> Microsoft's November Patch Tuesday addresses 63 flaws, including an actively exploited Windows Kernel EoP zero-day (<b>CVE-2025-62215</b>) and four critical vulnerabilities. SAP issues urgent patches for a max severity 10.0 CVSS hardcoded credentials flaw (<b>CVE-2025-42890</b>) and a critical code injection (<b>CVE-2025-42887</b>). Learn how attackers exploited Gladinet Triofox's authentication bypass (<b>CVE-2025-12480</b>) to achieve SYSTEM privileges and remote code execution. Finally, UK cyber insurers report a staggering 230% increase in ransomware payouts, totalling £197 million, highlighting the escalating threat landscape.</p>]]></description>
+      <pubDate>Tue, 11 Nov 2025 20:51:27 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1usPUbdgT3pu1pDBTL5qaiqDKZ_htuLJ_" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762894287080</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, November 11, 2025</title>
       <description><![CDATA[<p>Catch up on the last 24 hours in cyber security with <b>stdout</b>! 🎧</p>
 
