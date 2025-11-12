@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Thursday, November 13, 2025</title>
+      <description><![CDATA[<p>Major disruptions include the takedown of the <strong>Rhadamanthys infostealer</strong> operation and a UK court sentencing a fraudster for a <strong>£5 billion Bitcoin scam</strong>. 💰 We analyse the <strong>Qilin ransomware attack</strong> on UK pathology provider Synnovis, compromising sensitive patient data and severely disrupting NHS services. Plus, an APT group exploited <strong>zero-day vulnerabilities</strong> in Citrix NetScaler ADC/Gateway (CVE-2025-5777) and Cisco ISE (CVE-2025-20337), deploying custom web shells for likely espionage. 🕵️</p>
+
+<p>On the vulnerability front, Microsoft's latest Patch Tuesday addressed 63 defects, including an <strong>actively exploited Windows Kernel zero-day</strong> (CVE-2025-62215) and a critical RCE (CVE-2025-60724). 💥 Synology users, update immediately for a critical <strong>BeeStation OS RCE</strong> (CVE-2025-12686) publicly demonstrated at Pwn2Own. We also cover the resurgence of <strong>DanaBot malware</strong> with a new variant using Tor C2 infrastructure, and Google's lawsuit against the "Lighthouse" phishing-as-a-service scheme. 🎣</p>
+
+<p>Hear Australia's spy chief warn of "high-impact sabotage" on critical infrastructure by authoritarian regimes, and the UK CAA's concerns about inevitable organised <strong>drone attacks on airports</strong>. ✈️ We also explore the new UK Cyber Security and Resilience Bill, expanding regulations to datacentres and MSPs, and Google's "Private AI Compute" for secure cloud processing. 🔒</p>
+
+<p>Key updates include the Kochava data broker settlement, Public Citizen's deepfake warnings for OpenAI's Sora 2, and Windows 11's native support for third-party passkey managers.</p>]]></description>
+      <pubDate>Wed, 12 Nov 2025 20:52:44 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B7yXkadfexWUsU7LcabUMhw9tEau221T" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1762980764551</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, November 12, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Your daily intel on the cyber frontline!</b> 🚨</p>
 
