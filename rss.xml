@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Sunday, November 16, 2025</title>
+      <description><![CDATA[<p>Stay ahead with <b>stdout</b>! 🚀 Dive into the latest cyber developments, from active breaches to emerging attack techniques.</p>
+
+<p>We unpack Logitech's data breach by the Clop gang, exploiting a third-party zero-day (CVE-2025-61882) to exfiltrate data. Discover the "ClickFix" malware campaign, which ingeniously abuses the decades-old Finger protocol (TCP port 79) as a LOLBIN to deliver Python infostealers and NetSupport Manager RATs. 🛡️</p>
+
+<p>Analyse the RondoDox botnet's active exploitation of unpatched XWiki servers via critical eval injection vulnerability CVE-2025-24893 (CVSS 9.8), enabling arbitrary remote code execution for guest users. This flaw, now in CISA's KEV catalogue, is being leveraged for DDoS attacks, crypto mining, and reverse shells. 🚨</p>
+
+<p>Finally, uncover the illicit scheme where five U.S. citizens aided North Korean IT workers in infiltrating 136 U.S. companies, generating over $2.2 million for the DPRK regime. Plus, the Department of Justice's pursuit of $15 million in cryptocurrency seized from APT38 (BlueNoroff). 💰</p>]]></description>
+      <pubDate>Sat, 15 Nov 2025 20:49:54 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13pXULGzKdJJGdKMgtKHRXhHNGIL3l_uT" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1763239794424</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, November 15, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential 24-hour intel drop for Cyber Security Analysts. Today, we unpack a flurry of active threats and critical vulnerabilities.</p>
 
