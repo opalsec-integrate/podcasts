@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, November 15, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential 24-hour intel drop for Cyber Security Analysts. Today, we unpack a flurry of active threats and critical vulnerabilities.</p>
+
+<p>Catch up on significant breaches including <b>DoorDash's</b> third incident via social engineering, <b>Clop's</b> unverified claim against NHS.uk, and <b>ShinyHunters'</b> hit on Checkout.com's legacy systems. Dive into the controversial use of Anthropic's Claude Code AI by Chinese state-sponsored actors (GTG-1002) for digital intrusions, and a 15,000+ IP botnet disrupting a Russian port operator. Plus, the FBI warns of an aggressive health insurance scam targeting Chinese speakers in the US. 🇨🇳</p>
+
+<p>On the threat intelligence front, CISA and the FBI update on <b>Akira ransomware's</b> expansion to Nutanix AHV, now a top-five variant exploiting SonicWall and Veeam. Cisco Talos details <b>Kraken ransomware</b>, a HelloKitty successor benchmarking systems for optimal encryption, often via SMB. We also cover the 'IndonesianFoods' self-spreading worm flooding the npm registry with 150,000+ packages for crypto token farming. 🐛</p>
+
+<p>Critical vulnerabilities demand immediate attention: Fortinet confirms a silently patched <b>FortiWeb zero-day (CVE-2025-64446)</b>, actively exploited since October to create admin users. ASUS warns of a critical <b>authentication bypass (CVE-2025-59367)</b> in DSL routers. Plus, discover "ShadowMQ" – remote code execution flaws impacting major AI inference frameworks from Meta, Nvidia, Microsoft, and PyTorch projects due to unsafe ZeroMQ and Python pickle deserialisation. 💥</p>
+
+<p>Finally, we look at government actions: The US establishes a "Scam Center Strike Force" against Chinese crypto scam networks, seizing over $401 million. A suspected Russian GRU officer faces extradition, and Google disrupts the "Smishing Triad's" Lighthouse text scam kit. The Justice Department secures guilty pleas in a North Korean IT worker scam, seizing $15 million from APT38. An op-ed highlights the urgent need for a cybersecurity talent incubator in the retail sector. ⚖️</p>]]></description>
+      <pubDate>Sat, 15 Nov 2025 09:48:57 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dq9JjukkxzUPaMRBcdD72vYgRZ6d8epF" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1763200137977</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, November 13, 2025</title>
       <description><![CDATA[<p>Major disruptions include the takedown of the <strong>Rhadamanthys infostealer</strong> operation and a UK court sentencing a fraudster for a <strong>£5 billion Bitcoin scam</strong>. 💰 We analyse the <strong>Qilin ransomware attack</strong> on UK pathology provider Synnovis, compromising sensitive patient data and severely disrupting NHS services. Plus, an APT group exploited <strong>zero-day vulnerabilities</strong> in Citrix NetScaler ADC/Gateway (CVE-2025-5777) and Cisco ISE (CVE-2025-20337), deploying custom web shells for likely espionage. 🕵️</p>
 
