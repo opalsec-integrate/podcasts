@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Thursday, November 20, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Threat Briefing</b> 🚨</p>
+
+<p>"Operation WrtHug," a China-linked campaign, has compromised 50,000 end-of-life ASUS WRT routers for suspected espionage. Globally, "ShadowRay 2.0" is cryptojacking over 230,000 Ray AI clusters by exploiting a critical RCE (CVE-2023-48022, CVSS 9.8). Major data breaches impacting 62 million students via PowerSchool and a Russian insurer, alongside a $25 million crypto laundering conviction, also feature in the last 24 hours.</p>
+
+<p>Uncover new attack vectors and threat intelligence: China-linked APT "PlushDaemon" is deploying the Go-based EdgeStepper implant for adversary-in-the-middle attacks, facilitating extensive data theft. Learn about a critical vulnerability in ServiceNow's Now Assist AI allowing second-order prompt injection, and a Python-based WhatsApp worm spreading the Eternidade Stealer across Brazilian devices. Amazon Threat Intelligence warns of "cyber-enabled kinetic targeting" by nation-states, while MI5 alerts on Chinese intelligence recruitment in UK democratic institutions.</p>
+
+<p>Stay ahead of actively exploited vulnerabilities: Fortinet warns of an OS command injection (CVE-2025-58034) in FortiWeb, now on CISA's KEV catalogue. A symbolic link-based RCE (CVE-2025-11001) in 7-Zip is under active exploitation, and a critical PHP command injection (CVE-2025-9501) in the W3 Total Cache WordPress plugin allows unauthenticated RCE.</p>
+
+<p>Finally, we examine critical data privacy and regulatory shifts: WhatsApp's enumeration flaw exposed 3.5 billion user records, while the Airlines Reporting Corporation ceases selling travel data to government agencies. The temporary expiration of CISA 2015 raises concerns, and the US, UK, and Australia sanction Russian bulletproof hosting provider Media Land. The EU's proposed "Digital Omnibus" package could significantly reshape GDPR and AI Act regulations, potentially rolling back privacy protections.</p>]]></description>
+      <pubDate>Wed, 19 Nov 2025 20:53:20 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hFH456G3kmCOoQ4eabDSUT27G4veEGL4" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1763585600552</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, November 16, 2025</title>
       <description><![CDATA[<p>Stay ahead with <b>stdout</b>! 🚀 Dive into the latest cyber developments, from active breaches to emerging attack techniques.</p>
 
