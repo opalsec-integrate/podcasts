@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, November 21, 2025</title>
+      <description><![CDATA[<p>Catch up on the last 24 hours in cyber security with <b>stdout</b>! 🇦🇺</p>
+
+<p>We're diving deep into active threats, starting with Iran-linked <b>Imperial Kitten</b> and <b>MuddyWater</b> blurring lines between cyber and kinetic warfare, mapping ship AIS and accessing CCTV before missile strikes. 🚢 Major data breaches also hit <b>PowerSchool</b> (millions of student records due to school board negligence), <b>Salesforce</b> (customer data theft linked to Gainsight, OAuth token revocation), and <b>FS Italiane Group</b> (2.3 TB exposed via IT provider). Legal actions see an Ohio IT contractor jailed for sabotage, crypto scammers sentenced, and arrests of <b>Void Blizzard</b> and <b>Jabber Zeus</b> affiliates. ⚖️</p>
+
+<p>Discover new attack techniques: MI5 warns of Chinese operatives using LinkedIn for intelligence. 🕵️‍♀️ Malicious VPN/ad-blocking browser extensions are intercepting web traffic, while the <b>Sneaky2FA</b> phishing kit now uses Browser-in-the-Browser (BitB) to bypass MFA. 🎣 macOS users beware <b>NovaStealer</b>, replacing Ledger/Trezor apps, and Android users, <b>Sturnus</b> can capture E2EE messages from Signal, WhatsApp, and Telegram. Researchers also released <b>SharpParty</b> for EDR evasion via Windows Thread Pools. 🛡️</p>
+
+<p>Critical vulnerabilities demand immediate attention! 🚨 <b>Fortinet FortiWeb</b> has two actively exploited zero-days (CVE-2025-58034, CVE-2025-64446), including an authenticated OS command injection and unauthenticated admin command execution. CISA has added one to its KEV <b>catalogue</b>. A critical pre-auth RCE (CVE-2025-61757) in <b>Oracle Fusion Middleware Identity Manager</b> and an unpatched two-year-old flaw (CVE-2023-48022) in the <b>Ray AI framework</b> are being exploited by <b>ShadowRay 2.0</b> for cryptomining. Patch alerts also for <b>glob CLI</b>, EOL <b>D-Link DIR-878</b> routers, <b>SonicWall SonicOS SSLVPN</b> DoS, and <b>Shelly Pro 4PM</b> smart relays. GreyNoise reports a 40-fold surge in scanning for <b>Palo Alto Networks GlobalProtect VPN</b>, often a precursor to new vulnerabilities. 📈</p>
+
+<p>Plus, the EU proposes GDPR changes for AI training, the FCC rescinds Biden-era telecom cyber regs, and sanctions hit Russian bulletproof hosting providers. 🌐</p>]]></description>
+      <pubDate>Thu, 20 Nov 2025 20:53:05 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U3iB_Z_OipHS7nV-suv5KnRhwS9ruX12" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1763671985889</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, November 20, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Threat Briefing</b> 🚨</p>
 
