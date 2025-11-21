@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, November 22, 2025</title>
+      <description><![CDATA[<p>Catch the latest in cyber! 🇦🇺 This daily dive into the last 24 hours covers critical breaches, emerging threats, and legal shifts impacting InfoSec professionals.</p>
+
+<p>🚨 **Active Threats & Breaches:** Salesforce customers are again reeling from a third-party vendor breach, with ShinyHunters (UNC6240) claiming responsibility for compromising data from nearly 1,000 organisations. We also unpack an insider threat at CrowdStrike and ransomware attacks hitting local government entities. Plus, the UK NCA's "Operation Destabilise" has exposed a Russian-linked money laundering network funnelling cybercrime profits into Russia's military-industrial complex. 💰</p>
+
+<p>🕵️‍♂️ **New Techniques & APTs:** Google TAG reveals "BadAudio," a previously undocumented malware used by China-linked APT24 in a three-year espionage campaign, employing sophisticated DLL hijacking and control flow flattening. Another report details how China-linked APT31 infiltrated Russia’s technology sector for years, exfiltrating data and masking activity via social media and timed intrusions. </p>
+
+<p>⚠️ **Vulnerabilities & Legal Landscape:** Grafana Labs issues a max severity warning for CVE-2025-41115 in Grafana Enterprise, allowing privilege escalation via SCIM provisioning. We also highlight the critical risks posed by legacy web forms across government agencies. In legal news, two British teenagers plead not guilty to Computer Misuse Act offences related to the Transport for London attack, while the SEC voluntarily dismisses its lawsuit against SolarWinds. Regulatory updates include the FCC rolling back telecom cybersecurity mandates and charges laid over attempts to smuggle restricted Nvidia AI chips to China. ⚖️</p>]]></description>
+      <pubDate>Fri, 21 Nov 2025 20:51:36 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1G88QiY8jQeUJAwDrx4TCBKjWjZHmLm-7" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1763758296212</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, November 21, 2025</title>
       <description><![CDATA[<p>Catch up on the last 24 hours in cyber security with <b>stdout</b>! 🇦🇺</p>
 
