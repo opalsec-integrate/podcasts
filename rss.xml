@@ -26,7 +26,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Sunday, November 23, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
+<p>Dive into the latest cyber threats! Today, we unpack a critical, actively exploited pre-authentication Remote Code Execution (RCE) vulnerability in <b>Oracle Identity Manager (CVE-2025-61757)</b>, now in CISA's KEV <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">catalogue</a>. Discover how a simple URL parameter bypasses authentication, enabling unauthenticated Groovy script execution and suspected zero-day exploitation since August.</p>
+<p>We also expose a massive <b>WhatsApp data scraping incident</b> that harvested 3.5 billion user records by abusing an unthrottled API. Plus, get the lowdown on China-linked <b>APT31 (Violet Typhoon)</b>, which stealthily targeted the Russian IT sector, leveraging legitimate cloud services and social media for C2 and exfiltration, remaining undetected for extended periods. 🕵️‍♂️</p>
+<p>Finally, explore <b>Matrix Push C2</b>, a new malware-as-a-service platform weaponising browser notifications for fileless, cross-platform phishing attacks. Learn how this innovative framework bypasses traditional security controls, offering persistent communication and advanced victim tracking, including enumerating cryptocurrency wallets. Stay ahead with actionable intelligence for cyber security analysts. 🛡️</p>]]></description>
+      <pubDate>Sat, 22 Nov 2025 20:49:52 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j4AONj8t8jWrajP40UJdjqsrEAvh6DFq" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1763844592173</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, November 22, 2025</title>
       <description><![CDATA[<p>Catch the latest in cyber! 🇦🇺 This daily dive into the last 24 hours covers critical breaches, emerging threats, and legal shifts impacting InfoSec professionals.</p>
 
