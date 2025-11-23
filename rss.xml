@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Monday, November 24, 2025</title>
+      <description><![CDATA[<h3>🚨 Data Breach Alert: Iberia & Supply Chain Risk</h3>
+<p>Stay sharp with stdout! This episode unpicks a recent data breach at Spanish airline Iberia, where a third-party supplier compromise led to the exposure of customer names, emails, and loyalty card IDs. We analyse the incident's scope, noting the airline's assurance that no login credentials or payment information were affected, and the broader implications of supply chain vulnerabilities.</p>
+
+<h3>🔒 Cross-Platform Security & Rust in Action</h3>
+<p>Then, we shift gears to a major step in cross-platform security: Google's enablement of file sharing between Android Quick Share and Apple AirDrop. We explore how this new capability, initially for Pixel 10-series devices, was built with security at its core, featuring extensive threat modelling, independent audits, and the strategic use of Rust to mitigate memory-safety vulnerabilities. Discover the current 'Everyone for 10 minutes' mode and Google's push for a 'Contacts Only' future. 📱</p>]]></description>
+      <pubDate>Sun, 23 Nov 2025 20:49:24 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14jLTP14K2ukGxyw53pwFNzsLD0RwR7K2" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1763930964159</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, November 23, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
 <p>Dive into the latest cyber threats! Today, we unpack a critical, actively exploited pre-authentication Remote Code Execution (RCE) vulnerability in <b>Oracle Identity Manager (CVE-2025-61757)</b>, now in CISA's KEV <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">catalogue</a>. Discover how a simple URL parameter bypasses authentication, enabling unauthenticated Groovy script execution and suspected zero-day exploitation since August.</p>
