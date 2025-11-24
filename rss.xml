@@ -26,7 +26,23 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Tuesday, November 25, 2025</title>
+      <description><![CDATA[<p>🚨 <strong>stdout: Daily Cyber Briefing</strong> 🚨</p>
+<p>Dive into the latest 24-hour cyber security landscape. We analyse significant breaches, active threats, and critical vulnerabilities impacting organisations globally.</p>
+
+<p>This episode unpacks major incidents including a voice phishing breach at <strong>Harvard University</strong>, data theft from <strong>Cox Enterprises</strong> via Clop ransomware, and the widespread <strong>Shai-Hulud npm supply chain attack</strong> compromising developer secrets. We also cover hacktivism targeting Donbas Post and data theft at SitusAMC.</p>
+
+<p>🔬 Our threat intelligence segment reveals <strong>PlushDaemon APT's "EdgeStepper" implant</strong> hijacking DNS traffic, <strong>APT 31's attacks on Russia's IT sector</strong>, and how politically sensitive prompts can make <strong>AI models generate more vulnerable code</strong>. Plus, new <strong>ClickFix variants</strong> are using steganography to deliver info stealers.</p>
+
+<p>🩹 Get the lowdown on actively exploited flaws: a critical deserialisation RCE in <strong>Microsoft WSUS (CVE-2025-59287)</strong>, five "trivial-to-exploit" vulnerabilities in <strong>Fluent Bit</strong> (urging updates to 4.1.1/4.0.12), and a years-old RCE in the <strong><code>glob</code> CLI tool (CVE-2025-64756)</strong>. Patch now!</p>
+
+<p>⚖️ We also touch on CISA's warnings regarding <strong>commercial spyware and drone threats</strong> to critical infrastructure, the UK's push for <strong>software developer liability</strong>, and the controversial reversal of FCC cybersecurity rules. Stay informed, stay secure.</p>]]></description>
+      <pubDate>Mon, 24 Nov 2025 20:52:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TQ6bIGnYx6myUYM32TYcijcqQxD6ecWd" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1764017531551</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, November 24, 2025</title>
       <description><![CDATA[<h3>🚨 Data Breach Alert: Iberia & Supply Chain Risk</h3>
 <p>Stay sharp with stdout! This episode unpicks a recent data breach at Spanish airline Iberia, where a third-party supplier compromise led to the exposure of customer names, emails, and loyalty card IDs. We analyse the incident's scope, noting the airline's assurance that no login credentials or payment information were affected, and the broader implications of supply chain vulnerabilities.</p>
