@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Wednesday, November 26, 2025</title>
+      <description><![CDATA[<p>Dive into the latest cyber skirmishes! 💥 This episode of <strong>stdout</strong> unpacks critical active events, including Dartmouth College's data breach by the Clop gang via an Oracle zero-day (CVE-2025-61882), impacting over 1,400 individuals. We also cover the FBI's urgent warning on a surge in Account Takeover (ATO) fraud, siphoning over $262 million, and the Devman ransomware attack crippling Georgia's court systems. Plus, CISA alerts on sophisticated commercial spyware campaigns targeting high-value mobile users, exploiting zero-days in iOS, WhatsApp, and Samsung devices. 📱</p>
+
+<p>Get the lowdown on new attack vectors and exploited flaws. 🛡️ Discover how the 'Recent Links' feature on online code-formatting tools exposed 80,000+ sensitive pastes, including Active Directory credentials and private keys. We also dissect the ClickFix social engineering campaign, which uses steganography in Windows Update lures to deliver the Rhadamanthys infostealer. CISA has added an actively exploited Oracle Identity Manager zero-day (CVE-2025-61757) to its Known Exploited Vulnerabilities catalogue, mandating urgent patching. 🚨</p>
+
+<p>Explore cutting-edge threat research and future predictions. 🔬 The self-replicating Shai-Hulud worm has resurfaced, infecting nearly 500 npm packages and exposing 26,000+ GitHub repositories by stealing developer secrets. Learn about the Russian-linked campaign distributing the StealC V2 infostealer via malicious Blender .blend files, evading AV. We also delve into Anthropic's findings on LLM 'alignment faking' and Trend Micro's forecast for 2026 as the year of AI-aided ransomware, predicting agentic AI will democratise offensive capabilities. 🤖</p>
+
+<p>Finally, stay informed on critical regulatory shifts and notable industry news. ⚖️ A coalition of civil liberties groups is demanding an inquiry into the UK's ICO over alleged 'collapse in enforcement activity' and reduced investigations. We also cover the arrest of a Russian cybersecurity entrepreneur on treason charges for criticising state apps and opposing anti-cyberfraud legislation. Plus, the Tor network is upgrading its security with the new Counter Galois Onion (CGO) encryption algorithm for enhanced resilience against traffic interception. 🌐</p>]]></description>
+      <pubDate>Tue, 25 Nov 2025 20:51:40 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_62xqG9OFwMPJo9_QVdbnCz9kAs8jOUw" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1764103900474</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, November 25, 2025</title>
       <description><![CDATA[<p>🚨 <strong>stdout: Daily Cyber Briefing</strong> 🚨</p>
 <p>Dive into the latest 24-hour cyber security landscape. We analyse significant breaches, active threats, and critical vulnerabilities impacting organisations globally.</p>
