@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Saturday, November 29, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential update on the last 24 hours in cybersecurity. 🚨</p>
+
+<p>This episode unpacks major breaches including a <b>$30M Solana heist</b> from Upbit, a data compromise affecting 230,000+ Brsk customers, the French Football Federation's data leak, and Asahi's encounter with <b>Qilin ransomware</b> impacting 1.5 million. 📉</p>
+
+<p>We dive deep into new threats: the <b>Shai-Hulud 2.0 npm worm</b> that exfiltrated credentials from 25,000+ developers via CI/CD misconfiguration, and a critical <b>Microsoft Teams guest access blind spot</b> bypassing MDO365 protections. Plus, discover <b>17,000+ exposed live secrets</b> across GitLab Cloud repos, including GCP and OpenAI keys. 🔑</p>
+
+<p>Also on the agenda: California's new universal opt-out law for data sharing, GrapheneOS's departure from OVHcloud over French privacy concerns, the UK's Budget forecast leak via a guessable URL, and an Australian man sentenced for operating "evil twin" Wi-Fi networks to steal credentials. 🇦🇺</p>]]></description>
+      <pubDate>Fri, 28 Nov 2025 20:50:41 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1D2mrhV1Ga-7DBRbu_y4E7jB8ZYKiOs5U" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1764363041247</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, November 28, 2025</title>
       <description><![CDATA[<p>🚨 <b>Breaches & Active Campaigns:</b> This episode of stdout dives into the latest cyber incidents, including the permanent shutdown of <b>Crisis24's OnSolve CodeRED</b> following an INC ransomware attack and PII leak. We unpack <b>Asahi's Qilin ransomware</b> fallout impacting nearly two million individuals, and the <b>ShinyHunters breach</b> affecting Gainsight's Salesforce-connected apps. Plus, an <b>OpenAI API data breach</b> via smishing, the FCC's alarm over <b>US radio equipment hijacking</b>, and the <b>Scattered Lapsus$ Hunters'</b> new campaign targeting Zendesk users with typosquatting and weaponised helpdesk tickets.</p>
 
