@@ -26,7 +26,21 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Sunday, November 30, 2025</title>
+      <description><![CDATA[<p>🚨 On <b>stdout</b> today: We dissect the significant data breach impacting Japanese beer giant Asahi Group Holdings. 🍺</p>
+<p>Explore the fallout from the September ransomware attack, claimed by the <b>Qilin group</b>, which compromised personal data for up to <b>1.9 million individuals</b> – including customers, external contacts, and current/retired employees.</p>
+<p><b>Key details include:</b></p>
+<ul>
+    <li><b>Exposed Data:</b> Full names, genders, physical & email addresses, phone numbers. Dates of birth for employees.</li>
+    <li><b>No Payment Card Info:</b> Asahi confirms payment card details were <i>not</i> compromised.</li>
+    <li><b>Ongoing Response:</b> Two months post-incident, Asahi continues system restoration and implements enhanced cyber defence strategies, including redesigned communication routes and tightened network controls. 🛡️</li>
+</ul>]]></description>
+      <pubDate>Sat, 29 Nov 2025 20:49:05 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15z1g_tgxnZpmH7mvN2r6DKT6XcTAsyR-" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1764449345177</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, November 29, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your essential update on the last 24 hours in cybersecurity. 🚨</p>
 
