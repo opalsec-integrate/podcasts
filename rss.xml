@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, December 2, 2025</title>
+      <description><![CDATA[<p>Stay ahead with <b>stdout</b>! 🇦🇺 This episode dives into the last 24 hours of cyber developments, featuring a massive data breach impacting <b>33.7 million Coupang customers</b> and a critical <b>supply chain attack</b> on the SmartTube Android TV app. We also cover the French Football Federation's member data compromise.</p>
+
+<p>We track active threats, including the <b>Lazarus Group's alleged $30 million crypto heist</b> from Upbit and the arrest of individuals exploiting <b>120,000 IP cameras</b>. Plus, an Australian man faces jail time for Wi-Fi Pineapple attacks, and authorities dismantle the <b>€1.3 billion Cryptomixer service</b>. 🕵️‍♂️</p>
+
+<p>New threat research reveals the <b>Tomiris actor's use of Telegram/Discord for C2</b>, and the seven-year "ShadyPanda" operation infecting <b>4.3 million Chrome/Edge users</b> with malicious browser extensions. 🕵️‍♀️ We also expose <b>17,000 live secrets</b> found in public GitLab repositories.</p>
+
+<p>In regulatory news, Switzerland advises against hyperscale clouds for sensitive data, Singapore issues directives to Google/Apple on fake government messages, and Russia imposes 'restrictive measures' on WhatsApp. ⚖️ The FTC also settles with Illuminate Education over a 2021 student data breach, highlighting poor security practices and delayed notifications.</p>]]></description>
+      <pubDate>Mon, 01 Dec 2025 20:52:20 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17hHCA6ZOovAhqxEUwW7nBTzUDVY8VNTK" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1764622340516</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, December 1, 2025</title>
       <description><![CDATA[<p>🚨 <b>Active Exploitation Alert!</b> CISA has added <strong>CVE-2021-26829</strong> to its Known Exploited Vulnerabilities catalogue. This critical cross-site scripting flaw in OpenPLC ScadaBR is being actively exploited by the pro-Russian hacktivist group <strong>TwoNet</strong>. Learn how they gained initial access via default credentials, established persistence, and defaced HMI login pages in industrial control systems. We also detail TwoNet's evolving tactics, from DDoS to targeting industrial systems and offering ransomware-as-a-service. 🛠️</p>
 
