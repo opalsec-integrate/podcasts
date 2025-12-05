@@ -26,7 +26,37 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Saturday, December 6, 2025</title>
+      <description><![CDATA[<p><b>stdout: Your Daily Cyber Briefing</b> 🇦🇺</p>
+<p>Stay ahead with stdout, your daily deep dive into critical cyber security developments. We analyse active cyber events, emerging attack techniques, and exploited vulnerabilities impacting analysts today.</p>
+
+<p>🚨 <b>Active Breaches & Ransomware:</b></p>
+<ul>
+    <li>Pharmaceutical firm Inotiv impacted by a Qilin ransomware attack, affecting 9,542 individuals with 176GB of data exfiltrated.</li>
+    <li>Asus confirms a third-party supplier compromise by the Everest ransomware gang, resulting in 1TB of camera source code theft.</li>
+    <li>Barts Health NHS Trust reports a data breach following a Clop ransomware Oracle zero-day exploit, exposing patient invoice details and former employee data.</li>
+</ul>
+
+<p>🕵️‍♂️ <b>New Threats & Techniques:</b></p>
+<ul>
+    <li>Multi-agency advisories warn of <b>BRICKSTORM</b>, a sophisticated Golang backdoor attributed to PRC state-sponsored actors (UNC5221/Warp Panda), targeting VMware vSphere and Windows for long-term persistence and credential extraction.</li>
+    <li>Revelations about Intellexa's Predator spyware detail remote access to customer systems, the "Aladdin" malicious mobile ad vector, and multiple Android/iOS zero-days enabling one-click infections.</li>
+    <li>Anthropic's SCONE-bench highlights AI agents' increasing proficiency in exploiting smart contract vulnerabilities, making profitable autonomous exploitation technically feasible.</li>
+    <li>Discover new zero-click agentic browser attacks capable of deleting entire Google Drives via LLM-powered assistants, alongside "HashJack" manipulating AI browsers with hidden prompts.</li>
+    <li>The FBI warns of evolving virtual kidnapping scams, now using AI-altered social media photos for fake proof-of-life.</li>
+</ul>
+
+<p>⚠️ <b>Critical Vulnerabilities Under Active Exploitation:</b></p>
+<ul>
+    <li><b>React2Shell (CVE-2025-55182):</b> A critical insecure deserialisation flaw in React Server Components 'Flight' protocol, actively exploited by China-linked actors (Earth Lamia, Jackpot Panda) for unauthenticated RCE, causing a widespread Cloudflare outage.</li>
+    <li>A command injection vulnerability in <b>Array AG Series VPN</b> devices (ArrayOS AG 9.4.5.8 and earlier) is being actively exploited to plant PHP webshells and create rogue users. A fix is available in ArrayOS 9.4.5.9.</li>
+</ul>]]></description>
+      <pubDate>Fri, 05 Dec 2025 20:51:57 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1o1olSfTGD-GLR3IKbvz2HFPlzcaJIHMb" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1764967917722</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, December 5, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Brief:</b> Your essential update on the past 24 hours in cyber security. We're dissecting active threats, emerging techniques, and critical vulnerabilities impacting organisations worldwide.</p>
 
