@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Sunday, December 7, 2025</title>
+      <description><![CDATA[<h3>🚨 stdout: Daily Cyber Briefing 🚨</h3>
+
+<p>Dive into the latest cyber threats! This episode unpacks <b>CVE-2025-55182, "React2Shell,"</b> a critical 10.0 CVSS insecure deserialisation flaw in React Server Components. 💥 Actively exploited by China state-nexus groups like Earth Lamia, Jackpot Panda, and UNC5174, this vulnerability enables unauthenticated RCE, leading to AWS credential theft attempts, cryptojacking, and downloader deployment across an estimated 2.15 million internet-facing instances. CISA has added it to their KEV catalogue, confirming widespread impact and urgent mitigation needs.</p>
+
+<p>We also analyse groundbreaking threat research: discover "IDEsaster" and "PromptPwnd," over 30 new vulnerabilities in AI coding tools like GitHub Copilot and Google Gemini. 🤖 These flaws leverage prompt injection and auto-approved agent calls for data exfiltration and RCE. Plus, learn about a novel SVG/CSS clickjacking technique by Lyra Rebane, bypassing the same-origin policy to exfiltrate sensitive data, even when JavaScript is blocked. 🖼️</p>
+
+<p>Stay informed on evolving attack vectors: the FBI warns of a rise in AI-enhanced virtual kidnapping scams, using doctored social media images for fake proof-of-life in extortion attempts. 📞 Finally, we examine the shift to phishing-resistant passkeys, exploring their cryptographic benefits, widespread adoption, and the remaining social engineering risks for multi-device implementations. 🔑</p>]]></description>
+      <pubDate>Sat, 06 Dec 2025 20:51:34 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nYJun6RPRb8W0MOr9uNUnq_fEayfw57P" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1765054294591</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, December 6, 2025</title>
       <description><![CDATA[<p><b>stdout: Your Daily Cyber Briefing</b> 🇦🇺</p>
 <p>Stay ahead with stdout, your daily deep dive into critical cyber security developments. We analyse active cyber events, emerging attack techniques, and exploited vulnerabilities impacting analysts today.</p>
