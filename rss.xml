@@ -26,7 +26,17 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Monday, December 8, 2025</title>
+      <description><![CDATA[<p>🇦🇺 <b>stdout: Daily Cyber Briefing</b> 🇦🇺</p>
+<p>Today, we unpack a critical development for cybersecurity analysts: Portugal's new legal safe harbour for good-faith security research. 🛡️ This pivotal policy update, Article 8.o-A, now exempts ethical vulnerability detection from previous cybercrime classifications, empowering researchers to uncover exploitable weaknesses without legal fear. 🔍</p>
+<p>We detail the strict conditions governing this exemption, including immediate disclosure, no economic benefit beyond professional compensation, and prohibitions against service disruption or data harm. This move aims to foster proactive identification of vulnerabilities and improve overall cyber resilience. 🚀</p>
+<p>Understand how Portugal's stance aligns with an international trend, mirroring protections in Germany and the US, and its implications for responsible vulnerability disclosure and the future of ethical hacking. Essential insights for every analyst tracking the evolving threat landscape. 🌐</p>]]></description>
+      <pubDate>Sun, 07 Dec 2025 20:49:18 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OsZDgBpKddBxs3uas9TsF662Y93r9EmC" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1765140558751</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, December 7, 2025</title>
       <description><![CDATA[<h3>🚨 stdout: Daily Cyber Briefing 🚨</h3>
 
