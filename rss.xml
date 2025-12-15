@@ -26,7 +26,24 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, December 16, 2025</title>
+      <description><![CDATA[<h3>stdout: Daily Cyber Briefing 🎙️</h3>
+
+Catch up on the last 24 hours in cyber security! 🚨 We analyse active cyber events, new techniques, and critical vulnerabilities you need to know.
+
+<p><b>Breaches & Active Attacks:</b> The French Interior Ministry confirms an email server attack, while Jaguar Land Rover reveals payroll data theft by Scattered Lapsus Hunters. Financial sector breaches hit Prosper Marketplace (13.1M) and 700Credit (5.8M), exposing sensitive PII. An insider breach at Opexus compromised federal agency data, and Spanish police nab a suspect for selling 64M records. Plus, track espionage from WIRTE/Ashen Lepus and APT36, alongside Operation Hanoi Thief targeting Vietnamese entities.</p>
+
+<p><b>Techniques & Tradecraft:</b> Dive into evolving threat actor tradecraft. 🛠️ Active Adversary-in-the-Middle (AitM) phishing campaigns are bypassing MFA for Microsoft 365 and Okta SSO users, while large-scale phishing leverages fake Calendly invites and Browser-in-the-Browser techniques. Discover how digital calendar subscriptions are exploited for malicious content, and learn about the advanced tactics of 'The Gentlemen' ransomware. Interestingly, CyberVolk's VolkLocker RaaS has a critical flaw allowing free decryption!</p>
+
+<p><b>Exploited Vulnerabilities:</b> Urgent patches are out for actively exploited zero-days! 🐞 Apple and Google addressed critical WebKit bugs (CVE-2025-14174, CVE-2025-43529) used by commercial spyware. We also cover a SOAPwn vulnerability in .NET, an un-CVE'd flaw in Gladinet CentreStack/Triofox, and the actively exploited WinRAR path traversal (CVE-2025-6218). Widespread exploitation continues for React2Shell (CVE-2025-55182), linked to multiple state-backed groups. Plus, a new Windows RasMan DoS zero-day has unofficial patches available.</p>
+
+<p><b>Key Developments:</b> 🌐 CISA & MITRE release the 2025 CWE Top 25, with XSS still at number one. The NCSC weighs in on cyber-deception, and Microsoft rolls out new PowerShell security warnings and a Baseline Security Mode for Office. We also touch on upcoming US travel data requirements, a Ukrainian national charged for critical infrastructure attacks, and Denmark's controversial VPN proposals. Stay informed on these crucial developments!</p>]]></description>
+      <pubDate>Mon, 15 Dec 2025 20:53:50 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZXpCjx1TQjs-8qDYykhJXR9Uo3fgxVbT" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1765832030058</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, December 8, 2025</title>
       <description><![CDATA[<p>🇦🇺 <b>stdout: Daily Cyber Briefing</b> 🇦🇺</p>
 <p>Today, we unpack a critical development for cybersecurity analysts: Portugal's new legal safe harbour for good-faith security research. 🛡️ This pivotal policy update, Article 8.o-A, now exempts ethical vulnerability detection from previous cybercrime classifications, empowering researchers to uncover exploitable weaknesses without legal fear. 🔍</p>
