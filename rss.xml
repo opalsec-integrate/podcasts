@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, December 17, 2025</title>
+      <description><![CDATA[<p>🚨 <b>Breaches & Attacks:</b> ShinyHunters targets PornHub (via Mixpanel SMS phishing) and SoundCloud, exposing millions of user records. RansomHouse hits Askul, stealing 740,000 customer details via compromised credentials lacking multi-factor authentication. Venezuela's PDVSA also reports a cyberattack impacting administrative systems.</p>
+
+<p>🕵️‍♂️ <b>New Threats & Techniques:</b> Discover SantaStealer, a new malware-as-a-service aiming for in-memory operation, despite poor OpSec. Amazon Threat Intelligence reveals Russia's GRU (Sandworm) shifting to exploit misconfigured AWS edge devices for critical infrastructure access. Huntress Labs warns of a surge in hypervisor ransomware, with Akira leading the charge. Plus, a malicious NuGet package, "Tracer.Fody.NLog," found stealing crypto wallet data for nearly six years.</p>
+
+<p>💥 <b>Active Exploitation:</b> Threat actors are actively weaponising the critical React2Shell vulnerability (CVE-2025-55182, CVSS 10.0) to deploy Linux backdoors and steal cloud/AI credentials, with over 111,000 IPs vulnerable. Also, unauthenticated bypass flaws in Fortinet FortiGate devices (CVE-2025-59718, CVE-2025-59719) are under active exploitation, allowing attackers to export device configurations if FortiCloud SSO is enabled. Patch immediately or disable FortiCloud SSO!</p>
+
+<p>⚖️ <b>Privacy & Policy:</b> The Texas AG sues major smart TV manufacturers (Sony, Samsung, LG, Hisense, TCL) over alleged secret recording and selling of viewing habits via ACR. We also cover challenges for CISA renewal, MI6's tech-augmented intelligence vision, Google discontinuing its "dark web report" tool, and European law enforcement dismantling a €10M call centre fraud network.</p>]]></description>
+      <pubDate>Tue, 16 Dec 2025 20:51:50 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=147fwvbQ_iWFuZKi11Qgb1DXZpN3z88iL" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1765918310570</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, December 16, 2025</title>
       <description><![CDATA[<h3>stdout: Daily Cyber Briefing 🎙️</h3>
 
