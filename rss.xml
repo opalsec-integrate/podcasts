@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, December 27, 2025</title>
+      <description><![CDATA[🚨 **Breach Alert!** The Trust Wallet Chrome extension (v2.68.0) was compromised, leading to an estimated $7 million in crypto losses through seed phrase exfiltration. Plus, pro-Russian group NoName057(16) claims a DDoS attack on France's La Poste, and GrubHub users received fraudulent crypto scam emails from a legitimate subdomain.
+
+🕵️‍♂️ **APT Insights:** Kaspersky uncovers the China-linked Evasive Panda (Bronze Highland) APT, which deployed its MgBot backdoor via DNS poisoning and adversary-in-the-middle attacks. Discover their sophisticated techniques, including custom encryption and payloads disguised as PNGs, targeting entities in Türkiye, China, and India.
+
+🤖 **AI in Cyber Warfare:** The accelerating pace of AI-driven attacks demands a strategic shift. We explore how threat actors exploit vulnerabilities within minutes and the critical need for defenders to leverage AI in defence. Plus, re-evaluate your tabletop exercises to simulate AI-powered attacks, including prompt injection and data exfiltration, and discover the importance of 'analog friction' for critical actions.]]></description>
+      <pubDate>Fri, 26 Dec 2025 20:49:37 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RqKFzOhv87D0xauJFvfQrQRZtv7hlWxS" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1766782177105</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, December 17, 2025</title>
       <description><![CDATA[<p>🚨 <b>Breaches & Attacks:</b> ShinyHunters targets PornHub (via Mixpanel SMS phishing) and SoundCloud, exposing millions of user records. RansomHouse hits Askul, stealing 740,000 customer details via compromised credentials lacking multi-factor authentication. Venezuela's PDVSA also reports a cyberattack impacting administrative systems.</p>
 
