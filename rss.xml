@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Sunday, December 28, 2025</title>
+      <description><![CDATA[Dive into the latest cyber security developments with stdout. Today, we unpack a <b>high-severity vulnerability</b> impacting MongoDB: <i>CVE-2025-14847</i>. Rated <b>CVSS 8.7</b>, this flaw allows unauthenticated clients to read uninitialised heap memory, potentially exposing sensitive in-memory data. 🚨
+
+We analyse the technical specifics: the issue stems from <i>improper handling of length parameter inconsistency</i> within Zlib compressed protocol headers. Mismatched length fields can lead to the disclosure of internal state information or pointers, which could significantly aid further exploitation. 🕵️‍♂️
+
+Are your MongoDB deployments at risk? We detail the <b>affected versions</b>, including 8.2.0-8.2.3, 8.0.0-8.0.16, 7.0.0-7.0.26, 6.0.0-6.0.26, 5.0.0-5.0.31, 4.4.0-4.4.29, and all 4.2, 4.0, and 3.6 series. ⚠️ Crucially, <b>patches are available</b> in versions 8.2.3, 8.0.17, 7.0.28, 6.0.27, 5.0.32, and 4.4.30. If immediate patching isn't feasible, we discuss the recommended mitigation: disabling zlib compression on your MongoDB Server. 🛠️]]></description>
+      <pubDate>Sat, 27 Dec 2025 20:49:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fSqv5W5WxDgiu9V4tky1HZoamtSvJmfr" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1766868551647</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, December 27, 2025</title>
       <description><![CDATA[🚨 **Breach Alert!** The Trust Wallet Chrome extension (v2.68.0) was compromised, leading to an estimated $7 million in crypto losses through seed phrase exfiltration. Plus, pro-Russian group NoName057(16) claims a DDoS attack on France's La Poste, and GrubHub users received fraudulent crypto scam emails from a legitimate subdomain.
 
