@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, December 30, 2025</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your daily dive into the last 24 hours of cyber security. Tracking significant breaches: insider threats at <b>Coupang</b> (33M customer data) & <b>Coinbase</b> (69.5k customers), plus external leaks impacting <b>Wired</b> subscribers (2.3M emails) & <b>Korean Air</b> employees.</p>
+
+<p>💰 Ransomware rampages on: <b>Gentlemen ransomware</b> hits Oltenia Energy Complex, and a supply chain attack on <b>Marquis Software</b> affects up to 1.35 million bank customers via a SonicWall exploit. A critical compromise of <b>Trust Wallet's browser extension</b> also led to a $7 million crypto heist from 2,596 wallets.</p>
+
+<p>⚠️ Stay ahead of active threats: <b>CVE-2025-14847 (MongoBleed)</b>, a critical MongoDB vulnerability allowing unauthenticated data leaks, and the ongoing exploitation of a five-year-old <b>Fortinet FortiOS 2FA bypass (CVE-2020-12812)</b> in SSL VPNs.</p>
+
+<p>🕵️‍♂️ New tradecraft: a sophisticated spear-phishing campaign using 27 malicious <b>npm packages</b> for resilient hosting, targeting critical infrastructure-adjacent organisations. Plus, a major arrest in a <b>clipper malware</b> operation that stole $1.2 million in crypto by swapping clipboard addresses on 2.8 million systems.</p>
+
+<p>💡 We also analyse the inadequacy of traditional security frameworks against <b>AI-specific attack vectors</b>, with 23.77 million secrets leaked via AI systems in 2024 alone. Finally, explore Europe's push for digital sovereignty with <b>GAIA-X</b> and France's CNIL fining <b>Nexpublica France</b> €1.7 million for poor cyber security practices and GDPR violations.</p>]]></description>
+      <pubDate>Mon, 29 Dec 2025 20:52:20 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fLueH5BWe8hSShxwBvQE4BdBFgiC23Cb" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767041540556</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, December 28, 2025</title>
       <description><![CDATA[Dive into the latest cyber security developments with stdout. Today, we unpack a <b>high-severity vulnerability</b> impacting MongoDB: <i>CVE-2025-14847</i>. Rated <b>CVSS 8.7</b>, this flaw allows unauthenticated clients to read uninitialised heap memory, potentially exposing sensitive in-memory data. 🚨
 
