@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, December 31, 2025</title>
+      <description><![CDATA[<p>🚨 **Active Threats & Breaches:** Two ex-incident responders pleaded guilty to launching BlackCat ransomware attacks against US organisations. An ex-Coinbase agent was arrested for selling 70,000 customer records, leading to phishing and attempted extortion. South Korea's KT Telecom faced scrutiny over insecure femtocells enabling fraud and communication snooping. Plus, the European Space Agency confirmed a breach of external servers, with 200GB of data exfiltrated.</p>
+
+<p>🕵️‍♂️ **New Techniques & Threat Actors:** Chinese state-backed Mustang Panda is deploying a novel kernel-mode rootkit for the ToneShell backdoor, targeting governments in Southeast and East Asia. Cybercrime group Silver Fox is hitting Indian users with tax-themed phishing delivering ValleyRAT via DLL hijacking, and utilising SEO poisoning for backdoor distribution. A new "Zoom Stealer" campaign, linked to DarkSpectre, is harvesting corporate meeting intelligence from 2.2 million users via malicious browser extensions.</p>
+
+<p>⚠️ **Critical Vulnerabilities & AI Security:** A high-severity information disclosure flaw in MongoDB Server, dubbed "MongoBleed" (CVE-2025-14847), is under active exploitation, allowing unauthenticated attackers to leak sensitive server memory. OpenAI warns that prompt injection for AI browser agents may never be fully "solved," highlighting evolving security risks. We also touch on the call for a unified federal framework for AI regulation in the US amidst fragmented state laws.</p>]]></description>
+      <pubDate>Tue, 30 Dec 2025 20:51:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TRRpwQ4l08VwD1hkfIBpN_4QH915FiF3" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767127873122</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, December 30, 2025</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b> Your daily dive into the last 24 hours of cyber security. Tracking significant breaches: insider threats at <b>Coupang</b> (33M customer data) & <b>Coinbase</b> (69.5k customers), plus external leaks impacting <b>Wired</b> subscribers (2.3M emails) & <b>Korean Air</b> employees.</p>
 
