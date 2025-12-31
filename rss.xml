@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Thursday, January 1, 2026</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
+
+<p>Dive into the latest 24-hour cyber landscape! This episode unpacks significant active events, emerging threats, and critical vulnerabilities. We cover the <b>Unleash Protocol's $3.9M crypto loss</b> due to an <b>unauthorised contract upgrade</b> via a multisig governance exploit, and the <b>European Space Agency's 200GB data breach</b> from external servers.</p>
+
+<p>Explore new attack vectors with the Chinese APT <b>DarkSpectre's browser extension campaigns</b> impacting over 8.8 million users, and the novel <b>ErrTraffic cybercrime service</b> automating ClickFix attacks. On the exploitation front, the <b>RondoDox botnet is actively leveraging the critical React2Shell flaw (CVE-2025-55182)</b> in Next.js servers to deploy cryptominers and Mirai variants. Plus, a severe <b>authentication bypass (CVE-2025-13915) in IBM API Connect</b> demands immediate patching.</p>
+
+<p>Also, hear about <b>ALPHV BlackCat affiliates pleading guilty</b> to extortion, Disney's $10M COPPA penalty, Hong Kong's new "Money Safe" anti-fraud measures, and the mysterious delisting of Intellexa/Predator spyware individuals by OFAC. Finnish authorities have also seized a ship suspected of damaging a Baltic Sea subsea cable. Stay informed, stay secure!</p>]]></description>
+      <pubDate>Wed, 31 Dec 2025 20:50:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YxmTkJlBaug-uvF-EvCYoN9BlI4MQ6Oo" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767214211561</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, December 31, 2025</title>
       <description><![CDATA[<p>🚨 **Active Threats & Breaches:** Two ex-incident responders pleaded guilty to launching BlackCat ransomware attacks against US organisations. An ex-Coinbase agent was arrested for selling 70,000 customer records, leading to phishing and attempted extortion. South Korea's KT Telecom faced scrutiny over insecure femtocells enabling fraud and communication snooping. Plus, the European Space Agency confirmed a breach of external servers, with 200GB of data exfiltrated.</p>
 
