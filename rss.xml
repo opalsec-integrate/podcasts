@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, January 2, 2026</title>
+      <description><![CDATA[<p><b>stdout: Your Daily Cyber Security Briefing</b> 🇦🇺</p>
+
+<p>Dive into the last 24 hours of critical cyber developments! 🚀 We're tracking a <b>$3.9M crypto heist</b> from Unleash Protocol via smart contract compromise and the arrest of a Lithuanian national for a <b>$1.2M clipboard-stealing malware</b> operation. Get the lowdown on a coordinated campaign exploiting <b>10+ Adobe ColdFusion CVEs</b>, plus Amazon thwarting over 1,800 suspected North Korean operatives infiltrating its workforce. 🕵️‍♂️</p>
+
+<p>Unpack new threats including the <b>RondoDox botnet</b> actively exploiting the critical React2Shell vulnerability (CVE-2025-55182, CVSS 10.0) on 90,000+ susceptible devices. Discover the resurfaced <b>GlassWorm supply chain attack</b> targeting macOS users with malicious Open VSX extensions, and Kaspersky's discovery of <b>Keenadu pre-installed Android malware</b>. We also cover OceanLotus (APT32) targeting China's Xinchuang initiative with a unique ELF Trojan. 💻</p>
+
+<p>Explore the emerging <b>IPCola proxy botnet</b> with 1.6M+ IPs and the <b>ErrTraffic cybercrime toolkit</b> automating "ClickFix" attacks. Understand how a global <b>Magecart campaign</b> is evolving into full identity compromise, and the intricacies of <b>GhostAd</b> (Android) and <b>SkyWalk</b> (iOS) mobile ad fraud schemes. We also reveal a 4-second window in <b>AWS IAM eventual consistency</b> allowing persistence after key deletion. 🔒</p>
+
+<p>Finally, we examine "hacktivist proxy operations" providing plausible deniability for states, Meta's alleged "playbook" to mislead regulators on scam ads, Disney's $10M COPPA settlement, and Reddit banning the r/ChatGPTjailbreak community for deepfake content. Stay informed, stay secure. 💡</p>]]></description>
+      <pubDate>Thu, 01 Jan 2026 20:50:42 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eDyLjJmuM5CRfxWm9_t-vu0ARo5sAkEr" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767300642472</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, January 1, 2026</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
 
