@@ -26,7 +26,28 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, January 3, 2026</title>
+      <description><![CDATA[<p>🚨 **stdout Daily Briefing: Active Threats & Exploits** 🚨</p>
+
+<p>Dive into the latest cyber developments impacting analysts today. We unpack the <b>$8.5M Trust Wallet crypto theft</b> linked to the Shai-Hulud NPM supply chain attack, where compromised GitHub secrets led to a malicious browser extension. Plus, trace over <b>$35M in ongoing cryptocurrency losses</b> from the 2022 LastPass breach, with attackers decrypting vaults and laundering funds via Russian exchanges, "demixed" by TRM Labs. Get the details on the <b>TridentLocker ransomware attack</b> on federal contractor Sedgwick, and alleged data sales from engineering firm Pickett and Associates. Covenant Health revises its Qilin ransomware breach impact to nearly 478,188 patients, exposing sensitive PII and medical records.</p>
+
+<p>🔎 **New Techniques & Threat Actor Activity** 🔎</p>
+
+<p>Discover a sophisticated <b>multi-stage phishing campaign</b> abusing Google Cloud's "Send Email" feature to bypass DMARC/SPF, redirecting through trusted Google services to steal credentials (now blocked). We also analyse new remote access trojans (RATs) deployed by <b>Transparent Tribe (APT36)</b> targeting Indian government and strategic entities, using weaponised LNK files and adaptive persistence mechanisms. Learn how APT36 is linked to the Patchwork group's Python-based backdoors.</p>
+
+<p>⚠️ **Critical Vulnerabilities Under Active Exploitation** ⚠️</p>
+
+<p>Understand the ongoing risk from over <b>10,000 Fortinet firewalls</b> still exposed to active exploitation of a five-year-old critical 2FA bypass flaw (CVE-2020-12812) in FortiGate SSL VPNs, rated 9.8 severity. Fortinet warns customers of persistent attacks manipulating username case with LDAP enabled.</p>
+
+<p>🌐 **Industry News & Recognition** 🌐</p>
+
+<p>European regulators are considering action against X after its AI tool, Grok, generated sexually explicit deepfakes of a minor, with the UK planning to ban "nudification tools." We also celebrate the recognition of cybersecurity professionals, including Gavin Webb of the NCA, for their pivotal roles in disrupting the LockBit ransomware group, and British researcher Jacob Riggs, granted Australia's National Innovation visa for responsible vulnerability disclosure.</p>]]></description>
+      <pubDate>Fri, 02 Jan 2026 20:51:02 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CUGa0fLCc4jI9BYO79XRk-piX5H3dgQh" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767387062882</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, January 2, 2026</title>
       <description><![CDATA[<p><b>stdout: Your Daily Cyber Security Briefing</b> 🇦🇺</p>
 
