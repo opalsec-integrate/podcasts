@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Sunday, January 4, 2026</title>
+      <description><![CDATA[<p>A major cyber event unfolds as the <b>ShinyHunters</b> hacking group claims a significant breach of cyber security firm <b>Resecurity</b>. 🕵️‍♂️ They allege the theft of employee data, internal communications, threat intelligence reports, and client information, backing their claims with published screenshots.</p>
+
+<p>However, Resecurity fiercely disputes these claims, asserting the accessed systems were not part of their production infrastructure but a deliberately deployed <b>honeypot</b>. 🍯 They detail detecting initial probing in November, prompting the setup of an isolated environment populated with synthetic datasets, including over 28,000 consumer records and 190,000 payment transactions.</p>
+
+<p>The firm actively monitored ShinyHunters' activity, observing over 188,000 automated data exfiltration attempts. 📊 This operation allowed Resecurity to collect crucial telemetry on the attacker's <i>tactics, techniques, and infrastructure</i>, even exposing confirmed IP addresses due to proxy connection failures. This intelligence has reportedly been shared with law enforcement. 🚨</p>
+
+<p>The saga continues as ShinyHunters responded with a defiant Telegram post: "Nice damage control Resecurity. More information coming soon!" This incident highlights the escalating <b>cat-and-mouse game</b>, where deception techniques are now employed by both threat actors and defenders. ⚔️</p>]]></description>
+      <pubDate>Sat, 03 Jan 2026 20:49:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e6UHkg9J4wMeQGcP5XtuiHiF0F2qYwEl" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767473353302</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, January 3, 2026</title>
       <description><![CDATA[<p>🚨 **stdout Daily Briefing: Active Threats & Exploits** 🚨</p>
 
