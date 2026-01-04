@@ -26,7 +26,23 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Monday, January 5, 2026</title>
+      <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
+
+<p>This episode dives into critical cyber developments from the last 24 hours:</p>
+
+<ul>
+    <li><b>Breaches & Active Threats:</b> Clop group claims responsibility for a breach at Korean Air's former unit, KC&D, compromising 30,000 employees' PII via a suspected Oracle EBS zero-day. Emurasoft's official EmEditor installer was hijacked, delivering a malicious PowerShell payload. Plus, Westminster City Council confirms sensitive data theft from a November incident affecting shared IT systems.</li>
+    <li><b>Critical Vulnerabilities:</b> Discover a CVSS 10.0 unauthenticated root RCE (CVE-2025-54322) in Xspeeder SXZOS firmware, identified by an AI agent. With Xspeeder unresponsive, an estimated 70,000 hosts remain vulnerable.</li>
+    <li><b>Emerging Threats (AI):</b> Palo Alto Networks predicts AI agents will be the biggest insider threat by 2026, highlighting "superuser" and "AI doppelganger" risks. Learn how attackers are already using AI as a force multiplier, exemplified by the "Anthropic attack."</li>
+    <li><b>Regulatory Watch:</b> The Trump administration has lifted sanctions on three individuals previously associated with the Intellexa spyware consortium.</li>
+</ul>]]></description>
+      <pubDate>Sun, 04 Jan 2026 20:49:53 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14ciJJVwybOiOfJW-wu59RYMh7u1JXBkI" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767559793716</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, January 4, 2026</title>
       <description><![CDATA[<p>A major cyber event unfolds as the <b>ShinyHunters</b> hacking group claims a significant breach of cyber security firm <b>Resecurity</b>. 🕵️‍♂️ They allege the theft of employee data, internal communications, threat intelligence reports, and client information, backing their claims with published screenshots.</p>
 
