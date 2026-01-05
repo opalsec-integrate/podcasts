@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Tuesday, January 6, 2026</title>
+      <description><![CDATA[<p>Dive into the last 24 hours of cyber developments. We unpack significant breaches including New Zealand's ManageMyHealth exposing 100,000+ patient records and Ledger customers' data compromised via a third-party. Discover how Trust Wallet's Chrome extension suffered an $8.5M theft due to exposed GitHub secrets, and track UAC-0184's Viber-based attacks on Ukrainian entities. Plus, we cover Brightspeed's investigation into a 1M+ PII data theft claim and a successful Resecurity honeypot operation against the Scattered Lapsus$ Hunters. 🚨</p>
+
+<p>Explore emerging threats and techniques: From the Python-based VVS Stealer targeting Discord and browser data, to China's DarkSpectre compromising 8.8 million users with browser extension malware. Learn about Mustang Panda's new kernel-mode rootkit, the latest callback phishing and vishing campaigns abusing Microsoft Teams, and malvertising tactics delivering FireClient malware via fake SAP Concur extensions. 🕵️‍♂️</p>
+
+<p>Crucial vulnerability alerts: The RondoDox botnet is actively exploiting the critical React2Shell flaw (CVE-2025-55182, CVSS 10.0) for unauthenticated RCE on over 84,000 devices. Uncover Bluetooth headphone vulnerabilities allowing data exfiltration and impersonation, and the risks of "recommended extension" attacks in VSCode IDE forks. Stay ahead with the facts. 💥</p>]]></description>
+      <pubDate>Mon, 05 Jan 2026 20:51:27 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qSb-6JbPj_plj4QHHZDIkhu78fhU7Rgr" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767646287232</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, January 5, 2026</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Briefing</b> 🚨</p>
 
