@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Wednesday, January 7, 2026</title>
+      <description><![CDATA[<p>🚨 Dive into the last 24 hours of cyber security with <i>stdout</i>. We're tracking active threats, new techniques, and critical vulnerabilities impacting organisations globally.</p>
+
+<p>This episode, we unpack the widespread data theft by <b>Zestix/Sentap</b>, leveraging info-stealers and a lack of MFA to compromise critical infrastructure and more. Discover how a UK school was crippled by a cyberattack, the <b>Ledger</b> breach via a payment partner, and the <b>TridentLocker</b> ransomware hitting a federal contractor. Plus, the £196 million impact of the <b>Jaguar Land Rover</b> cyberattack.</p>
+
+<p>🔍 On the research front, we expose the <b>PHALT#BLYX</b> campaign targeting European hospitality with DCRat via fake Booking.com emails and BSOD tricks. Learn about the expanding <b>Kimwolf Android botnet</b>, now nearly 2 million strong, exploiting exposed ADB services for DDoS and proxy resale. We also reveal how researchers identified members of the notorious <b>Scattered Lapsus$ Hunters</b> group.</p>
+
+<p>⚠️ Critical vulnerabilities demand attention: a <b>CVSS 9.9 RCE</b> in the n8n workflow automation platform (CVE-2025-68668) allowing arbitrary command execution via a sandbox bypass. Also, actively exploited command injection (CVE-2026-0625) in end-of-life <b>D-Link DSL routers</b>, urging immediate replacement.</p>
+
+<p>Beyond the exploits, we discuss the reclassification of industrialised fraud as a global security threat and Microsoft's controversial stance on AI prompt injection as a non-vulnerability. We also highlight "Prompt Poaching" – malicious and legitimate Chrome extensions exfiltrating your AI chat data. Finally, the UK government launches its <b>£210 million Cyber Action Plan</b>, acknowledging past shortcomings and aiming to uplift public sector defences.</p>]]></description>
+      <pubDate>Tue, 06 Jan 2026 20:51:28 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fj-ZVHFm7NVtO8cuLkO6HOCUCfgI_vM2" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767732688332</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, January 6, 2026</title>
       <description><![CDATA[<p>Dive into the last 24 hours of cyber developments. We unpack significant breaches including New Zealand's ManageMyHealth exposing 100,000+ patient records and Ledger customers' data compromised via a third-party. Discover how Trust Wallet's Chrome extension suffered an $8.5M theft due to exposed GitHub secrets, and track UAC-0184's Viber-based attacks on Ukrainian entities. Plus, we cover Brightspeed's investigation into a 1M+ PII data theft claim and a successful Resecurity honeypot operation against the Scattered Lapsus$ Hunters. 🚨</p>
 
