@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Thursday, January 8, 2026</title>
+      <description><![CDATA[<h3>🚨 stdout: Daily Cyber Briefing 🚨</h3>
+
+Stay ahead with the latest in cyber security! This episode dives into critical developments from the last 24 hours, covering active breaches, exploited vulnerabilities, and emerging threat techniques.
+
+<p>We unpack significant cyberattacks impacting global entities: 💥 <b>Brightspeed ISP</b> investigating claims of 1M+ customer records stolen, 🚗 <b>Jaguar Land Rover's</b> production halted by Scattered Lapsus$ Hunters, and the 🛰️ <b>European Space Agency</b> confirming another major breach with 500GB of sensitive data exfiltrated, allegedly via an unpatched vulnerability. The 🇬🇧 <b>UK Ministry of Justice</b> faces scrutiny after a £50M cyber investment failed to detect a breach for months, compromising sensitive legal aid data. Plus, 🇹🇼 <b>Taiwan's energy sector</b> sees a tenfold increase in Chinese cyberattacks, correlating with geopolitical events, and ☁️ <b>ownCloud</b> users are urged to enable MFA following infostealer-led breaches.</p>
+
+<p>On the vulnerability front, we highlight actively exploited flaws: ⚠️ A critical RCE (CVE-2026-0625) in legacy <b>D-Link DSL gateway routers</b> is under active exploitation, allowing unauthenticated command injection. 🛡️ <b>Veeam Backup & Replication</b> has patched a critical RCE (CVE-2025-59470) allowing code execution as a postgres user, a frequent target for ransomware. Furthermore, the maximum severity "Ni8mare" vulnerability (CVE-2026-21858) in <b>n8n workflow automation</b> could allow unauthenticated remote file reading and potential RCE on over 100,000 servers – update to v1.121.0+ immediately!</p>
+
+<p>Discover new threat research and industry insights: 🇷🇺 Pro-Russian hacktivist group <b>NoName057(16)</b> is leveraging its multiplatform DDoSia tool for sustained application-layer attacks. We also discuss the crucial role of AI in proactive risk management, the second successful prosecution of a <b>stalkerware vendor</b>, and the 🇬🇧 <b>UK's new £210M Government Cyber Action Plan</b> to bolster public sector defences. Stay informed on regulatory changes, including new <b>FCC fines for robocall mitigation</b> database non-compliance, and a significant <b>Microsoft Outlook bug</b> preventing access to "Encrypt Only" emails. Don't miss the details on a multi-billion dollar scam empire dismantled in Cambodia and concerns over communication in bug bounty programmes.</p>]]></description>
+      <pubDate>Wed, 07 Jan 2026 20:52:01 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pyCLDHifGYuajm4G6ScIjQnsoUFCo_4E" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767819121680</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, January 7, 2026</title>
       <description><![CDATA[<p>🚨 Dive into the last 24 hours of cyber security with <i>stdout</i>. We're tracking active threats, new techniques, and critical vulnerabilities impacting organisations globally.</p>
 
