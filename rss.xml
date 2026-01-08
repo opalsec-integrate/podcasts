@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Friday, January 9, 2026</title>
+      <description><![CDATA[<p>Stay ahead with <b>stdout</b>! 🇦🇺 Your daily deep dive into the last 24 hours of cyber security. Today, we're unpacking critical vulnerabilities, active exploits, and evolving threat tactics.</p>
+
+<p>🚨 **Urgent Vulnerabilities & Exploits:** We're tracking "ni8mare" (CVE-2026-21858, CVSS 10.0) in n8n automation, allowing unauthenticated RCE on 100,000 servers. CISA has added two critical flaws to its KEV catalogue: a max-severity RCE in HPE OneView (CVE-2025-37164, CVSS 10.0) and a 15-year-old Microsoft Office PowerPoint bug (CVE-2009-0556, CVSS 8.8), both actively exploited. Plus, a zero-day command injection (CVE-2026-0625, CVSS 9.3) is hitting end-of-life D-Link DSL gateways – replacement is key! We also cover data theft via jsPDF (CVE-2025-68428, CVSS 9.2) and RCEs in Zed IDE.</p>
+
+<p>😈 **New Attack Techniques & Campaigns:** Discover the "Boto Cor-de-Rosa" Python WhatsApp worm spreading Astaroth banking trojan in Brazil, and the GoBruteforcer botnet targeting crypto databases with weak AI-generated passwords. IBM's AI coding agent "Bob" is vulnerable to prompt injection for malware execution and data exfiltration. MuddyWater is evolving with custom backdoors, and Phishing-as-a-Service toolkits have doubled, featuring advanced anti-analysis and MFA bypass capabilities. We also look at `pkr_mtsi` malvertising campaigns and GeoServer exploitation for XMRig miners.</p>
+
+<p>🌐 **Threat Landscape & Breaches:** Iberia airline confirms a 77GB data leak from a Zestix/Sentap infostealer. Emsisoft reports a 50%+ increase in ransomware attacks globally, with CISA adding 245 KEVs in 2025, 24 exploited by ransomware groups. Taiwan's energy sector saw a tenfold increase in Chinese cyberattacks. Also, Microsoft Exchange Online faces an IMAP4 outage, and ownCloud advises MFA due to Zestix/Sentap data auctions.</p>
+
+<p>⚖️ **Regulatory & Privacy Watch:** UK regulators are investigating X and Grok AI over nonconsensual imagery generation, a major test for the Online Safety Act. OpenAI faces privacy concerns with its ChatGPT Health program and is ordered to provide 20 million logs in a copyright lawsuit. Microsoft is enforcing MFA for the 365 admin centre from Feb 2026. Plus, rare criminal prosecutions for stalkerware and transnational scam networks.</p>]]></description>
+      <pubDate>Thu, 08 Jan 2026 20:54:51 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SUEY0zaPOdDokinVqWDDe-UjY5zk23ql" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1767905691046</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, January 8, 2026</title>
       <description><![CDATA[<h3>🚨 stdout: Daily Cyber Briefing 🚨</h3>
 
