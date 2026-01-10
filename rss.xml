@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Sunday, January 11, 2026</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Brief:</b> Catch up on the last 24 hours in cyber security!</p>
+
+<p>We're diving into significant developments, including the arrest of 34 individuals linked to the <b>Black Axe cybercrime syndicate</b>, responsible for over $6 million in Business Email Compromise and Man-in-the-Middle scams. Plus, the latest iteration of <b>BreachForums suffered a data breach</b>, exposing 323,988 user records and over 70,000 public IP addresses, posing a critical operational security risk. 🕵️‍♂️</p>
+
+<p>On the threat intelligence front, the Iranian actor <b>MuddyWater (TA450) has deployed RustyWater</b>, a new Rust-based implant (Archer RAT/RUSTRIC). This custom malware is distributed via spear-phishing, targeting diplomatic, maritime, financial, and telecom entities across the Middle East with advanced C2 and anti-analysis capabilities. We also unpack a World Economic Forum study on <b>deepfake fraud tools</b>, revealing their current limitations against live Know Your Customer (KYC) checks but highlighting the emergence of advanced identity fraud capabilities. 🎣</p>
+
+<p>In data privacy, discover how digital advocates are developing <b>counter-surveillance methods against US Immigration and Customs Enforcement (ICE) technologies</b>, including adversarial noise stickers for license plates and mapping tools for Flock Automated License Plate Readers (ALPRs). Finally, we examine the controversial exclusion of central and local government from the <b>UK's new Cyber Security and Resilience Bill</b>, drawing criticism amidst high public sector cyber incidents. 🛡️</p>]]></description>
+      <pubDate>Sat, 10 Jan 2026 20:50:42 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QpGz9P7c4GZ3YQelzqn70GCHCuRTA6CT" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768078242246</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, January 10, 2026</title>
       <description><![CDATA[<p>🚨 <b>Active Threats & Breaches:</b> Unpack the latest cyber incidents, including malicious Chrome extensions exfiltrating sensitive LLM conversations and browsing data from 900,000 users. We also cover a significant Snapchat phishing scheme and the Illinois DHS's accidental exposure of nearly 700,000 residents' personal and health data due to misconfigured privacy settings. Plus, get the lowdown on North Korean state-sponsored group Kimsuky (APT43) utilising "quishing" with malicious QR codes in MFA-resilient spearphishing campaigns. 🎣</p>
 
