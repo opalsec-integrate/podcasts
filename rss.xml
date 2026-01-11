@@ -26,7 +26,16 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Monday, January 12, 2026</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Brief:</b> Dive into the latest cyber developments! Instagram denies a new 17.5 million account data breach, attributing circulating phone numbers, usernames, and emails to older API scraping incidents. Meta confirms fixing a bug allowing mass password reset requests. <b>Key takeaway:</b> No passwords leaked, but vigilance against targeted phishing and 2FA are crucial. 🛡️</p>
+
+<p>⚖️ We also analyse significant data privacy actions. CalPrivacy has fined Datamasters $45,000 and banned them from selling Californian PII for reselling sensitive health data without registration. S&P Global Inc. also copped a $62,600 fine for an administrative error in failing to register as a data broker. Stay informed on regulatory compliance and the upcoming California Delete Act. 📊</p>]]></description>
+      <pubDate>Sun, 11 Jan 2026 20:49:49 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EzEcVMuMFwDlqS_z5KppQ4fY62JBynai" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768164589831</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, January 11, 2026</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Brief:</b> Catch up on the last 24 hours in cyber security!</p>
 
