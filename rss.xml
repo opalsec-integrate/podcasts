@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Tuesday, January 13, 2026</title>
+      <description><![CDATA[<p><b>stdout: Your Daily Cyber Intel Briefing.</b> 🇦🇺 Dive into the last 24 hours of information security, delivering critical insights for Cyber Security Analysts.</p>
+
+<p>🚨 Today's critical updates feature major data breaches impacting <b>Target</b> (860GB source code), the <b>University of Hawaii Cancer Center</b> (ransomware, SSNs stolen), and Spanish energy giant <b>Endesa</b> (10M+ customer records for sale). Even <b>BreachForums</b> wasn't immune, exposing 324,000 user accounts. We also cover the alleged breach of US House committees by <b>Salt Typhoon</b> and a UK school closure due to cyberattack.</p>
+
+<p>🔍 Unpack the latest threat intelligence: From the industrial scale of <b>Pig Butchering-as-a-Service (PBaaS)</b> to new <b>GoBruteforcer</b> attacks on cryptocurrency databases and threat actors scanning for misconfigured <b>LLM proxy servers</b>. Learn about Block's successful <b>AI prompt injection</b> red-team, the <b>Kimwolf Android botnet</b>, and evolving phishing campaigns like "Prompt Poaching" Chrome extensions and DCRat targeting hospitality organisations.</p>
+
+<p>💥 Don't miss urgent vulnerability patches: CISA's directive on the actively exploited <b>Gogs RCE (CVE-2025-8110)</b> zero-day, the maximum-severity <b>n8n RCE (CVE-2026-21858 "Ni8mare")</b>, and critical flaws in <b>Veeam</b>. Plus, suspected Chinese exploitation of <b>VMware ESXi zero-days</b> and a concerning <b>Telegram IP leak</b> via proxy links.</p>
+
+<p>🌍 We also cover the US's "gray zone" cyber operations, the doubling of AI security risk assessments by business leaders, and X's formal investigation by Ofcom over content concerns. Stay ahead with stdout.</p>]]></description>
+      <pubDate>Mon, 12 Jan 2026 20:54:23 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DGkkR0iQWb95oBssvoToLsrroO6GHbnJ" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768251263668</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, January 12, 2026</title>
       <description><![CDATA[<p>🚨 <b>stdout Daily Brief:</b> Dive into the latest cyber developments! Instagram denies a new 17.5 million account data breach, attributing circulating phone numbers, usernames, and emails to older API scraping incidents. Meta confirms fixing a bug allowing mass password reset requests. <b>Key takeaway:</b> No passwords leaked, but vigilance against targeted phishing and 2FA are crucial. 🛡️</p>
 
