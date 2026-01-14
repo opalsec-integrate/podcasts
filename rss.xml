@@ -26,7 +26,21 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Thursday, January 15, 2026</title>
+      <description><![CDATA[<p>⚡️ **stdout: Daily Cyber Debrief** ⚡️</p>
+<p>Tracking critical incidents from the last 24 hours: a ransomware attack crippling Belgian hospitals and a thwarted Russian cyberattack on Poland's power grid. Major data breaches impacted Monroe University, Endesa, Eurail, and the Victorian Department of Education, while Pax8 accidentally exposed partner data. 🏥🔌</p>
+
+<p>Unpack the latest in threat actor activity and novel techniques: Russia's 'Void Blizzard' targeting Ukraine's Defence Forces with PluggyApe, and the significant takedown of the RedVDS cybercrime service. Get across new research on VoidLink, an advanced cloud-native Linux malware framework, DeadLock ransomware's Polygon smart contract C2, Predator spyware's anti-detection capabilities, and the Kimwolf botnet infecting Android TV devices. 🕵️‍♂️👾</p>
+
+<p>Stay ahead of the curve with insights into critical vulnerabilities: Microsoft's January Patch Tuesday zero-day (CVE-2026-20805), RCE flaws in popular AI/ML Python libraries, a Node.js DoS vulnerability, and a publicly exploited command injection in Fortinet FortiSIEM (CVE-2025-25256). We also cover "Reprompt," a new attack method that hijacked Microsoft Copilot Personal sessions. 🚨🛠️</p>
+
+<p>Finally, we examine the broader threat landscape: North Korea's extensive crypto thefts funding WMDs, China's intensifying "siege rehearsal" cyberattacks on Taiwan's critical infrastructure, and new Western guidance for securing industrial OT. Plus, France's CNIL issues a hefty GDPR fine to Free/Free Mobile, California investigates xAI's Grok AI for deepfake allegations, and CISA awaits a permanent director. 🌏⚖️</p>]]></description>
+      <pubDate>Wed, 14 Jan 2026 20:57:59 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VGVMFaR48hL7Am_unmGcyPLhr-7tTUAn" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768424279219</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, January 14, 2026</title>
       <description><![CDATA[<p>🚨 <b>Breaches & Law Enforcement Blitz:</b> This episode of stdout dives into a massive 24 hours, starting with the breach of <b>BreachForums</b> exposing 324,000 users. We analyse the confirmed leak of <b>Target's</b> internal source code and documentation, plus suspected ransomware attacks hitting South Korea's <b>Kyowon Group</b> and Belgium's <b>AZ Monica hospital</b>. Central Maine Healthcare also reports a data breach affecting over 145,000 individuals. On the law enforcement front, we cover a 7-year sentence for hacking Rotterdam ports, the arrest of a "violence-as-a-service" coordinator for the Foxtrot network, and the disruption of the Black Axe criminal organisation in Spain. 🚔</p>
 
