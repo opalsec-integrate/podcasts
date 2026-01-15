@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, January 16, 2026</title>
+      <description><![CDATA[<p>🚨 **stdout Daily Briefing: Cyber Threats & Vulnerabilities Unpacked** 🚨</p>
+
+<p>The last 24 hours in cyber security saw a major ransomware attack on South Korean conglomerate Kyowon Group, impacting over 5.5 million individuals with exfiltrated customer data. Meanwhile, a staff member has been bailed following a data breach investigation at a UK GP surgery. 💥</p>
+
+<p>In new threat research, Microsoft, Europol, and German authorities successfully disrupted RedVDS, a prolific cybercrime-as-a-service platform linked to an estimated $40 million in fraud. We also unpack a critical prompt injection risk in Anthropic's Cowork AI, allowing sensitive file exfiltration to attacker accounts. 🕵️‍♂️</p>
+
+<p>Our analysis highlights several high-stakes vulnerabilities: a high-severity DoS flaw in Palo Alto Networks PAN-OS (CVE-2026-0227) allowing unauthenticated attackers to disable firewalls, and critical bugs in Delta Electronics PLCs that could lead to unsafe physical conditions. AWS CodeBuild's "CodeBreach" misconfiguration risked GitHub repository takeovers, while Google's Fast Pair protocol is exposed to "WhisperPair" (CVE-2025-36911), a critical flaw affecting hundreds of millions of Bluetooth devices, enabling forced pairing and eavesdropping. 🔒</p>
+
+<p>Beyond the exploits, we examine Cyble's report on hackers increasingly targeting non-critical sectors in Australia and New Zealand with initial access sales and ransomware. 🇦🇺🇳🇿 Plus, we cover the record surge in CVE assignments, major data privacy shifts including the FTC's ban on GM/OnStar sharing driver data, AWS's new European Sovereign Cloud, and the concerning potential for AI tools to inadvertently normalise foreign influence. 💡</p>]]></description>
+      <pubDate>Thu, 15 Jan 2026 20:52:38 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1L5Vy_oYphT4j-m-fKBDwR6lOMrawObr4" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768510358770</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, January 15, 2026</title>
       <description><![CDATA[<p>⚡️ **stdout: Daily Cyber Debrief** ⚡️</p>
 <p>Tracking critical incidents from the last 24 hours: a ransomware attack crippling Belgian hospitals and a thwarted Russian cyberattack on Poland's power grid. Major data breaches impacted Monroe University, Endesa, Eurail, and the Victorian Department of Education, while Pax8 accidentally exposed partner data. 🏥🔌</p>
