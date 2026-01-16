@@ -26,7 +26,46 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, January 17, 2026</title>
+      <description><![CDATA[<p>🚀 <strong>stdout: Your Daily Cyber Intel Briefing</strong></p>
+<p>Dive deep into the last 24 hours of cyber security with 16 critical articles across five key topics. We summarise the latest active threats, exploited vulnerabilities, and evolving attack techniques impacting organisations globally.</p>
+
+<p>🚨 <strong>Active Cyber Events & Breaches:</strong></p>
+<ul>
+    <li><strong>Grubhub</strong> confirms a data breach and extortion demands from ShinyHunters, potentially linked to previous data thefts.</li>
+    <li>Canada's <strong>CIRO</strong> discloses a sophisticated phishing attack impacting 750,000 investors, with PII at risk.</li>
+    <li>The <strong>Anchorage Police Department</strong> proactively took systems offline after a third-party data migration service provider was compromised.</li>
+</ul>
+
+<p>💥 <strong>Critical Vulnerabilities Under Attack:</strong></p>
+<ul>
+    <li><strong>Cisco</strong> patches a maximum-severity zero-day RCE (CVE-2025-20393) in AsyncOS, actively exploited by China-linked APT UAT-9686.</li>
+    <li><strong>HPE OneView</strong>'s critical RCE (CVE-2025-37164) is under large-scale exploitation by the RondoDox botnet, targeting government and financial sectors.</li>
+    <li>Hackers are actively exploiting an authentication bypass (CVE-2026-23550) in the <strong>Modular DS WordPress plugin</strong>, granting remote admin access.</li>
+    <li>Discover <strong>StackWarp</strong> (CVE-2025-29943), an AMD CPU vulnerability allowing malicious insiders to access sensitive data in SEV-SNP environments.</li>
+    <li>Plus, a critical IoT flaw in <strong>Äike e-scooters</strong> due to default private keys, and a simple XSS in <strong>CISA's own web tool</strong>.</li>
+</ul>
+
+<p>🕵️‍♂️ <strong>Threat Actor Insights & Malware Evolution:</strong></p>
+<ul>
+    <li>China-linked APT <strong>UAT-8837</strong> targets North American critical infrastructure, utilising a Sitecore zero-day (CVE-2025-53690) and Earthworm for reverse tunnelling.</li>
+    <li><strong>Mustang Panda</strong> deploys a new Lotuslite backdoor in phishing campaigns against US government entities.</li>
+    <li>The alleged ringleader of <strong>Black Basta ransomware</strong>, Oleg Evgenievich Nefedov, has been identified and added to international most-wanted lists.</li>
+    <li>An Initial Access Broker, "r1z," pleads guilty to selling network access and EDR killer malware, linked to a $50M ransomware attack.</li>
+    <li><strong>Gootloader</strong> evolves its evasion tactics with highly malformed ZIP archives designed to crash analysis tools.</li>
+</ul>
+
+<p>🔒 <strong>Data Privacy & Future Defences:</strong></p>
+<ul>
+    <li>The <strong>Carlsberg Experience</strong> exposed visitor data due to weak authentication on wristband IDs.</li>
+    <li>Explore <strong>PNNL's ALOHA</strong>, an AI-based system utilising LLMs to drastically reduce attack reconstruction and purple teaming times.</li>
+</ul>]]></description>
+      <pubDate>Fri, 16 Jan 2026 20:52:03 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c9cXCRH10zgcIjn99BCAwofiDvUIr_0F" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768596723514</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, January 16, 2026</title>
       <description><![CDATA[<p>🚨 **stdout Daily Briefing: Cyber Threats & Vulnerabilities Unpacked** 🚨</p>
 
