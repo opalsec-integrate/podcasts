@@ -26,7 +26,45 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Tuesday, January 20, 2026</title>
+      <description><![CDATA[<p>Stay ahead with stdout's daily deep dive into the latest in cyber security. Today, we unpack 13 critical developments from the last 24 hours, covering active threats, novel tradecraft, and crucial policy shifts.</p>
+
+<p>🚨 <strong>Active Threats & Breaches:</strong></p>
+<ul>
+    <li>Higham Lane School crippled by a serious cyberattack impacting IT and physical safety systems.</li>
+    <li>Ingram Micro disclosed a SafePay ransomware breach affecting 42,521 individuals' personal data.</li>
+    <li>Iranian state television was briefly hijacked to broadcast protest footage.</li>
+    <li>The NCSC warns of ongoing DDoS attacks on UK critical infrastructure by pro-Russia hacktivists.</li>
+</ul>
+
+<p>🕵️‍♂️ <strong>New Tradecraft & Exploits:</strong></p>
+<ul>
+    <li>Discover PDFSider, a stealthy Windows backdoor used in Qilin ransomware attacks, delivered via DLL side-loading.</li>
+    <li>The KongTuke campaign deploys ModeloRAT through a malicious Chrome extension masquerading as an ad blocker.</li>
+    <li>Researchers exploited an XSS vulnerability in the StealC info stealer's control panel, gaining insights into threat actor operations and uncovering a prolific lone-wolf actor.</li>
+    <li>Mandiant releases rainbow tables to accelerate Net-NTLMv1 deprecation, cracking credentials in under 12 hours.</li>
+</ul>
+
+<p>⚖️ <strong>Legal & Law Enforcement:</strong></p>
+<ul>
+    <li>A US Navy sailor sentenced to 16 years for selling technical manuals and operational information to Chinese intelligence.</li>
+    <li>Nicholas Moore pleaded guilty to hacking US government systems, including the Supreme Court.</li>
+    <li>A Jordanian Initial Access Broker linked to a $50 million ransomware attack after selling network access to an undercover FBI agent.</li>
+    <li>Interpol apprehended 34 individuals in Spain tied to the Nigeria-based Black Axe syndicate.</li>
+</ul>
+
+<p>🛡️ <strong>Policy, Privacy & Critical Updates:</strong></p>
+<ul>
+    <li>Examine security and safety concerns surrounding OpenAI's new ChatGPT Health product.</li>
+    <li>US lawmakers push to restrict ICE's Mobile Fortify app, addressing civil liberties and biometric surveillance.</li>
+    <li>Microsoft issues an urgent Windows 11 out-of-band update (KB5077797) to fix critical shutdown and Remote Desktop authentication bugs.</li>
+</ul>]]></description>
+      <pubDate>Mon, 19 Jan 2026 21:30:08 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SUliEKLuLHQjP98fp2XR3HA_eCsFkeKt" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768858208359</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, January 17, 2026</title>
       <description><![CDATA[<p>🚀 <strong>stdout: Your Daily Cyber Intel Briefing</strong></p>
 <p>Dive deep into the last 24 hours of cyber security with 16 critical articles across five key topics. We summarise the latest active threats, exploited vulnerabilities, and evolving attack techniques impacting organisations globally.</p>
