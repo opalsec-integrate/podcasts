@@ -26,7 +26,26 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Wednesday, January 21, 2026</title>
+      <description><![CDATA[<p>Key cyber security developments from the last 24 hours include the <b>Nomad Leopard</b> campaign, targeting Afghan government employees with spear-phishing and FalseCub malware for data exfiltration. Discover how AI is revolutionising cybercrime, with "Dark LLMs" enabling rapid malware development and deepfake fraud. We highlight the AI-generated <b>VoidLink Linux malware</b>, which targets major cloud environments and was likely developed by a single individual in under a week. 🤖</p>
+
+<p>Analyse critical vulnerabilities:</p>
+<ul>
+    <li>A prompt injection flaw in <b>Google Gemini AI</b>, exploitable via Google Calendar invites to access private meeting data and create deceptive events.</li>
+    <li>Three critical bugs in <b>Anthropic's Git Model Context Protocol (MCP) server</b>, chainable for remote code execution or file overwrites through prompt injection.</li>
+    <li>Easy-to-exploit arbitrary file read and SSRF flaws in the popular open-source AI framework <b>Chainlit</b>, leading to data leaks and account takeovers (patched in v2.9.4).</li>
+    <li>A patched ACME validation bug in <b>Cloudflare</b> that allowed Web Application Firewall (WAF) bypass to origin servers. 🛡️</li>
+</ul>
+
+<p>Explore the evolving threat landscape with the reported winding down of the illicit Telegram-based <b>Tudou Guarantee</b> marketplace and the alarming rise of "predator bots" exploiting APIs, now accounting for over half of global web traffic and causing significant economic harm. We also examine sustained cyber threats from pro-Russian hacktivist groups, primarily through disruptive DDoS attacks, and discuss essential layered defence strategies. 📊</p>
+
+<p>Finally, get the lowdown on US congressional moves to temporarily extend key cybersecurity laws and allocate significant funding to CISA, including for election security. Plus, reports of mass spam attacks leveraging <b>Zendesk</b> instances from major companies like Live Nation and Capcom, often bypassing spam filters. 🚨</p>]]></description>
+      <pubDate>Tue, 20 Jan 2026 20:51:44 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lJ1hBXeQBqu2usmPeF0yekbgKAdmlztX" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1768942304936</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, January 20, 2026</title>
       <description><![CDATA[<p>Stay ahead with stdout's daily deep dive into the latest in cyber security. Today, we unpack 13 critical developments from the last 24 hours, covering active threats, novel tradecraft, and crucial policy shifts.</p>
 
