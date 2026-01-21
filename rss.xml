@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Thursday, January 22, 2026</title>
+      <description><![CDATA[<p>Dive into the latest 24-hour cyber landscape with critical updates on active threats. We're tracking the <b>Everest ransomware group's Under Armour breach</b>, leaking 72.7 million accounts, and a sophisticated <b>mobile phishing campaign in Greece</b> using a fake cell tower. Discover the alleged leader of <b>Black Basta ransomware</b> and a critical <b>LastPass phishing campaign</b> targeting master passwords. 🎣</p>
+
+<p>Unpack new attack techniques with the "CrashFix" variant of ClickFix, deploying malicious browser extensions and the Python-based ModeloRAT. Get insights into <b>VoidLink, a stealthy Linux malware framework</b> developed with AI assistance for long-term cloud access. ☁️</p>
+
+<p>Stay ahead of critical vulnerabilities: active exploitation of a <b>FortiGate patch bypass (CVE-2025-59718)</b>, a severe <b>WordPress ACF: Extended flaw (CVE-2025-14533)</b> granting admin privileges, and a fixed <b>Cloudflare WAF bypass</b>. We also cover arbitrary JS execution in the <b>`binary-parser` npm library</b>, "ChainLeak" vulnerabilities in the <b>Chainlit AI framework</b>, and the stunning <b>37 zero-days demonstrated at Pwn2Own Automotive 2026</b>, including a Tesla hack. 🚗</p>
+
+<p>Finally, we explore the ethical complexities of ransomware negotiations, <b>HackerOne's new AI Research Safe Harbour</b>, the UK's push for secure software, Ireland's proposed surveillance legislation, and the EU's potential phase-out of "high-risk" IT suppliers. Don't miss why the <b>cURL project ended its bug bounty</b>! ⚖️</p>]]></description>
+      <pubDate>Wed, 21 Jan 2026 20:51:44 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sOD5pkSymIBU9mX2WqbYWueLxUPO37eu" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1769028704557</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, January 21, 2026</title>
       <description><![CDATA[<p>Key cyber security developments from the last 24 hours include the <b>Nomad Leopard</b> campaign, targeting Afghan government employees with spear-phishing and FalseCub malware for data exfiltration. Discover how AI is revolutionising cybercrime, with "Dark LLMs" enabling rapid malware development and deepfake fraud. We highlight the AI-generated <b>VoidLink Linux malware</b>, which targets major cloud environments and was likely developed by a single individual in under a week. 🤖</p>
 
