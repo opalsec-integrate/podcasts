@@ -26,7 +26,36 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Friday, January 23, 2026</title>
+      <description><![CDATA[<b>🚨 Active Threats & Breaches:</b> Automated attacks are targeting Fortinet FortiGate devices via FortiCloud SSO, exploiting CVE-2025-59718/59719 for configuration changes and admin account creation, with a patch bypass reported for FortiOS 7.4.10. The energy sector saw Microsoft accounts compromised through SharePoint phishing, leading to credential theft and widespread internal/external phishing. Plus, a Russian national pleads guilty to a four-year Zeppelin/GlobeImposter ransomware conspiracy, causing over $1.5 million in losses.
+
+<b>🕵️‍♂️ New Techniques & Research:</b>
+<ul>
+    <li>Discover a malicious PyPI package, `sympy-dev`, deploying an XMRig miner on Linux using `memfd_create` and `/proc/self/fd` for stealthy in-memory execution.</li>
+    <li>North Korean actors are abusing Microsoft VS Code's built-in tunnelling feature for spear-phishing, gaining full remote control and bypassing traditional C2 infrastructure.</li>
+</ul>
+
+<b>⚠️ Critical Vulnerabilities Exploited:</b>
+<ul>
+    <li>Cisco's actively exploited zero-day, CVE-2026-20045, an RCE affecting Unified Communications products and Webex Calling, now on CISA's KEV catalogue.</li>
+    <li>A critical authentication bypass in SmarterTools SmarterMail (WT-2026-0001) under active exploitation, allowing admin password resets and remote code execution.</li>
+    <li>An 11-year-old flaw, CVE-2026-24061, in GNU InetUtils telnetd, actively exploited for root access via argument injection – decommission telnetd now!</li>
+</ul>
+
+<b>📈 Industry Insights & Regulatory Shifts:</b>
+<ul>
+    <li>Discussions at Davos focused on securing AI agents with zero trust, least-privilege access, and guard agents to prevent insider threats.</li>
+    <li>The Bank of England's CBEST report highlights persistent basic cyber security safeguard failures in the UK financial sector, despite years of regulation.</li>
+    <li>GDPR fines hit €1.2 billion in 2025 amidst a 22% rise in daily breach notifications, indicating increased enforcement and incident disclosures.</li>
+    <li>CISA and NIST face lawmaker scrutiny and budget constraints impacting critical programmes like post-quantum encryption validation, leading to resource reshuffling.</li>
+    <li>CIRCL launched GCVE, a decentralised system for tracking software vulnerabilities, offering an alternative to the traditional CVE programme.</li>
+</ul>]]></description>
+      <pubDate>Thu, 22 Jan 2026 20:52:03 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12BbdUHllxCEfs5KEseG-GGvVR-EHi0-Z" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1769115123184</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, January 22, 2026</title>
       <description><![CDATA[<p>Dive into the latest 24-hour cyber landscape with critical updates on active threats. We're tracking the <b>Everest ransomware group's Under Armour breach</b>, leaking 72.7 million accounts, and a sophisticated <b>mobile phishing campaign in Greece</b> using a fake cell tower. Discover the alleged leader of <b>Black Basta ransomware</b> and a critical <b>LastPass phishing campaign</b> targeting master passwords. 🎣</p>
 
