@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Saturday, January 24, 2026</title>
+      <description><![CDATA[<p>Stay ahead with <b>stdout</b>! Your daily deep dive into the critical cybersecurity developments of the last 24 hours. We're breaking down active cyber events, new attack techniques, and exploited vulnerabilities impacting organisations globally.</p>
+
+<p>🚨 This episode, we unpack recent breaches affecting UK councils and German art collections, alongside a multi-million dollar ATM jackpotting scheme. Developers beware: two malicious AI-themed VS Code extensions have exfiltrated 1.5 million installs' worth of source code and credentials to China-based servers. 💻</p>
+
+<p>Threat actors are evolving, with Okta warning of sophisticated vishing-as-a-service kits bypassing MFA, and Microsoft flagging multi-stage Adversary-in-the-Middle (AitM) phishing campaigns targeting the energy sector. 🕵️‍♂️ Learn how criminals are leveraging "Scattered Spider-style" helpdesk scams to intercept credentials.</p>
+
+<p>🔒 Critical vulnerabilities are under active exploitation: Fortinet's FortiCloud SSO bypass (CVE-2025-59718) remains exploitable despite patches, allowing unauthorised admin account creation and config exfiltration. CISA has updated its KEV catalog with four new flaws, including a PHP remote file inclusion and a supply chain attack. Plus, an 11-year-old GNU InetUtils telnetd flaw (CVE-2026-24061) is being actively exploited for unauthenticated root access. 💥</p>
+
+<p>We also discuss Australia's review of national security risks from Chinese-made electric buses, Google's warning about the imminent "Metasploit moment" for AI-powered cyberattack kits, and Microsoft's provision of BitLocker keys to the FBI. 🌐 Get the essential facts and key takeaways you need as a Cyber Security Analyst.</p>]]></description>
+      <pubDate>Fri, 23 Jan 2026 20:52:24 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TXajHZ0-T-zeZWFCVQUpNeHQLDC_tWmF" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1769201544233</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, January 23, 2026</title>
       <description><![CDATA[<b>🚨 Active Threats & Breaches:</b> Automated attacks are targeting Fortinet FortiGate devices via FortiCloud SSO, exploiting CVE-2025-59718/59719 for configuration changes and admin account creation, with a patch bypass reported for FortiOS 7.4.10. The energy sector saw Microsoft accounts compromised through SharePoint phishing, leading to credential theft and widespread internal/external phishing. Plus, a Russian national pleads guilty to a four-year Zeppelin/GlobeImposter ransomware conspiracy, causing over $1.5 million in losses.
 
