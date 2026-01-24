@@ -26,7 +26,18 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Sunday, January 25, 2026</title>
+      <description><![CDATA[<p>🚨 <strong>Active Threats & Exploits:</strong> Dive into the latest cyber skirmishes! ShinyHunters is leveraging voice phishing against Okta, Microsoft, and Google SSO for data theft and extortion. We also unpack Sandworm's unsuccessful DynoWiper attack on Poland's power grid and a multi-stage phishing campaign targeting Russia with Amnesia RAT, ransomware, and the 'defendnot' tool to disable Microsoft Defender. Plus, North Korea's Konni group is deploying AI-generated PowerShell malware against blockchain engineers in the APAC region.</p>
+
+<p>💥 <strong>Critical Vulnerabilities Under Attack:</strong> Get the lowdown on actively exploited flaws. Cisco's Unified Communications zero-day (CVE-2026-20045) is granting root privileges, while a critical VMware vCenter Server bug (CVE-2024-37079) continues to be exploited over a year after its patch. Both are now on CISA's Known Exploited Vulnerabilities catalogue, demanding immediate attention.</p>
+
+<p>🧠 <strong>Emerging Risks & Techniques:</strong> Explore the evolving threat landscape, including the significant security risks posed by AI agents in enterprise environments, challenging traditional identity and access management models. Understand how organisational agents, with their broad access and often unclear ownership, create new authorisation bypass paths.</p>]]></description>
+      <pubDate>Sat, 24 Jan 2026 20:50:28 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFPJlvJPtmNqaXBTxHw0UT6jeVfIjU0f" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1769287828436</guid>
+    </item>
+<item>
       <title>Daily News Update: Saturday, January 24, 2026</title>
       <description><![CDATA[<p>Stay ahead with <b>stdout</b>! Your daily deep dive into the critical cybersecurity developments of the last 24 hours. We're breaking down active cyber events, new attack techniques, and exploited vulnerabilities impacting organisations globally.</p>
 
