@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, January 28, 2026</title>
+      <description><![CDATA[<p>Catch up on the last 24 hours in cyber security with <b>stdout</b>! 🚀</p>
+
+<p>We're tracking major incidents, including a large-scale cyberattack on Russian firm Delta, Nike's investigation into a 1.4TB data leak claim by WorldLeaks, and ShinyHunters' alleged breaches impacting 29.8 million SoundCloud users, plus Panera Bread, CarMax, and Edmunds. Discover how China-linked Salt Typhoon allegedly accessed UK Downing Street officials' phones for years, and the DoJ's charges against 31 individuals for a $5.4 million ATM skimming scheme using Ploutus malware. 🕵️‍♀️</p>
+
+<p>Deep dive into new threat research: a malicious campaign leveraging the ClickFix method with fake CAPTCHAs and signed Microsoft App-V scripts to deliver Amatera infostealer. Learn about ShinyHunters' evolved voice-phishing targeting ~100 organisations in an Okta SSO credential-stealing operation, and the new 'Stanley' malware-as-a-service offering Chrome extensions that bypass Google's review process. We also cover the active exploitation of the high-severity WinRAR path traversal flaw (CVE-2025-8088) by state-sponsored and financially motivated groups, and Chainalysis' findings on Chinese money laundering networks processing $16.1 billion in illicit crypto. 💻</p>
+
+<p>Stay informed on critical vulnerabilities: Microsoft's out-of-band patch for an actively exploited Office zero-day (CVE-2026-21509), the critical authentication bypass in SmarterMail (CVE-2026-23760) exposing over 6,000 servers, and a critical sandbox escape in the vm2 Node.js library (CVE-2026-22709). Both Microsoft Office and SmarterMail flaws are now in CISA's Known Exploited Vulnerabilities catalogue. 🚨</p>
+
+<p>Plus, we touch on Google's $68 million privacy settlement, Microsoft's illegal tracking cookies in Austrian schools, WhatsApp's new "Strict Account Settings," and the legal challenge against the Met Police's live facial recognition. France plans to replace US videoconferencing tools with its own "Visio" app, while CISA's post-quantum cryptography guide faces criticism. Finally, an opinion piece argues for transferring the CVE programme from MITRE to the private sector. 🌐</p>]]></description>
+      <pubDate>Tue, 27 Jan 2026 20:52:02 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1miAMXdgAxmuIiijDCnrHvn5hvVPecf1S" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1769547122501</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, January 27, 2026</title>
       <description><![CDATA[**stdout**: Your daily deep dive into the cyber security landscape for technical analysts.
 
