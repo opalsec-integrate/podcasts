@@ -26,7 +26,23 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Thursday, January 29, 2026</title>
+      <description><![CDATA[<p>Your daily deep dive into the latest in cyber security. We're analysing 24 articles across seven key topics from the last 24 hours, tailored for cyber security analysts.</p>
+
+<p>🚨 <b>Active Threats & Exploits:</b> 🚨</p>
+<p>Unpack Sandworm's coordinated attack on Poland's power grid, compromising operational technology, and the "Bizarre Bazaar" campaign actively exploiting exposed Large Language Model endpoints for crypto mining and data exfiltration. We also cover significant law enforcement wins, including the takedown of Kingdom Market, Empire Market, and the RAMP cybercrime forum.</p>
+
+<p>🕵️‍♀️ <b>New Techniques & Vulnerabilities:</b> 🕵️‍♀️</p>
+<p>Discover Mustang Panda's updated CoolClient backdoor, now stealing browser data and deploying a new rootkit, alongside malicious PyPI packages (`spellcheckerpy`, `spellcheckpy`) delivering Python RATs – a stark warning about "slopsquatting." Get the lowdown on critical, actively exploited flaws: a Fortinet FortiCloud SSO zero-day (CVE-2026-24858) granting admin access, and widespread exploitation of a six-month-old WinRAR path-traversal vulnerability (CVE-2025-8088) by nation-states and cybercriminals. Plus, immediate patching advice for critical authentication bypass and RCE flaws in SolarWinds Web Help Desk, a vm2 Node.js sandbox escape (CVE-2026-22709), and n8n workflow automation RCEs (CVE-2026-1470, CVE-2026-0863).</p>
+
+<p>🌍 <b>Broader Landscape & Privacy:</b> 🌍</p>
+<p>Gartner predicts a shift to zero-trust data governance by 2028, driven by concerns over "model collapse" from unverified AI data. We examine Latin America's surge as the riskiest region for cyberattacks and the data leak risks associated with insecure Moltbot AI assistant deployments. Privacy discussions include Microsoft's alleged provision of BitLocker keys to law enforcement, the ongoing debate around online age verification, and WhatsApp's new "Strict Account Settings" for high-risk users, alongside Meta's migration to Rust for enhanced security.</p>]]></description>
+      <pubDate>Wed, 28 Jan 2026 20:52:34 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10eJuS5MlcIdADDQdA0eSW1aRRDcthFo_" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1769633554099</guid>
+    </item>
+<item>
       <title>Daily News Update: Wednesday, January 28, 2026</title>
       <description><![CDATA[<p>Catch up on the last 24 hours in cyber security with <b>stdout</b>! 🚀</p>
 
