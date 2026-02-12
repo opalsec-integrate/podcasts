@@ -26,7 +26,41 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Friday, February 13, 2026</title>
+      <description><![CDATA[<p>&#x1F525; Your daily deep dive into the latest in infosec! This <b>stdout</b> episode <b>analyses</b> critical developments from the last 24 hours, focusing on active breaches, emerging attack techniques, and exploited zero-days.</p>
+
+<p>&#x1F4A5; <b>Active Breaches & Ransomware:</b></p>
+<ul>
+    <li>Dutch mobile provider Odido suffers a cyberattack, exposing <b>6.2 million customer records</b> including names, bank details, and addresses.</li>
+    <li>Senegal grapples with "The Green Blood Group" ransomware, which exfiltrated <b>biometric data</b> and highlights regional cybersecurity maturity gaps.</li>
+    <li>A new group, 0APT, emerges with cryptographically strong ransomware binaries, despite initial victim claims being questioned.</li>
+</ul>
+
+<p>&#x1F50D; <b>New Techniques & Threat Research:</b></p>
+<ul>
+    <li>State-backed actors are actively leveraging <b>Google Gemini AI</b> for reconnaissance, vulnerability analysis, and malware development.</li>
+    <li>Ransomware groups are adopting stealthy tactics, using legitimate employee monitoring tools like Net Monitor for Employees Professional, chained with SimpleHelp RMM for network compromise.</li>
+    <li>Group-IB reports the industrialisation of supply chain attacks, with AI-assisted tools accelerating vulnerability scanning and <b>identity attacks replacing traditional malware</b>.</li>
+</ul>
+
+<p>&#x1F512; <b>Exploited Vulnerabilities:</b></p>
+<ul>
+    <li>Apple rushes out updates for a <b>critical zero-day (CVE-2026-20700)</b> in dyld, actively exploited in sophisticated, targeted attacks.</li>
+    <li>Ivanti Endpoint Manager Mobile zero-days (CVE-2026-1281, CVE-2026-1340) are seeing 83% of exploitation attempts from a single bulletproof hosting IP, consistent with initial access brokers.</li>
+</ul>
+
+<p>&#x1F4C8; <b>Broader Threat Landscape:</b></p>
+<ul>
+    <li>California fines Disney $2.75M for CCPA violations regarding data opt-out difficulties.</li>
+    <li>Hundreds of Chrome extensions found exfiltrating browsing history to data brokers.</li>
+    <li>CISA prepares for sector-specific town halls on the stalled CIRCIA regulation, seeking industry feedback.</li>
+</ul>]]></description>
+      <pubDate>Thu, 12 Feb 2026 20:51:16 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eTXR8FTXg3lic2OAoKUqNs5whHizMUV1" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1770929476599</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, February 12, 2026</title>
       <description><![CDATA[<p>🚨 <b>stdout: Your Daily Cyber Briefing</b> 🚨</p>
 <p>Dive into the last 24 hours of cyber security with stdout! We unpack critical incidents including the <b>ApolloMD data breach</b> by Qilin ransomware, impacting over 620,000 individuals. Law enforcement action saw the arrest of a <b>JokerOTP phishing-as-a-service</b> operator linked to $10M in losses, while new <b>payroll fraud</b> schemes leverage social engineering against help desks to redirect paychecks, often bypassing detections via VDI. 💸</p>
