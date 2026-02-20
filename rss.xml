@@ -26,7 +26,35 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Saturday, February 21, 2026</title>
+      <description><![CDATA[<p>Stay sharp with <b>stdout</b>! 🇦🇺 Your daily rundown of the past 24 hours in cyber security. We're tracking critical active events and exploited vulnerabilities:</p>
+
+<ul>
+    <li><b>Ransomware Strikes:</b> Japanese semiconductor supplier Advantest and the University of Mississippi Medical Centre are grappling with attacks.</li>
+    <li><b>Massive Data Breaches:</b> Wynn Resorts hit by ShinyHunters (800k employee records, SSNs), PayPal's Working Capital loan application exposed sensitive data for months, and the French Ministry of Finance's FICOBA registry compromised (1.2M accounts).</li>
+    <li><b>Exposed PII:</b> Abu Dhabi Finance Week inadvertently exposed passport details, and Ukraine's central bank store saw customer data exposed via a contractor.</li>
+</ul>
+
+<p>Unpack new attack techniques and emerging threats: 🕵️‍♀️</p>
+<ul>
+    <li><b>ATM Jackpotting:</b> The FBI warns of over 700 cases in 2025, exploiting physical and software flaws with malware like Ploutus.</li>
+    <li><b>Supply Chain Poisoning:</b> The Cline npm package (v2.3.0) was poisoned with OpenClaw via a prompt injection vulnerability.</li>
+    <li><b>Cutting-Edge Malware:</b> Discover "TrustConnect" (a fake RMM vendor selling RAT-as-a-service), PromptSpy (the first Android malware using generative AI for adaptive persistence), and "Starkiller" Phishing-as-a-Service, which bypasses MFA by proxying legitimate sites.</li>
+</ul>
+
+<p>CISA mandates urgent patching for two actively exploited Remote Code Execution (RCE) flaws: 🚨</p>
+<ul>
+    <li><b>CVE-2026-22769:</b> A maximum-severity Dell RecoverPoint for Virtual Machines bug, exploited by suspected China-nexus operators.</li>
+    <li><b>CVE-2026-1731:</b> A BeyondTrust Remote Support pre-authentication RCE, a zero-day now actively used in ransomware attacks.</li>
+</ul>
+
+<p>Gain insights into the broader threat landscape: 🌍 Volt Typhoon remains embedded in US critical infrastructure, Russia escalates hybrid attacks across Europe, and Latin America sees a 78% surge in ransomware events, becoming a cybercrime hub. Plus, regulatory updates on DSG Retail's £500k fine and X's appeal against a €120M DSA penalty. Law enforcement actions include sentences for a North Korean IT scheme facilitator and indictments for Google trade secret theft. ⚖️</p>]]></description>
+      <pubDate>Fri, 20 Feb 2026 20:52:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17KQA5pIeSvIJnZht3ksAD5JRlaX9pE63" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1771620720988</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, February 20, 2026</title>
       <description><![CDATA[**stdout: Daily Cyber Intelligence Briefing**
 
