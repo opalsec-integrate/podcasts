@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Monday, February 23, 2026</title>
+      <description><![CDATA[<p><b>stdout</b>: Your daily briefing on critical cyber security developments. 🚀</p>
+
+<p>This episode dives into two significant incidents:</p>
+<ul>
+    <li>🕵️‍♀️ <b>Arkanix Stealer:</b> We unpack the short-lived, information-stealing malware <b>analysed</b> by Kaspersky. Discover its standard data exfiltration capabilities – targeting browser data, crypto wallets, Telegram, Discord, and VPN credentials – and the premium C++ version's RDP credential theft. Crucially, research suggests Arkanix was an <b>AI-assisted experiment</b>, potentially a proof-of-concept for LLM-driven malware creation, hinting at future threat landscapes.</li>
+    <li>🚨 <b>Cornwall Council Data Breach:</b> Examine a concerning data privacy incident where a UK local authority inadvertently disclosed sensitive personal details. Learn how names, home addresses, emails, and phone numbers of complainants were shared, despite explicit redaction requests, and became unredacted upon opening files, leading to wider dissemination.</li>
+</ul>]]></description>
+      <pubDate>Sun, 22 Feb 2026 20:49:27 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uw0XNc1y0e6ZMKsada-CXXFo149RwsD9" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1771793367817</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, February 22, 2026</title>
       <description><![CDATA[<p>Dive into the latest cyber threats! 🚀 This stdout briefing uncovers a financially motivated, Russian-speaking actor leveraging commercial generative AI to compromise over 600 FortiGate firewalls across 55 countries. Discover how exposed management interfaces and weak credentials, rather than FortiGate vulnerabilities, were exploited to extract critical data and prepare for ransomware.</p>
 
