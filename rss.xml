@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Wednesday, February 25, 2026</title>
+      <description><![CDATA[<p>🚨 This episode of <b>stdout</b> dives into the latest cyber developments, tracking active threats and critical vulnerabilities from the last 24 hours. 🇦🇺</p>
+
+<p>We cover <b>ShinyHunters'</b> alleged breaches of Odido (6.2M customers) and CarGurus (12.4M records), plus arrests linked to <b>Anonymous Fénix</b> DDoS attacks. Hear about the FBI's warning on a surge in <b>ATM jackpotting</b> (700 incidents, $20M+ loss) and the UAE thwarting a "terrorist" ransomware attack utilising AI-powered tools. 💸</p>
+
+<p>On the research front, discover how Chinese AI labs are accused of "industrial-scale" distillation of models like Claude and Gemini. The <b>Lazarus Group</b> is shifting tactics with Medusa ransomware-as-a-service, while <b>UnsolicitedBooker</b> targets telcos with LuciDoor and MarsSnake backdoors. 🕵️‍♂️</p>
+
+<p>Patch up! Critical <b>SolarWinds Serv-U RCEs</b> (CVSS 9.1) are out, alongside over 1,500 vulnerabilities in popular Android mental health apps exposing sensitive data. Plus, a patched "RoguePilot" flaw in <b>GitHub Codespaces</b> could have led to silent AI agent control and GITHUB_TOKEN leakage. 💻</p>
+
+<p>CrowdStrike's latest report reveals attackers are 65% faster, with average breakout times dropping to 29 minutes, and a massive surge in cloud-focused nation-state activity. We also cover Microsoft's enhanced Purview DLP for Copilot, Reddit's £14.47M ICO fine, and calls for tighter Telegram regulation. Stay sharp! 🛡️</p>]]></description>
+      <pubDate>Tue, 24 Feb 2026 20:52:48 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1x21D1Gl4pRPUgqiC2hhzewUBo1MD-dlG" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1771966368365</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, February 24, 2026</title>
       <description><![CDATA[<p>Get your daily dive into cyber security! 🇦🇺 This episode of stdout unpacks major breaches, including France's FICOB database compromise affecting <b>1.2 million records</b>, Optimizely's data leak via sophisticated voice phishing, and Tenga's customer data exposure. We also cover a Russian-speaking actor exploiting over <b>600 FortiGate firewalls</b> globally and the arrest of 'Anonymous Fénix' members for DDoS attacks.</p>
 
