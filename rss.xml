@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Friday, February 27, 2026</title>
+      <description><![CDATA[<p>🚨 <strong>stdout: Your daily intel brief on cyber security's frontline.</strong></p>
+
+<p>This episode unpacks critical threats, starting with urgent warnings from Five Eyes and CISA on two actively exploited <strong>Cisco SD-WAN zero-days</strong> (CVE-2026-20127, CVE-2022-20775), leveraged by UAT-8616 for root access on critical infrastructure. Plus, we detail three new flaws in <strong>Claude Code collaboration tools</strong>, including RCE and API key theft, highlighting emerging AI supply chain risks. 🛠️</p>
+
+<p>🌐 Dive into active campaigns: OpenAI reveals nation-state actors using <strong>ChatGPT for influence operations</strong>, from Chinese smear campaigns to Russian geopolitical content. Microsoft warns of North Korea's "Contagious Interview" campaign deploying in-memory malware via fake <strong>Next.js job repositories</strong>. We also cover a malicious "StripeApi.Net" NuGet package aiming for API token theft and how the Scattered Lapsus$ Hunters are recruiting women for enhanced <strong>vishing social engineering</strong>. 🎣</p>
+
+<p>💸 Get the latest on industry trends: Chainalysis reports a record 28% drop in <strong>ransomware payments</strong> despite a 50% attack increase, while Veracode's report flags rising security debt and high-risk vulnerabilities as rapid <strong>AI-driven development</strong> outpaces security fixes. 🤖</p>
+
+<p>🇬🇧 Finally, see how the UK government's new <strong>Vulnerability Monitoring Service</strong> has slashed critical vulnerability fix times from 50 to just 8 days across public sector organisations. 🚀</p>]]></description>
+      <pubDate>Thu, 26 Feb 2026 20:51:18 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19JSd52p9LloRgEJQ271pV3T_KXtA3jm8" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1772139078921</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, February 26, 2026</title>
       <description><![CDATA[<p>🚨 Your essential daily briefing for Cyber Security Analysts, tracking noteworthy developments over the last 24 hours. We summarise active cyber events, new attack techniques, and exploited vulnerabilities.</p>
 
