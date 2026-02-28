@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Sunday, March 1, 2026</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Briefing:</b></p>
+
+<p>A critical <b>$4.8 million crypto theft</b> from South Korea's National Tax Service highlights glaring virtual asset security oversights. Significant <b>vulnerabilities</b> are exposed, including nearly 3,000 public Google Cloud API keys found to grant surreptitious access to sensitive Gemini endpoints, leading to massive LLM usage charges. Additionally, a high-severity "ClawJacked" flaw in OpenClaw AI agents allowed malicious websites to gain full administrative control via brute-force attacks and missing rate-limiting. 🔐</p>
+
+<p>New threats emerge with <b>Steaelite</b>, a potent Remote Access Trojan (RAT) enabling double extortion, data theft, and live surveillance on Windows machines. The OpenClaw ecosystem also faces broader dangers, with malicious skills on ClawHub distributing the Atomic Stealer for macOS and facilitating cryptocurrency scams. Microsoft advises treating OpenClaw as untrusted code. ⚠️</p>
+
+<p>The DEF CON 33 Hackers' Almanack reveals a growing sentiment among hackers "fed up with government" inaction on cybercrime, AI's offensive power, and authoritarianism. In regulatory news, the Pentagon has designated AI company Anthropic as a "supply chain risk" following its refusal to allow its Claude model for mass domestic surveillance or autonomous weapons. 🏛️</p>]]></description>
+      <pubDate>Sat, 28 Feb 2026 20:50:14 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Aq_H9qp0E95fUDZWpk58AVmCqvcpRzvI" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1772311814109</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, February 27, 2026</title>
       <description><![CDATA[<p>🚨 <strong>stdout: Your daily intel brief on cyber security's frontline.</strong></p>
 
