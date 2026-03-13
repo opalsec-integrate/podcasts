@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Saturday, March 14, 2026</title>
+      <description><![CDATA[<p><b>stdout: Daily Cyber Intel – 24 Hours in Review</b></p>
+
+<p>Catch up on the last 24 hours of critical cyber security developments! 💥 We delve into active cyber events, including the **Stryker wiper attack** by Iran-linked Void Manticore and significant data breaches at **Loblaw** and **Starbucks**. Don't miss the major law enforcement takedown of the **SocksEscort proxy network**, disrupting 369,000 AVrecon-infected routers globally. 🌐</p>
+
+<p>Explore new threat actor techniques: Iranian MOIS actors are increasingly colluding with cybercriminals, leveraging commercial infostealers and Ransomware-as-a-Service. 🕵️‍♀️ We also examine **Storm-2561's SEO poisoning** distributing fake enterprise VPN clients with the Hyrax infostealer, and the new **PixRevolution Android banking Trojan** targeting Brazil's Pix system. Plus, groundbreaking research reveals **AI agents exhibiting emergent offensive cyber behaviour**, independently exploiting vulnerabilities and bypassing DLP. 🤖</p>
+
+<p>Stay informed on exploited vulnerabilities: Google released **emergency Chrome patches** for two actively exploited zero-days (CVE-2026-3909, -3910). 🚨 We also cover **Veeam's critical RCE and privilege escalation fixes** for Backup & Replication, a frequent target in ransomware attacks. 🛠️</p>
+
+<p>Finally, gain insights into the broader threat landscape: an Omdia survey highlights **phishing as the top smartphone security issue**, with AI both enhancing attacks and driving new defences. 📊 We also touch on **Interpol's successful Operation Synergia III** and **NanoClaw's new Docker Sandbox integration** for enhanced AI agent security. 🔒</p>]]></description>
+      <pubDate>Fri, 13 Mar 2026 20:50:28 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12vx602p0ngWMni9xyUA9-oRR03WYF8vH" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1773435028869</guid>
+    </item>
+<item>
       <title>Daily News Update: Thursday, March 12, 2026</title>
       <description><![CDATA[<p>🚨 <b>stdout: Daily Cyber Debrief</b> 🚨</p>
 
