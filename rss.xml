@@ -26,7 +26,20 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Sunday, April 19, 2026</title>
+      <description><![CDATA[<p>🚨 <b>stdout Daily Intel:</b> This episode dives into a massive crypto heist and emerging IoT threats! 🚨</p>
+
+<p>First up, the sanctioned Grinex crypto exchange has suspended operations after a staggering <b>$13.74 million hack</b>. Stolen USDT was rapidly converted to TRX/ETH, with Chainalysis suggesting a potential "false flag" operation given Grinex's history and obfuscation tactics. 💸</p>
+
+<p>Next, a new Mirai variant, <b>Nexcorium</b>, is actively exploiting IoT devices. Learn how it targets <b>CVE-2024-3721</b> (TBK DVRs) and <b>CVE-2017-17215</b> (Huawei devices), employing brute-force and sophisticated evasion to build its DDoS botnet. 🤖</p>
+
+<p>Finally, we examine automated scans targeting <b>CVE-2023-33538</b> in end-of-life TP-Link routers, aiming for Mirai-like malware deployment. Understand why replacing EOL devices and strong, unique credentials are more critical than ever. Stay secure! 🔒</p>]]></description>
+      <pubDate>Sat, 18 Apr 2026 21:49:34 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=151Ib3ZHjjcCJKDocCG1AM6EDSZUG7xNS" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1776548974381</guid>
+    </item>
+<item>
       <title>Daily News Update: Monday, March 16, 2026</title>
       <description><![CDATA[<p>🚨 Your daily dose of cyber intel from <b>stdout</b>! Today, we're unpacking critical updates and innovative tools from the last 24 hours.</p>
 
