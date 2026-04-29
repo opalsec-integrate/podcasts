@@ -26,7 +26,22 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Daily News Update: Thursday, April 30, 2026</title>
+      <description><![CDATA[<p>Stay sharp with <b>stdout</b>! 🎧 Your daily briefing on the latest in cyber security. This episode unpacks critical developments from the last 24 hours, including:</p>
+
+<p>🚨 We delve into the destructive <b>Lotus Wiper</b> malware used against Venezuelan energy firms in late 2025, the alleged improper transfer of a 27-year-old GoDaddy domain, and major law enforcement busts against <b>Black Axe</b> romance scammers and "pig-butchering" crypto schemes. 💰</p>
+
+<p>🔬 Discover cutting-edge threat research: North Korea's <b>Famous Chollima</b> (aka Shifty Corsair) leveraging AI-inserted npm malware and fake job offers, the "mini Shai-Hulud" supply chain attack on SAP-related npm packages, and the stealthy <b>ClawSwarm</b> co-opting AI agents for crypto mining. Plus, how AI is uncovering 38 new vulnerabilities in OpenEMR. 💻</p>
+
+<p>⚠️ On the vulnerability front, we highlight the actively exploited critical SQL injection flaw (<b>CVE-2026-42208</b>) in BerriAI's LiteLLM, and CISA's addition of two more actively exploited vulnerabilities to its KEV catalogue: <b>CVE-2024-1708</b> (ConnectWise ScreenConnect) and <b>CVE-2026-32202</b> (Microsoft Windows Shell). 💥</p>
+
+<p>🌐 Rounding out the news, we discuss the debate over designating data centres as critical infrastructure, the EU's push for open-source age verification, Meta facing fines for Digital Services Act breaches, Microsoft's upcoming block on legacy TLS 1.0/1.1 connections to Exchange Online from July 2026, and a new portable device for detecting GPS spoofing. 📡</p>]]></description>
+      <pubDate>Wed, 29 Apr 2026 21:52:26 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12JsoijyE61pQD5Z01nFmnNyo2oWneV2U" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1777499546200</guid>
+    </item>
+<item>
       <title>Daily News Update: Tuesday, April 28, 2026</title>
       <description><![CDATA[<p>🚨 **stdout: Daily Cyber Briefing** 🚨</p>
 
