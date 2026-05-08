@@ -26,7 +26,43 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Saturday, May 9, 2026</title>
+      <description><![CDATA[<p>🚨 Dive into a packed 24 hours of cyber security developments! This episode of stdout unpacks 13 critical articles, focusing on active breaches, newly exploited vulnerabilities, and emerging threat techniques.</p>
+
+<p><strong>Breaches & Active Events:</strong></p>
+<ul>
+    <li>🎓 The <strong>ShinyHunters</strong> group claims a massive breach of <strong>Instructure's Canvas LMS</strong>, impacting ~275 million users across 9,000 educational institutions. Stolen data includes names, emails, and private messages, with a ransom deadline looming.</li>
+    <li>🕵️‍♂️ An insider threat sees a Virginia man convicted for deleting 96 government databases and unauthorised email access.</li>
+    <li>⚖️ <strong>General Motors</strong> settles for $12.75 million in California for collecting and selling driving data via OnStar without consumer consent.</li>
+    <li>🏛️ The administrator of the dark web marketplace <strong>Kingdom Market</strong> receives over 16 years in prison for drug conspiracy.</li>
+</ul>
+
+<p><strong>Exploited Vulnerabilities:</strong></p>
+<ul>
+    <li>📱 <strong>Ivanti Endpoint Manager Mobile</strong> faces another actively exploited zero-day, <strong>CVE-2026-6973</strong>, allowing authenticated RCE and now listed in CISA's KEV catalogue. Patches are available.</li>
+    <li>🐧 A new, unpatched Linux kernel local privilege escalation flaw, "<strong>Dirty Frag</strong>," chains two older vulnerabilities to grant root access on major distributions. A public PoC exists, with a temporary workaround available.</li>
+    <li>🤖 A critical flaw in <strong>Anthropic's Claude AI Chrome extension</strong> allows other browser plugins to bypass safety guardrails and exfiltrate data from services like Google Drive.</li>
+</ul>
+
+<p><strong>New Threat Techniques & Research:</strong></p>
+<ul>
+    <li>😈 Discover "<strong>PamDOORa</strong>," a new Linux backdoor advertised on Russian forums, offering persistent SSH access, credential harvesting, and anti-forensic capabilities.</li>
+    <li>☁️ SentinelLabs identifies "<strong>PCPJack</strong>," a novel cloud worm targeting exposed Docker, Kubernetes, and MongoDB instances, uniquely removing competitor malware before establishing control and harvesting credentials.</li>
+</ul>
+
+<p><strong>Threat Landscape & Policy Shifts:</strong></p>
+<ul>
+    <li>📊 Mozilla reports a significant surge in Firefox bug fixes, with 271 attributed to <strong>Anthropic's Mythos Preview AI model</strong>, sparking debate on AI's role in security detection.</li>
+    <li>🔒 A new report highlights critical gaps in traditional SOC operations, revealing that nearly 1% of confirmed incidents originate from low-severity alerts, and suggests AI-driven SOCs as a solution.</li>
+    <li>🚫 <strong>Meta</strong> quietly reverses its push for end-to-end encryption on Instagram DMs, raising privacy concerns.</li>
+    <li>🏛️ Senator Schumer calls on DHS to develop a comprehensive plan for coordinating <strong>AI cyber defences</strong> with state and local governments by July 1st.</li>
+</ul>]]></description>
+      <pubDate>Fri, 08 May 2026 21:51:34 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yiOtGrihDZ1QVoiA-VXaROFF-CJxg71V" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1778277094644</guid>
+    </item>
+<item>
       <title>Daily News Update: Friday, May 8, 2026</title>
       <description><![CDATA[<p>🚨 <strong>stdout Daily Brief: APT37's Supply Chain Strike!</strong> 🚨</p>
 <p>Get the facts on a critical cyber development. stdout <strong>analyses</strong> a sophisticated supply-chain attack by North Korean state-sponsored group <strong>APT37 (RedEyes)</strong>. They've compromised the Sqgame card game platform to target ethnic Koreans in China's Yanbian region, distributing the potent <strong>BirdCall backdoor</strong>. 🕵️‍♂️</p>
