@@ -26,7 +26,26 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44439246/44439246-1758158096542-bb2824b85de8c.jpg"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Daily News Update: Monday, May 11, 2026</title>
+      <description><![CDATA[<p>🚨 Dive into the latest cyber threats! This episode of stdout unpacks critical vulnerabilities in Ollama and the evolving landscape of AI agent identity security.</p>
+
+<p><strong>Ollama Under Fire: "Bleeding Llama" & Persistent Execution</strong></p>
+<ul>
+    <li>🔥 We analyse the severe heap out-of-bounds read flaw (CVE-2026-7482, CVSS 9.1) dubbed "Bleeding Llama" affecting Ollama versions prior to 0.17.1. Discover how a crafted GGUF file can enable remote, unauthenticated attackers to leak sensitive process memory, including API keys and user conversation data, from potentially over 300,000 servers.</li>
+    <li>💻 Plus, two unpatched flaws (CVE-2026-42248, CVE-2026-42249) in Ollama's Windows update mechanism allow persistent code execution. Learn how missing signature verification and path traversal can be chained to write arbitrary executables to the Windows Startup folder, impacting versions 0.12.10 through 0.22.0. We provide crucial mitigation advice.</li>
+</ul>
+
+<p><strong>AI Agents & The Identity Tax: New Budget Dynamics</strong></p>
+<ul>
+    <li>💰 Explore new Omdia research revealing a significant shift in identity security funding for AI agents. With 45% of enterprises now using standalone AI project budgets, identity teams are leveraging this "identity tax" to secure expanding AI agent populations.</li>
+    <li>🛡️ Understand the expanded attack surface and the need for new layers of visibility, fine-grained access management, and governance for AI agents. We discuss why security teams must engage early with AI initiatives to educate stakeholders on these critical requirements.</li>
+</ul>]]></description>
+      <pubDate>Sun, 10 May 2026 21:49:43 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XxddKJDwz3GuG006HKWLe9415-djqkvm" length="1234567" type="audio/mpeg"/>
+      <guid isPermaLink="false">1778449783519</guid>
+    </item>
+<item>
       <title>Daily News Update: Sunday, May 10, 2026</title>
       <description><![CDATA[<p>🚨 <b>Critical cPanel & WHM Updates:</b> Get the rundown on urgent security advisories for <b>cPanel and Web Host Manager</b>. We detail three new vulnerabilities: CVE-2026-29201 (arbitrary file reads), CVE-2026-29202 (CVSS 8.8, arbitrary Perl code execution), and CVE-2026-29203 (CVSS 8.8, unsafe symlink handling leading to DoS/privilege escalation). Immediate patching is advised, especially given recent zero-day exploitation of a previous cPanel flaw to deploy Mirai botnet variants and Sorry ransomware.</p>
 
